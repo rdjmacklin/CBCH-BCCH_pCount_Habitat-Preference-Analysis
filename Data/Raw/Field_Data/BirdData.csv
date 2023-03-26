@@ -1,0 +1,1067 @@
+SheetNo,GPSMarker,RecordingFileName,Region,TransectID,Site,Point,Visit,LatitudeHr,LatitudeMin,LatitudeSec,LongitudeHr,LongitudeMin,LongitudeSec,Elevation,Year,Month,Day,CloudCover,Precipitation,BeaufortWindScale,nHikers,Observer,StartTimeHr,StartTimeMin,BirdNo,Species,DistanceBin,TimeBin,Quadrant,Flock,IndividualComments,RecordingChecks,SurveyComments
+1,24,STE-039,LowerMainland,1,CRRP,1,1,49,21,287,123,6,736,80,2023,2,8,0,0,1,,RM,7,56,1,GCKI,A,A,1,,,,
+1,24,STE-039,LowerMainland,1,CRRP,1,1,49,21,287,123,6,736,80,2023,2,8,0,0,1,,RM,7,56,2,CBCH,A,A,1,,,,
+1,24,STE-039,LowerMainland,1,CRRP,1,1,49,21,287,123,6,736,80,2023,2,8,0,0,1,,RM,7,56,3,UNID,B,A,1,,Countercall Bird 6,,
+1,24,STE-039,LowerMainland,1,CRRP,1,1,49,21,287,123,6,736,80,2023,2,8,0,0,1,,RM,7,56,4,PAWR,B,B,1,,Check time: 2.5-5 min or 5-7.5 min,,
+1,24,STE-039,LowerMainland,1,CRRP,1,1,49,21,287,123,6,736,80,2023,2,8,0,0,1,,RM,7,56,5,GCKI,A,A,4,,,,
+1,24,STE-039,LowerMainland,1,CRRP,1,1,49,21,287,123,6,736,80,2023,2,8,0,0,1,,RM,7,56,6,UNID,B,A,4,,Countercall Bird 3,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,1,BCCH,A,A,1,,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,2,BCCH,A,B,1,,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,3,BCCH,A,B,1,,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,4,EUST,A,B,1,,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,5,EUST,A,B,1,,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,6,EUST,A,B,1,,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,7,EUST,A,B,1,,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,8,EUST,A,B,1,,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,9,EUST,A,B,1,,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,10,EUST,A,B,1,,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,11,EUST,A,B,1,,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,12,NOFL,A,B,1,,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,13,BCCH,B,B,1,,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,14,AMCR,C,A,1,,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,15,SOSP,C,C,1,,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,16,DEJU,A,A,2,,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,17,NOFL,A,A,2,,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,18,DEJU,A,B,2,,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,19,BCCH,A,C,2,,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,20,BCCH,A,C,2,,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,21,STJA,C,A,2,,Countercall Bird 22,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,22,STJA,C,A,2,,Countercall Bird 21,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,23,SPTO,A,A,3,,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,24,BCCH,A,D,3,,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,25,BCCH,B,A,3,,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,26,STJA,B,B,3,,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,27,BCCH,B,C,3,,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,28,UNID,B,D,3,,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,29,SOSP,C,C,3,,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,30,EUST,E,D,3,,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,31,EUST,E,D,3,,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,32,EUST,E,D,3,,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,33,EUST,E,D,3,,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,34,EUST,E,D,3,,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,35,EUST,E,D,3,,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,36,AMRO,A,A,4,,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,37,NOFL,A,D,4,,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,38,AMRO,C,A,4,,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,39,EUST,F,,,1,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,40,EUST,F,,,1,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,41,EUST,F,,,1,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,42,EUST,F,,,1,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,43,EUST,F,,,1,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,44,EUST,F,,,1,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,45,EUST,F,,,1,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,46,EUST,F,,,1,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,47,EUST,F,,,1,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,48,EUST,F,,,1,,,
+2,25,STE-040,LowerMainland,1,CLPA,1,1,49,21,595,123,6,122,180,2023,2,8,70,0,0,,RM,9,7,49,EUST,F,,,,,,
+3,26,STE-041,LowerMainland,1,BCMC,1,1,49,22,205,123,5,810,319,2023,2,8,95,0,0,,RM,10,20,1,ANHU,A,C,1,,,,Ridge w/ dense young cedars along
+3,26,STE-041,LowerMainland,1,BCMC,1,1,49,22,205,123,5,810,319,2023,2,8,95,0,0,,RM,10,20,2,PAWR,A,D,4,,,,Ridge w/ dense young cedars along
+3,26,STE-041,LowerMainland,1,BCMC,1,1,49,22,205,123,5,810,319,2023,2,8,95,0,0,,RM,10,20,3,GCKI,B,C,4,,Could be CBCH? Check recording.,,Ridge w/ dense young cedars along
+3,26,STE-041,LowerMainland,1,BCMC,1,1,49,22,205,123,5,810,319,2023,2,8,95,0,0,,RM,10,20,4,CORA,E,B,4,,,,Ridge w/ dense young cedars along
+3,26,STE-041,LowerMainland,1,BCMC,1,1,49,22,205,123,5,810,319,2023,2,8,95,0,0,,RM,10,20,5,CORA,E,B,4,,,,Ridge w/ dense young cedars along
+3,26,STE-041,LowerMainland,1,BCMC,1,1,49,22,205,123,5,810,319,2023,2,8,95,0,0,,RM,10,20,6,CORA,F,,,,,,Ridge w/ dense young cedars along
+4,27,STE-042,LowerMainland,1,BCMC,2,1,49,22,281,123,5,592,385,2023,2,8,100,0,0,2,RM,11,11,1,GCKI,B,D,2,,,,"Some stream noise, maybe have hidden high canopy calls. Lots of ""am I imagining that call?"" moments."
+5,28,STE-043,LowerMainland,1,BCMC,3,1,49,22,328,123,5,500,491,2023,2,8,100,0,0,5,RM,12,3,1,PAWR,B,D,4,,Moved to Q4 Distance Bin A,Possible CBCH 3 min? Check recording. Stream noise an issue.,
+6,29,STE-044,LowerMainland,1,BCMC,4,1,49,22,295,123,5,350,592,2023,2,8,100,0,0,,RM,12,51,1,RBNU,D,D,2,,,Possible CBCH NW around 0:30-2:30. Check recording.,
+6,29,STE-044,LowerMainland,1,BCMC,4,1,49,22,295,123,5,350,592,2023,2,8,100,0,0,,RM,12,51,2,RBNU,C,A,3,,Moved N within Q3 Distance Bin C,Possible CBCH NW around 0:30-2:30. Check recording.,
+6,29,STE-044,LowerMainland,1,BCMC,4,1,49,22,295,123,5,350,592,2023,2,8,100,0,0,,RM,12,51,3,AMCR,E,A,3,,,Possible CBCH NW around 0:30-2:30. Check recording.,
+6,29,STE-044,LowerMainland,1,BCMC,4,1,49,22,295,123,5,350,592,2023,2,8,100,0,0,,RM,12,51,4,GCKI,B,A,4,,,Possible CBCH NW around 0:30-2:30. Check recording.,
+6,29,STE-044,LowerMainland,1,BCMC,4,1,49,22,295,123,5,350,592,2023,2,8,100,0,0,,RM,12,51,5,PAWR,E,A,4,,Could be the stream. Check recording.,Possible CBCH NW around 0:30-2:30. Check recording.,
+7,30,STE-045,LowerMainland,1,BCMC,5,1,49,22,306,123,5,248,689,2023,2,8,100,0,0,,RM,13,35,1,PISI,A,A,1,,PISI or CBCH? Check recording.,,
+7,30,STE-045,LowerMainland,1,BCMC,5,1,49,22,306,123,5,248,689,2023,2,8,100,0,0,,RM,13,35,2,VATH,B,C,1,,Uncertain. Check recording.,,
+7,30,STE-045,LowerMainland,1,BCMC,5,1,49,22,306,123,5,248,689,2023,2,8,100,0,0,,RM,13,35,3,CBCH,A,A,2,,,,
+7,30,STE-045,LowerMainland,1,BCMC,5,1,49,22,306,123,5,248,689,2023,2,8,100,0,0,,RM,13,35,4,BAEA,B,A,2,,,,
+7,30,STE-045,LowerMainland,1,BCMC,5,1,49,22,306,123,5,248,689,2023,2,8,100,0,0,,RM,13,35,5,CORA,C,A,2,,,,
+7,30,STE-045,LowerMainland,1,BCMC,5,1,49,22,306,123,5,248,689,2023,2,8,100,0,0,,RM,13,35,6,CBCH,A,A,3,,,,
+7,30,STE-045,LowerMainland,1,BCMC,5,1,49,22,306,123,5,248,689,2023,2,8,100,0,0,,RM,13,35,7,UNID,B,D,3,,Moved S,,
+7,30,STE-045,LowerMainland,1,BCMC,5,1,49,22,306,123,5,248,689,2023,2,8,100,0,0,,RM,13,35,8,VATH,B,D,3,1,Moved S,,
+7,30,STE-045,LowerMainland,1,BCMC,5,1,49,22,306,123,5,248,689,2023,2,8,100,0,0,,RM,13,35,9,VATH,B,D,3,1,Moved S,,
+7,30,STE-045,LowerMainland,1,BCMC,5,1,49,22,306,123,5,248,689,2023,2,8,100,0,0,,RM,13,35,10,VATH,B,D,3,1,Moved S,,
+7,30,STE-045,LowerMainland,1,BCMC,5,1,49,22,306,123,5,248,689,2023,2,8,100,0,0,,RM,13,35,11,CORA,C,A,3,,,,
+7,30,STE-045,LowerMainland,1,BCMC,5,1,49,22,306,123,5,248,689,2023,2,8,100,0,0,,RM,13,35,12,GULL,E,B,4,,,,
+8,31,STE-046,LowerMainland,1,BCMC,6,1,49,22,302,123,5,85,808,2023,2,8,100,0,0,2,RM,14,22,1,CBCH,A,C,2,,Countercall Bird 5,,
+8,31,STE-046,LowerMainland,1,BCMC,6,1,49,22,302,123,5,85,808,2023,2,8,100,0,0,2,RM,14,22,2,CBCH,B,A,2,,,,
+8,31,STE-046,LowerMainland,1,BCMC,6,1,49,22,302,123,5,85,808,2023,2,8,100,0,0,2,RM,14,22,3,RBNU,E,A,2,,,,
+8,31,STE-046,LowerMainland,1,BCMC,6,1,49,22,302,123,5,85,808,2023,2,8,100,0,0,2,RM,14,22,4,CBCH,A,C,3,,,,
+8,31,STE-046,LowerMainland,1,BCMC,6,1,49,22,302,123,5,85,808,2023,2,8,100,0,0,2,RM,14,22,5,VATH,C,C,3,,Uncertain. Check recording.,,
+8,31,STE-046,LowerMainland,1,BCMC,6,1,49,22,302,123,5,85,808,2023,2,8,100,0,0,2,RM,14,22,6,CORA,E,C,3,,,,
+8,31,STE-046,LowerMainland,1,BCMC,6,1,49,22,302,123,5,85,808,2023,2,8,100,0,0,2,RM,14,22,7,CBCH,A,A,4,,Countercall Bird 1,,
+8,31,STE-046,LowerMainland,1,BCMC,6,1,49,22,302,123,5,85,808,2023,2,8,100,0,0,2,RM,14,22,8,CBCH,B,A,4,,,,
+9,32,STE-047,LowerMainland,2,CDCY,1,1,49,21,552,123,6,860,170,2023,2,10,100,0,1,5,RM,8,17,1,RBNU,B,A,1,,,,
+9,32,STE-047,LowerMainland,2,CDCY,1,1,49,21,552,123,6,860,170,2023,2,10,100,0,1,5,RM,8,17,2,CBCH,B,D,2,,"CBCH or BCCH? Check recording. Part of a flock noted after survey, should be CBCH but confirm.",,
+9,32,STE-047,LowerMainland,2,CDCY,1,1,49,21,552,123,6,860,170,2023,2,10,100,0,1,5,RM,8,17,3,RBNU,C,C,2,,,,
+9,32,STE-047,LowerMainland,2,CDCY,1,1,49,21,552,123,6,860,170,2023,2,10,100,0,1,5,RM,8,17,4,GCKI,A,A,3,,Moved NE to Q1 Distance Bin B. Potential flock with Bird 5,,
+9,32,STE-047,LowerMainland,2,CDCY,1,1,49,21,552,123,6,860,170,2023,2,10,100,0,1,5,RM,8,17,5,GCKI,A,A,3,,Moved NE to Q1 Distance Bin B. Potential flock with Bird 4,,
+9,32,STE-047,LowerMainland,2,CDCY,1,1,49,21,552,123,6,860,170,2023,2,10,100,0,1,5,RM,8,17,6,AMCR,C,C,3,,,,
+9,32,STE-047,LowerMainland,2,CDCY,1,1,49,21,552,123,6,860,170,2023,2,10,100,0,1,5,RM,8,17,7,CORA,C,A,4,,,,
+9,32,STE-047,LowerMainland,2,CDCY,1,1,49,21,552,123,6,860,170,2023,2,10,100,0,1,5,RM,8,17,8,PAWR,B,A,4,,,,
+10,33,STE-048,LowerMainland,2,CDCY,2,1,49,21,585,123,7,541,220,2023,2,10,100,1,0,,RM,9,1,1,AMCR,C,A,1,,,,
+10,33,STE-048,LowerMainland,2,CDCY,2,1,49,21,585,123,7,541,220,2023,2,10,100,1,0,,RM,9,1,2,AMCR,C,A,1,,,,
+10,33,STE-048,LowerMainland,2,CDCY,2,1,49,21,585,123,7,541,220,2023,2,10,100,1,0,,RM,9,1,3,AMCR,D,A,1,,,,
+10,33,STE-048,LowerMainland,2,CDCY,2,1,49,21,585,123,7,541,220,2023,2,10,100,1,0,,RM,9,1,4,STJA,D,C,1,,,,
+10,33,STE-048,LowerMainland,2,CDCY,2,1,49,21,585,123,7,541,220,2023,2,10,100,1,0,,RM,9,1,5,CORA,D,C,1,,,,
+10,33,STE-048,LowerMainland,2,CDCY,2,1,49,21,585,123,7,541,220,2023,2,10,100,1,0,,RM,9,1,6,CORA,D,D,1,,,,
+10,33,STE-048,LowerMainland,2,CDCY,2,1,49,21,585,123,7,541,220,2023,2,10,100,1,0,,RM,9,1,7,AMCR,D,A,2,,,,
+10,33,STE-048,LowerMainland,2,CDCY,2,1,49,21,585,123,7,541,220,2023,2,10,100,1,0,,RM,9,1,8,AMCR,D,A,2,,,,
+10,33,STE-048,LowerMainland,2,CDCY,2,1,49,21,585,123,7,541,220,2023,2,10,100,1,0,,RM,9,1,9,AMCR,D,A,2,,,,
+10,33,STE-048,LowerMainland,2,CDCY,2,1,49,21,585,123,7,541,220,2023,2,10,100,1,0,,RM,9,1,10,DEJU,A,B,3,,,,
+10,33,STE-048,LowerMainland,2,CDCY,2,1,49,21,585,123,7,541,220,2023,2,10,100,1,0,,RM,9,1,11,ANHU,B,D,3,,,,
+10,33,STE-048,LowerMainland,2,CDCY,2,1,49,21,585,123,7,541,220,2023,2,10,100,1,0,,RM,9,1,12,AMCR,A,A,4,,Moved NNE to Q1 Distance Bin C.,,
+10,33,STE-048,LowerMainland,2,CDCY,2,1,49,21,585,123,7,541,220,2023,2,10,100,1,0,,RM,9,1,13,HOFI,B,B,4,,Uncertain. Check recording.,,
+10,33,STE-048,LowerMainland,2,CDCY,2,1,49,21,585,123,7,541,220,2023,2,10,100,1,0,,RM,9,1,14,BCCH,B,B,4,,,,
+10,33,STE-048,LowerMainland,2,CDCY,2,1,49,21,585,123,7,541,220,2023,2,10,100,1,0,,RM,9,1,15,STJA,C,A,4,,,,
+10,33,STE-048,LowerMainland,2,CDCY,2,1,49,21,585,123,7,541,220,2023,2,10,100,1,0,,RM,9,1,16,SOSP,C,D,4,,,,
+10,33,STE-048,LowerMainland,2,CDCY,2,1,49,21,585,123,7,541,220,2023,2,10,100,1,0,,RM,9,1,17,AMCR,D,A,4,,,,
+10,33,STE-048,LowerMainland,2,CDCY,2,1,49,21,585,123,7,541,220,2023,2,10,100,1,0,,RM,9,1,18,BCCH,D,B,4,,,,
+10,33,STE-048,LowerMainland,2,CDCY,2,1,49,21,585,123,7,541,220,2023,2,10,100,1,0,,RM,9,1,19,BCCH,D,B,4,,,,
+11,34,STE-049,LowerMainland,2,CDCY,3,1,49,21,584,123,7,771,282,2023,2,10,100,0,0,,RM,9,30,1,AMRO,A,A,1,,,,
+11,34,STE-049,LowerMainland,2,CDCY,3,1,49,21,584,123,7,771,282,2023,2,10,100,0,0,,RM,9,30,2,DEJU,A,D,1,,Uncertain. Check recording (~9:30).,,
+11,34,STE-049,LowerMainland,2,CDCY,3,1,49,21,584,123,7,771,282,2023,2,10,100,0,0,,RM,9,30,3,STJA,B,D,1,,,,
+11,34,STE-049,LowerMainland,2,CDCY,3,1,49,21,584,123,7,771,282,2023,2,10,100,0,0,,RM,9,30,4,RBNU,D,A,1,,,,
+11,34,STE-049,LowerMainland,2,CDCY,3,1,49,21,584,123,7,771,282,2023,2,10,100,0,0,,RM,9,30,5,CORA,D,B,2,,,,
+11,34,STE-049,LowerMainland,2,CDCY,3,1,49,21,584,123,7,771,282,2023,2,10,100,0,0,,RM,9,30,6,AMCR,B,A,3,,Moved NE.,,
+11,34,STE-049,LowerMainland,2,CDCY,3,1,49,21,584,123,7,771,282,2023,2,10,100,0,0,,RM,9,30,7,AMCR,C,A,3,,,,
+11,34,STE-049,LowerMainland,2,CDCY,3,1,49,21,584,123,7,771,282,2023,2,10,100,0,0,,RM,9,30,8,BCCH,C,C,3,,Moved N to Q4 Distance Bin A. Potentially same individual as Bird 10.,,
+11,34,STE-049,LowerMainland,2,CDCY,3,1,49,21,584,123,7,771,282,2023,2,10,100,0,0,,RM,9,30,9,STJA,C,C,3,,,,
+11,34,STE-049,LowerMainland,2,CDCY,3,1,49,21,584,123,7,771,282,2023,2,10,100,0,0,,RM,9,30,10,BCCH,A,D,4,,Potentially same individual as Bird 8.,,
+11,34,STE-049,LowerMainland,2,CDCY,3,1,49,21,584,123,7,771,282,2023,2,10,100,0,0,,RM,9,30,11,BEWR,B,C,4,,Might be DEJU? Check recording.,,
+11,34,STE-049,LowerMainland,2,CDCY,3,1,49,21,584,123,7,771,282,2023,2,10,100,0,0,,RM,9,30,12,RBNU,B,D,4,,,,
+11,34,STE-049,LowerMainland,2,CDCY,3,1,49,21,584,123,7,771,282,2023,2,10,100,0,0,,RM,9,30,13,AMCR,D,A,4,,,,
+11,34,STE-049,LowerMainland,2,CDCY,3,1,49,21,584,123,7,771,282,2023,2,10,100,0,0,,RM,9,30,14,AMCR,D,A,4,,,,
+12,35,STE-050,LowerMainland,2,CDCY,4,1,49,21,345,123,9,435,421,2023,2,10,100,1,0,,RM,10,37,1,GCKI,B,A,2,,,,Road and stream noise likely a factor.
+12,35,STE-050,LowerMainland,2,CDCY,4,1,49,21,345,123,9,435,421,2023,2,10,100,1,0,,RM,10,37,2,CORA,E,C,3,,,,Road and stream noise likely a factor.
+13,36,STE-051,LowerMainland,2,CDCY,5,1,49,21,573,123,9,452,541,2023,2,10,100,1,1,,RM,11,17,1,DEJU,A,A,1,1,Flock moved to Q4 Distance Bin A & B.,"Potential CBCH 6:30 NW, 50-75m. Check recording.",Road noise still a factor. Powerline cut. Beafort Wind Scale up to 3.
+13,36,STE-051,LowerMainland,2,CDCY,5,1,49,21,573,123,9,452,541,2023,2,10,100,1,1,,RM,11,17,2,DEJU,A,A,1,1,Flock moved to Q4 Distance Bin A & B.,"Potential CBCH 6:30 NW, 50-75m. Check recording.",Road noise still a factor. Powerline cut. Beafort Wind Scale up to 3.
+13,36,STE-051,LowerMainland,2,CDCY,5,1,49,21,573,123,9,452,541,2023,2,10,100,1,1,,RM,11,17,3,DEJU,A,A,1,1,Flock moved to Q4 Distance Bin A & B.,"Potential CBCH 6:30 NW, 50-75m. Check recording.",Road noise still a factor. Powerline cut. Beafort Wind Scale up to 3.
+13,36,STE-051,LowerMainland,2,CDCY,5,1,49,21,573,123,9,452,541,2023,2,10,100,1,1,,RM,11,17,4,DEJU,A,A,1,1,Flock moved to Q4 Distance Bin A & B.,"Potential CBCH 6:30 NW, 50-75m. Check recording.",Road noise still a factor. Powerline cut. Beafort Wind Scale up to 3.
+13,36,STE-051,LowerMainland,2,CDCY,5,1,49,21,573,123,9,452,541,2023,2,10,100,1,1,,RM,11,17,5,PISI,A,D,1,2,Flock moved S.,"Potential CBCH 6:30 NW, 50-75m. Check recording.",Road noise still a factor. Powerline cut. Beafort Wind Scale up to 3.
+13,36,STE-051,LowerMainland,2,CDCY,5,1,49,21,573,123,9,452,541,2023,2,10,100,1,1,,RM,11,17,6,PISI,A,D,1,2,,"Potential CBCH 6:30 NW, 50-75m. Check recording.",Road noise still a factor. Powerline cut. Beafort Wind Scale up to 3.
+13,36,STE-051,LowerMainland,2,CDCY,5,1,49,21,573,123,9,452,541,2023,2,10,100,1,1,,RM,11,17,7,PISI,A,D,1,2,,"Potential CBCH 6:30 NW, 50-75m. Check recording.",Road noise still a factor. Powerline cut. Beafort Wind Scale up to 3.
+13,36,STE-051,LowerMainland,2,CDCY,5,1,49,21,573,123,9,452,541,2023,2,10,100,1,1,,RM,11,17,8,BRCR,B,B,1,,,"Potential CBCH 6:30 NW, 50-75m. Check recording.",Road noise still a factor. Powerline cut. Beafort Wind Scale up to 3.
+13,36,STE-051,LowerMainland,2,CDCY,5,1,49,21,573,123,9,452,541,2023,2,10,100,1,1,,RM,11,17,9,CORA,D,B,1,,,"Potential CBCH 6:30 NW, 50-75m. Check recording.",Road noise still a factor. Powerline cut. Beafort Wind Scale up to 3.
+13,36,STE-051,LowerMainland,2,CDCY,5,1,49,21,573,123,9,452,541,2023,2,10,100,1,1,,RM,11,17,10,CORA,D,B,3,,,"Potential CBCH 6:30 NW, 50-75m. Check recording.",Road noise still a factor. Powerline cut. Beafort Wind Scale up to 3.
+13,36,STE-051,LowerMainland,2,CDCY,5,1,49,21,573,123,9,452,541,2023,2,10,100,1,1,,RM,11,17,11,DEJU,A,A,4,1,Flock moved to Q4 Distance Bin A & B.,"Potential CBCH 6:30 NW, 50-75m. Check recording.",Road noise still a factor. Powerline cut. Beafort Wind Scale up to 3.
+13,36,STE-051,LowerMainland,2,CDCY,5,1,49,21,573,123,9,452,541,2023,2,10,100,1,1,,RM,11,17,12,DEJU,A,A,4,1,Flock moved to Q4 Distance Bin A & B.,"Potential CBCH 6:30 NW, 50-75m. Check recording.",Road noise still a factor. Powerline cut. Beafort Wind Scale up to 3.
+13,36,STE-051,LowerMainland,2,CDCY,5,1,49,21,573,123,9,452,541,2023,2,10,100,1,1,,RM,11,17,13,CORA,A,A,4,,Moved ESE.,"Potential CBCH 6:30 NW, 50-75m. Check recording.",Road noise still a factor. Powerline cut. Beafort Wind Scale up to 3.
+13,36,STE-051,LowerMainland,2,CDCY,5,1,49,21,573,123,9,452,541,2023,2,10,100,1,1,,RM,11,17,14,CORA,D,B,4,,,"Potential CBCH 6:30 NW, 50-75m. Check recording.",Road noise still a factor. Powerline cut. Beafort Wind Scale up to 3.
+13,36,STE-051,LowerMainland,2,CDCY,5,1,49,21,573,123,9,452,541,2023,2,10,100,1,1,,RM,11,17,15,CORA,E,C,4,,,"Potential CBCH 6:30 NW, 50-75m. Check recording.",Road noise still a factor. Powerline cut. Beafort Wind Scale up to 3.
+13,36,STE-051,LowerMainland,2,CDCY,5,1,49,21,573,123,9,452,541,2023,2,10,100,1,1,,RM,11,17,16,CORA,E,C,4,,,"Potential CBCH 6:30 NW, 50-75m. Check recording.",Road noise still a factor. Powerline cut. Beafort Wind Scale up to 3.
+14,37,STE-052,LowerMainland,2,CDCY,6,1,49,21,853,123,9,679,627,2023,2,10,100,1,1,,RM,11,55,,,,,,,,"Potential CBCH 6:30 S, <25m. Potential CBCH NE at 10:10, <25m.","Lots of water noise, confluence of 2 streams. Lots of ""am I hearing something?"" moments."
+15,38,STE-053,LowerMainland,2,CDCY,7,1,49,22,110,123,9,866,712,2023,2,10,100,1,1,,RM,12,28,1,VATH,A,B,1,1,Flock moved S.,,Beaufort Wind Scale up to 2 at times.
+15,38,STE-053,LowerMainland,2,CDCY,7,1,49,22,110,123,9,866,712,2023,2,10,100,1,1,,RM,12,28,2,VATH,B,A,1,1,Flock moved S. Countercall Bird 3.,,Beaufort Wind Scale up to 2 at times.
+15,38,STE-053,LowerMainland,2,CDCY,7,1,49,22,110,123,9,866,712,2023,2,10,100,1,1,,RM,12,28,3,VATH,B,A,1,1,Flock moved S. Countercall Bird 2.,,Beaufort Wind Scale up to 2 at times.
+15,38,STE-053,LowerMainland,2,CDCY,7,1,49,22,110,123,9,866,712,2023,2,10,100,1,1,,RM,12,28,4,PISI,C,C,2,,,,Beaufort Wind Scale up to 2 at times.
+16,39,STE-055,LowerMainland,2,CDCY,8,1,49,22,442,123,10,175,821,2023,2,10,90,0,1,,RM,13,13,1,CORA,E,B,1,,,,Slight stream noise.
+16,39,STE-055,LowerMainland,2,CDCY,8,1,49,22,442,123,10,175,821,2023,2,10,90,0,1,,RM,13,13,2,CBCH,B,A,4,,,,Slight stream noise.
+16,39,STE-055,LowerMainland,2,CDCY,8,1,49,22,442,123,10,175,821,2023,2,10,90,0,1,,RM,13,13,3,PISI,C,C,4,1,Flock moved E.,,Slight stream noise.
+16,39,STE-055,LowerMainland,2,CDCY,8,1,49,22,442,123,10,175,821,2023,2,10,90,0,1,,RM,13,13,4,PISI,C,C,4,1,Flock moved E.,,Slight stream noise.
+16,39,STE-055,LowerMainland,2,CDCY,8,1,49,22,442,123,10,175,821,2023,2,10,90,0,1,,RM,13,13,5,PISI,C,C,4,1,Flock moved E.,,Slight stream noise.
+16,39,STE-055,LowerMainland,2,CDCY,8,1,49,22,442,123,10,175,821,2023,2,10,90,0,1,,RM,13,13,6,PISI,C,C,4,1,Flock moved E.,,Slight stream noise.
+17,40,STE-056,LowerMainland,3,HALU,1,1,49,20,129,122,51,275,160,2023,2,11,100,0,0,,RM,8,22,1,GCKI,A,A,1,,,,
+17,40,STE-056,LowerMainland,3,HALU,1,1,49,20,129,122,51,275,160,2023,2,11,100,0,0,,RM,8,22,2,RBNU,D,A,1,,,,
+17,40,STE-056,LowerMainland,3,HALU,1,1,49,20,129,122,51,275,160,2023,2,11,100,0,0,,RM,8,22,3,CBCH,A,B,2,,,,
+17,40,STE-056,LowerMainland,3,HALU,1,1,49,20,129,122,51,275,160,2023,2,11,100,0,0,,RM,8,22,4,UNID,A,B,2,,GCKI? 5:00.,,
+17,40,STE-056,LowerMainland,3,HALU,1,1,49,20,129,122,51,275,160,2023,2,11,100,0,0,,RM,8,22,5,GCKI,A,A,3,,,,
+17,40,STE-056,LowerMainland,3,HALU,1,1,49,20,129,122,51,275,160,2023,2,11,100,0,0,,RM,8,22,6,CORA,C,A,3,,Moved NW.,,
+17,40,STE-056,LowerMainland,3,HALU,1,1,49,20,129,122,51,275,160,2023,2,11,100,0,0,,RM,8,22,7,CORA,D,B,3,,,,
+17,40,STE-056,LowerMainland,3,HALU,1,1,49,20,129,122,51,275,160,2023,2,11,100,0,0,,RM,8,22,8,GCKI,A,A,4,,,,
+17,40,STE-056,LowerMainland,3,HALU,1,1,49,20,129,122,51,275,160,2023,2,11,100,0,0,,RM,8,22,9,CBCH,A,A,4,,,,
+17,40,STE-056,LowerMainland,3,HALU,1,1,49,20,129,122,51,275,160,2023,2,11,100,0,0,,RM,8,22,10,UNID,B,B,4,,,,
+17,40,STE-056,LowerMainland,3,HALU,1,1,49,20,129,122,51,275,160,2023,2,11,100,0,0,,RM,8,22,11,CORA,D,C,4,,,,
+18,41,STE-057,LowerMainland,3,HALU,2,1,49,20,122,122,51,66,183,2023,2,11,100,0,0,3,RM,8,52,1,GCKI,B,B,1,,,,Large river nearby. Powerline cut ~ 50m wide. Precipitation up to 1 at times.
+18,41,STE-057,LowerMainland,3,HALU,2,1,49,20,122,122,51,66,183,2023,2,11,100,0,0,3,RM,8,52,2,CBCH,C,A,1,,,,Large river nearby. Powerline cut ~ 50m wide. Precipitation up to 1 at times.
+18,41,STE-057,LowerMainland,3,HALU,2,1,49,20,122,122,51,66,183,2023,2,11,100,0,0,3,RM,8,52,3,BRCR,C,B,1,,,,Large river nearby. Powerline cut ~ 50m wide. Precipitation up to 1 at times.
+18,41,STE-057,LowerMainland,3,HALU,2,1,49,20,122,122,51,66,183,2023,2,11,100,0,0,3,RM,8,52,4,GCKI,A,B,2,,,,Large river nearby. Powerline cut ~ 50m wide. Precipitation up to 1 at times.
+18,41,STE-057,LowerMainland,3,HALU,2,1,49,20,122,122,51,66,183,2023,2,11,100,0,0,3,RM,8,52,5,GCKI,B,A,2,,,,Large river nearby. Powerline cut ~ 50m wide. Precipitation up to 1 at times.
+18,41,STE-057,LowerMainland,3,HALU,2,1,49,20,122,122,51,66,183,2023,2,11,100,0,0,3,RM,8,52,6,GCKI,A,B,3,,,,Large river nearby. Powerline cut ~ 50m wide. Precipitation up to 1 at times.
+18,41,STE-057,LowerMainland,3,HALU,2,1,49,20,122,122,51,66,183,2023,2,11,100,0,0,3,RM,8,52,7,CBCH,C,B,3,,,,Large river nearby. Powerline cut ~ 50m wide. Precipitation up to 1 at times.
+18,41,STE-057,LowerMainland,3,HALU,2,1,49,20,122,122,51,66,183,2023,2,11,100,0,0,3,RM,8,52,8,UNID,A,C,4,,DEJU? 5:15. Might be same individual as Bird 3.,,Large river nearby. Powerline cut ~ 50m wide. Precipitation up to 1 at times.
+18,41,STE-057,LowerMainland,3,HALU,2,1,49,20,122,122,51,66,183,2023,2,11,100,0,0,3,RM,8,52,9,CBCH,C,A,4,,,,Large river nearby. Powerline cut ~ 50m wide. Precipitation up to 1 at times.
+18,41,STE-057,LowerMainland,3,HALU,2,1,49,20,122,122,51,66,183,2023,2,11,100,0,0,3,RM,8,52,10,BRCR,C,B,4,,,,Large river nearby. Powerline cut ~ 50m wide. Precipitation up to 1 at times.
+18,41,STE-057,LowerMainland,3,HALU,2,1,49,20,122,122,51,66,183,2023,2,11,100,0,0,3,RM,8,52,11,CORA,E,A,4,,,,Large river nearby. Powerline cut ~ 50m wide. Precipitation up to 1 at times.
+19,42,STE-058,LowerMainland,3,HALU,3,1,49,20,119,122,50,824,299,2023,2,11,100,1,0,,RM,9,22,1,CBCH,B,A,4,,Moved SE.,,Stream noise.
+19,42,STE-058,LowerMainland,3,HALU,3,1,49,20,119,122,50,824,299,2023,2,11,100,1,0,,RM,9,22,2,CBCH,C,A,4,,,,Stream noise.
+20,43,STE-059,LowerMainland,3,HALU,4,1,49,20,95,122,50,565,419,2023,2,11,100,1,0,,RM,10,45,1,CBCH,B,D,3,,Uncertain. Check recording.,,Stream noise.
+20,43,STE-059,LowerMainland,3,HALU,4,1,49,20,95,122,50,565,419,2023,2,11,100,1,0,,RM,10,45,2,GCKI,A,C,4,,Uncertain. Check recording.,,Stream noise.
+20,43,STE-059,LowerMainland,3,HALU,4,1,49,20,95,122,50,565,419,2023,2,11,100,1,0,,RM,10,45,3,CBCH,C,B,4,,Uncertain. Check recording.,,Stream noise.
+20,43,STE-059,LowerMainland,3,HALU,4,1,49,20,95,122,50,565,419,2023,2,11,100,1,0,,RM,10,45,4,PAWR,E,D,4,,Uncertain. Check recording.,,Stream noise.
+21,44,STE-060,LowerMainland,4,SUMO,7,1,49,7,10,122,9,6,753,2023,2,12,95,1,0,,RM,8,56,,,,,,,,,Precipitation up to 2 at times.
+22,45,STE-061,LowerMainland,4,SUMO,8,1,49,6,843,122,8,533,763,2023,2,12,100,1,0,,RM,9,29,,,,,,,,,
+23,46,STE-062,LowerMainland,4,SUMO,6,1,49,7,96,122,9,622,648,2023,2,12,100,1,0,,RM,10,22,1,DEJU,A,A,1,,,,"Fog, vis ~ 25m. Less noisy [than SUMO-7 and SUMO-8]."
+23,46,STE-062,LowerMainland,4,SUMO,6,1,49,7,96,122,9,622,648,2023,2,12,100,1,0,,RM,10,22,2,CBCH,A,D,1,1,Flock moved E to Q1 Distance Bin A.,,"Fog, vis ~ 25m. Less noisy [than SUMO-7 and SUMO-8]."
+23,46,STE-062,LowerMainland,4,SUMO,6,1,49,7,96,122,9,622,648,2023,2,12,100,1,0,,RM,10,22,3,CBCH,A,D,1,1,Flock moved E to Q1 Distance Bin A.,,"Fog, vis ~ 25m. Less noisy [than SUMO-7 and SUMO-8]."
+23,46,STE-062,LowerMainland,4,SUMO,6,1,49,7,96,122,9,622,648,2023,2,12,100,1,0,,RM,10,22,4,CBCH,A,D,1,1,Flock moved E to Q1 Distance Bin A.,,"Fog, vis ~ 25m. Less noisy [than SUMO-7 and SUMO-8]."
+23,46,STE-062,LowerMainland,4,SUMO,6,1,49,7,96,122,9,622,648,2023,2,12,100,1,0,,RM,10,22,5,CBCH,A,D,1,1,Flock moved E to Q1 Distance Bin A.,,"Fog, vis ~ 25m. Less noisy [than SUMO-7 and SUMO-8]."
+23,46,STE-062,LowerMainland,4,SUMO,6,1,49,7,96,122,9,622,648,2023,2,12,100,1,0,,RM,10,22,6,CBCH,A,D,1,1,Flock moved E to Q1 Distance Bin A.,,"Fog, vis ~ 25m. Less noisy [than SUMO-7 and SUMO-8]."
+23,46,STE-062,LowerMainland,4,SUMO,6,1,49,7,96,122,9,622,648,2023,2,12,100,1,0,,RM,10,22,7,CBCH,A,D,1,1,Flock moved E to Q1 Distance Bin A.,,"Fog, vis ~ 25m. Less noisy [than SUMO-7 and SUMO-8]."
+23,46,STE-062,LowerMainland,4,SUMO,6,1,49,7,96,122,9,622,648,2023,2,12,100,1,0,,RM,10,22,8,CBCH,A,D,1,1,Flock moved E to Q1 Distance Bin A.,,"Fog, vis ~ 25m. Less noisy [than SUMO-7 and SUMO-8]."
+23,46,STE-062,LowerMainland,4,SUMO,6,1,49,7,96,122,9,622,648,2023,2,12,100,1,0,,RM,10,22,9,CBCH,A,D,1,1,Flock moved E to Q1 Distance Bin A.,,"Fog, vis ~ 25m. Less noisy [than SUMO-7 and SUMO-8]."
+23,46,STE-062,LowerMainland,4,SUMO,6,1,49,7,96,122,9,622,648,2023,2,12,100,1,0,,RM,10,22,10,CBCH,A,D,1,1,Flock moved E to Q1 Distance Bin A.,,"Fog, vis ~ 25m. Less noisy [than SUMO-7 and SUMO-8]."
+23,46,STE-062,LowerMainland,4,SUMO,6,1,49,7,96,122,9,622,648,2023,2,12,100,1,0,,RM,10,22,11,CBCH,A,D,1,1,Flock moved E to Q1 Distance Bin A.,,"Fog, vis ~ 25m. Less noisy [than SUMO-7 and SUMO-8]."
+23,46,STE-062,LowerMainland,4,SUMO,6,1,49,7,96,122,9,622,648,2023,2,12,100,1,0,,RM,10,22,12,CBCH,A,D,1,1,Flock moved E to Q1 Distance Bin A.,,"Fog, vis ~ 25m. Less noisy [than SUMO-7 and SUMO-8]."
+23,46,STE-062,LowerMainland,4,SUMO,6,1,49,7,96,122,9,622,648,2023,2,12,100,1,0,,RM,10,22,13,CBCH,A,D,1,1,Flock moved E to Q1 Distance Bin A.,,"Fog, vis ~ 25m. Less noisy [than SUMO-7 and SUMO-8]."
+23,46,STE-062,LowerMainland,4,SUMO,6,1,49,7,96,122,9,622,648,2023,2,12,100,1,0,,RM,10,22,14,CBCH,A,D,1,1,Flock moved E to Q1 Distance Bin A.,,"Fog, vis ~ 25m. Less noisy [than SUMO-7 and SUMO-8]."
+23,46,STE-062,LowerMainland,4,SUMO,6,1,49,7,96,122,9,622,648,2023,2,12,100,1,0,,RM,10,22,15,CBCH,A,D,1,1,Flock moved E to Q1 Distance Bin A.,,"Fog, vis ~ 25m. Less noisy [than SUMO-7 and SUMO-8]."
+23,46,STE-062,LowerMainland,4,SUMO,6,1,49,7,96,122,9,622,648,2023,2,12,100,1,0,,RM,10,22,16,CBCH,A,D,1,1,Flock moved E to Q1 Distance Bin A.,,"Fog, vis ~ 25m. Less noisy [than SUMO-7 and SUMO-8]."
+23,46,STE-062,LowerMainland,4,SUMO,6,1,49,7,96,122,9,622,648,2023,2,12,100,1,0,,RM,10,22,17,RBNU,D,C,3,,Countercall Bird 20,,"Fog, vis ~ 25m. Less noisy [than SUMO-7 and SUMO-8]."
+23,46,STE-062,LowerMainland,4,SUMO,6,1,49,7,96,122,9,622,648,2023,2,12,100,1,0,,RM,10,22,18,DEJU,A,A,4,,,,"Fog, vis ~ 25m. Less noisy [than SUMO-7 and SUMO-8]."
+23,46,STE-062,LowerMainland,4,SUMO,6,1,49,7,96,122,9,622,648,2023,2,12,100,1,0,,RM,10,22,19,GCKI,B,B,4,,,,"Fog, vis ~ 25m. Less noisy [than SUMO-7 and SUMO-8]."
+23,46,STE-062,LowerMainland,4,SUMO,6,1,49,7,96,122,9,622,648,2023,2,12,100,1,0,,RM,10,22,20,RBNU,D,B,4,,Countercall Bird 17,,"Fog, vis ~ 25m. Less noisy [than SUMO-7 and SUMO-8]."
+24,47,STE-063,LowerMainland,4,SUMO,5,1,49,7,134,122,9,846,550,2023,2,12,100,1,0,,RM,10,57,1,GCKI,A,C,3,,,,"Fog, vis ~50m. Rain up at 6:45, hail at 7:20, back to rain at 9:00. 2nd growth, young."
+24,47,STE-063,LowerMainland,4,SUMO,5,1,49,7,134,122,9,846,550,2023,2,12,100,1,0,,RM,10,57,2,CORA,E,B,3,,,,"Fog, vis ~50m. Rain up at 6:45, hail at 7:20, back to rain at 9:00. 2nd growth, young."
+25,48,STE-064,LowerMainland,4,SUMO,1,1,49,7,316,122,11,136,159,2023,2,12,100,1,0,,RM,12,29,,,,,,,,,Some stream noise. Precipitation up to 2 at times.
+26,49,STE-065,LowerMainland,4,SUMO,2,1,49,7,184,122,10,573,284,2023,2,12,100,0,0,,RM,13,22,1,NOFL,E,C,1,,Uncertain. Check recording (~7:15).,,"Precipitation up to 1 at times. Road noise, train noise, stream noise - noisy. Rain at 5:45, stops at 7."
+27,50,STE-066,LowerMainland,4,SUMO,3,1,49,7,177,122,10,449,350,2023,2,12,100,1,0,,RM,13,47,1,UNID,C,D,4,,CBCH? Check recording (~7:46).,,"Train noise, stream noise."
+28,51,STE-067,LowerMainland,4,SUMO,4,1,49,7,158,122,10,192,441,2023,2,12,100,0,0,,RM,14,16,1,CBCH,A,C,1,1,Countercall Bird 7,,"Stream noise, Off-road vehicle noise 5:15."
+28,51,STE-067,LowerMainland,4,SUMO,4,1,49,7,158,122,10,192,441,2023,2,12,100,0,0,,RM,14,16,2,CBCH,A,C,1,1,,,"Stream noise, Off-road vehicle noise 5:15."
+28,51,STE-067,LowerMainland,4,SUMO,4,1,49,7,158,122,10,192,441,2023,2,12,100,0,0,,RM,14,16,3,CBCH,A,C,1,1,,,"Stream noise, Off-road vehicle noise 5:15."
+28,51,STE-067,LowerMainland,4,SUMO,4,1,49,7,158,122,10,192,441,2023,2,12,100,0,0,,RM,14,16,4,UNID,A,A,1,,CBCH? DEJU? Check recording.,,"Stream noise, Off-road vehicle noise 5:15."
+28,51,STE-067,LowerMainland,4,SUMO,4,1,49,7,158,122,10,192,441,2023,2,12,100,0,0,,RM,14,16,5,CBCH,A,D,2,1,,,"Stream noise, Off-road vehicle noise 5:15."
+28,51,STE-067,LowerMainland,4,SUMO,4,1,49,7,158,122,10,192,441,2023,2,12,100,0,0,,RM,14,16,6,UNID,A,A,3,,"""Chup"". DEJU? CBCH? Check recording (~2:40).",,"Stream noise, Off-road vehicle noise 5:15."
+28,51,STE-067,LowerMainland,4,SUMO,4,1,49,7,158,122,10,192,441,2023,2,12,100,0,0,,RM,14,16,7,CBCH,A,D,4,,Countercall Bird 1,,"Stream noise, Off-road vehicle noise 5:15."
+29,52,STE-068,LowerMainland,5,CABO,1,1,49,15,247,123,11,857,61,2023,2,17,100,0,0,2,RM,7,49,1,VATH,B,B,1,,Might be same individual as bird 3. Check recording.,,
+29,52,STE-068,LowerMainland,5,CABO,1,1,49,15,247,123,11,857,61,2023,2,17,100,0,0,2,RM,7,49,2,SPTO,C,A,1,,,,
+29,52,STE-068,LowerMainland,5,CABO,1,1,49,15,247,123,11,857,61,2023,2,17,100,0,0,2,RM,7,49,3,UNID,D,A,1,,Almost a quack call. Might be same individual as bird 1.,,
+29,52,STE-068,LowerMainland,5,CABO,1,1,49,15,247,123,11,857,61,2023,2,17,100,0,0,2,RM,7,49,4,BEWR,D,C,1,,,,
+29,52,STE-068,LowerMainland,5,CABO,1,1,49,15,247,123,11,857,61,2023,2,17,100,0,0,2,RM,7,49,5,STJA,D,A,1,,,,
+29,52,STE-068,LowerMainland,5,CABO,1,1,49,15,247,123,11,857,61,2023,2,17,100,0,0,2,RM,7,49,6,AMCR,D,A,1,,,,
+29,52,STE-068,LowerMainland,5,CABO,1,1,49,15,247,123,11,857,61,2023,2,17,100,0,0,2,RM,7,49,7,UNID,A,A,2,,GCKI?,,
+29,52,STE-068,LowerMainland,5,CABO,1,1,49,15,247,123,11,857,61,2023,2,17,100,0,0,2,RM,7,49,8,UNID,B,B,2,,,,
+29,52,STE-068,LowerMainland,5,CABO,1,1,49,15,247,123,11,857,61,2023,2,17,100,0,0,2,RM,7,49,9,BCCH,C,B,2,,,,
+29,52,STE-068,LowerMainland,5,CABO,1,1,49,15,247,123,11,857,61,2023,2,17,100,0,0,2,RM,7,49,10,ANHU,A,B,3,,,,
+29,52,STE-068,LowerMainland,5,CABO,1,1,49,15,247,123,11,857,61,2023,2,17,100,0,0,2,RM,7,49,11,SOSP,B,B,4,,,,
+29,52,STE-068,LowerMainland,5,CABO,1,1,49,15,247,123,11,857,61,2023,2,17,100,0,0,2,RM,7,49,12,PAWR,C,A,4,,,,
+29,52,STE-068,LowerMainland,5,CABO,1,1,49,15,247,123,11,857,61,2023,2,17,100,0,0,2,RM,7,49,13,BEWR,C,A,4,,,,
+29,52,STE-068,LowerMainland,5,CABO,1,1,49,15,247,123,11,857,61,2023,2,17,100,0,0,2,RM,7,49,14,BCCH,D,C,4,,,,
+29,52,STE-068,LowerMainland,5,CABO,1,1,49,15,247,123,11,857,61,2023,2,17,100,0,0,2,RM,7,49,15,RBNU,D,A,4,,,,
+29,52,STE-068,LowerMainland,5,CABO,1,1,49,15,247,123,11,857,61,2023,2,17,100,0,0,2,RM,7,49,16,UNID,E,C,4,,Check recording at 6:30.,,
+30,53,STE-069,LowerMainland,5,CABO,2,1,49,15,313,123,12,15,68,2023,2,17,100,1,0,2,RM,8,30,1,AMRO,A,C,1,,,,
+30,53,STE-069,LowerMainland,5,CABO,2,1,49,15,313,123,12,15,68,2023,2,17,100,1,0,2,RM,8,30,2,PAWR,B,B,1,,,,
+30,53,STE-069,LowerMainland,5,CABO,2,1,49,15,313,123,12,15,68,2023,2,17,100,1,0,2,RM,8,30,3,BCCH,B,C,1,1,Flock moved ESE.,,
+30,53,STE-069,LowerMainland,5,CABO,2,1,49,15,313,123,12,15,68,2023,2,17,100,1,0,2,RM,8,30,4,BCCH,B,C,1,1,Flock moved ESE.,,
+30,53,STE-069,LowerMainland,5,CABO,2,1,49,15,313,123,12,15,68,2023,2,17,100,1,0,2,RM,8,30,5,BCCH,B,B,3,,Moved to Q4 Distance Band B.,,
+30,53,STE-069,LowerMainland,5,CABO,2,1,49,15,313,123,12,15,68,2023,2,17,100,1,0,2,RM,8,30,6,VATH,D,C,3,,,,
+30,53,STE-069,LowerMainland,5,CABO,2,1,49,15,313,123,12,15,68,2023,2,17,100,1,0,2,RM,8,30,7,BCCH,B,A,4,1,Flock moved ESE.,,
+30,53,STE-069,LowerMainland,5,CABO,2,1,49,15,313,123,12,15,68,2023,2,17,100,1,0,2,RM,8,30,8,BCCH,C,A,4,,,,
+30,53,STE-069,LowerMainland,5,CABO,2,1,49,15,313,123,12,15,68,2023,2,17,100,1,0,2,RM,8,30,9,UNID,C,D,4,,Visual only. Bigger than a BCCH. AMRO?,,
+31,54,STE-070,LowerMainland,5,CABO,3,1,49,15,149,123,11,988,65,2023,2,17,100,0,0,2,RM,9,6,1,ANHU,A,A,2,,,,
+31,54,STE-070,LowerMainland,5,CABO,3,1,49,15,149,123,11,988,65,2023,2,17,100,0,0,2,RM,9,6,2,GCKI,B,D,2,,Confirmed via Merlin recording after survey. Check ~8:50 in recording.,,Fair amount of car noise.
+31,54,STE-070,LowerMainland,5,CABO,3,1,49,15,149,123,11,988,65,2023,2,17,100,0,0,2,RM,9,6,3,CORA,C,A,2,,,,Fair amount of car noise.
+31,54,STE-070,LowerMainland,5,CABO,3,1,49,15,149,123,11,988,65,2023,2,17,100,0,0,2,RM,9,6,4,AMCR,C,A,2,,,,Fair amount of car noise.
+31,54,STE-070,LowerMainland,5,CABO,3,1,49,15,149,123,11,988,65,2023,2,17,100,0,0,2,RM,9,6,5,CORA,D,A,4,,,,Fair amount of car noise.
+32,55,STE-071,LowerMainland,5,PASP,1,1,49,15,655,123,13,151,98,2023,2,17,100,1,0,3,RM,10,42,1,GCKI,A,A,1,,,,
+32,55,STE-071,LowerMainland,5,PASP,1,1,49,15,655,123,13,151,98,2023,2,17,100,1,0,3,RM,10,42,2,PAWR,B,A,1,,,,
+32,55,STE-071,LowerMainland,5,PASP,1,1,49,15,655,123,13,151,98,2023,2,17,100,1,0,3,RM,10,42,3,CORA,B,C,1,,,,
+32,55,STE-071,LowerMainland,5,PASP,1,1,49,15,655,123,13,151,98,2023,2,17,100,1,0,3,RM,10,42,4,AMCR,C,B,1,,,,
+32,55,STE-071,LowerMainland,5,PASP,1,1,49,15,655,123,13,151,98,2023,2,17,100,1,0,3,RM,10,42,5,AMCR,C,C,1,,,,
+32,55,STE-071,LowerMainland,5,PASP,1,1,49,15,655,123,13,151,98,2023,2,17,100,1,0,3,RM,10,42,6,BRCR,A,B,2,,,,
+32,55,STE-071,LowerMainland,5,PASP,1,1,49,15,655,123,13,151,98,2023,2,17,100,1,0,3,RM,10,42,7,CBCH,A,B,2,1,Probable flock - no visual but close calling.,,
+32,55,STE-071,LowerMainland,5,PASP,1,1,49,15,655,123,13,151,98,2023,2,17,100,1,0,3,RM,10,42,8,CBCH,A,B,2,1,Probable flock - no visual but close calling.,,
+32,55,STE-071,LowerMainland,5,PASP,1,1,49,15,655,123,13,151,98,2023,2,17,100,1,0,3,RM,10,42,9,GCKI,A,C,2,1,Probable flock - no visual but close calling.,,
+32,55,STE-071,LowerMainland,5,PASP,1,1,49,15,655,123,13,151,98,2023,2,17,100,1,0,3,RM,10,42,10,BCCH,A,D,2,1,Probable flock - no visual but close calling.,,
+32,55,STE-071,LowerMainland,5,PASP,1,1,49,15,655,123,13,151,98,2023,2,17,100,1,0,3,RM,10,42,11,BRCR,A,C,2,,,,
+32,55,STE-071,LowerMainland,5,PASP,1,1,49,15,655,123,13,151,98,2023,2,17,100,1,0,3,RM,10,42,12,CORA,B,C,2,,,,
+32,55,STE-071,LowerMainland,5,PASP,1,1,49,15,655,123,13,151,98,2023,2,17,100,1,0,3,RM,10,42,13,RBNU,C,B,2,,,,
+32,55,STE-071,LowerMainland,5,PASP,1,1,49,15,655,123,13,151,98,2023,2,17,100,1,0,3,RM,10,42,14,CBCH,A,B,3,1,Probable flock - no visual but close calling.,,
+32,55,STE-071,LowerMainland,5,PASP,1,1,49,15,655,123,13,151,98,2023,2,17,100,1,0,3,RM,10,42,15,CORA,B,C,3,,,,
+32,55,STE-071,LowerMainland,5,PASP,1,1,49,15,655,123,13,151,98,2023,2,17,100,1,0,3,RM,10,42,15,RBNU,B,B,4,,,,
+33,56,STE-072,LowerMainland,5,PASP,2,1,49,15,649,123,13,521,80,2023,2,17,100,0,0,7,RM,11,22,1,GCKI,A,A,1,1,Flock moved E.,,Road noise.
+33,56,STE-072,LowerMainland,5,PASP,2,1,49,15,649,123,13,521,80,2023,2,17,100,0,0,7,RM,11,22,2,GCKI,A,A,1,1,Flock moved E.,,Road noise.
+33,56,STE-072,LowerMainland,5,PASP,2,1,49,15,649,123,13,521,80,2023,2,17,100,0,0,7,RM,11,22,3,GCKI,A,A,1,1,Flock moved E.,,Road noise.
+33,56,STE-072,LowerMainland,5,PASP,2,1,49,15,649,123,13,521,80,2023,2,17,100,0,0,7,RM,11,22,4,GCKI,A,A,1,1,Flock moved E.,,Road noise.
+33,56,STE-072,LowerMainland,5,PASP,2,1,49,15,649,123,13,521,80,2023,2,17,100,0,0,7,RM,11,22,5,CBCH,A,A,1,1,Flock moved E. Probable flock member.,,Road noise.
+33,56,STE-072,LowerMainland,5,PASP,2,1,49,15,649,123,13,521,80,2023,2,17,100,0,0,7,RM,11,22,6,CBCH,B,A,1,1,Flock moved E. Probable flock member.,,Road noise.
+33,56,STE-072,LowerMainland,5,PASP,2,1,49,15,649,123,13,521,80,2023,2,17,100,0,0,7,RM,11,22,7,RBNU,B,B,1,,,,Road noise.
+33,56,STE-072,LowerMainland,5,PASP,2,1,49,15,649,123,13,521,80,2023,2,17,100,0,0,7,RM,11,22,8,RBNU,D,A,1,,Moved S.,,Road noise.
+33,56,STE-072,LowerMainland,5,PASP,2,1,49,15,649,123,13,521,80,2023,2,17,100,0,0,7,RM,11,22,9,CBCH,A,A,2,1,Flock moved E. Probable flock member.,,Road noise.
+33,56,STE-072,LowerMainland,5,PASP,2,1,49,15,649,123,13,521,80,2023,2,17,100,0,0,7,RM,11,22,10,RBNU,C,A,3,,,,Road noise.
+33,56,STE-072,LowerMainland,5,PASP,2,1,49,15,649,123,13,521,80,2023,2,17,100,0,0,7,RM,11,22,11,ANHU,B,C,4,,,,Road noise.
+33,56,STE-072,LowerMainland,5,PASP,2,1,49,15,649,123,13,521,80,2023,2,17,100,0,0,7,RM,11,22,12,BCCH,B,D,4,,Very uncertain. Check recording (~9:30).,,Road noise.
+33,56,STE-072,LowerMainland,5,PASP,2,1,49,15,649,123,13,521,80,2023,2,17,100,0,0,7,RM,11,22,13,RBNU,C,B,4,,,,Road noise.
+33,56,STE-072,LowerMainland,5,PASP,2,1,49,15,649,123,13,521,80,2023,2,17,100,0,0,7,RM,11,22,14,CORA,C,D,4,,,,Road noise.
+34,58,STE-073,LowerMainland,6,MAFL,1,1,49,18,290,123,0,218,9,2023,2,19,100,0,0,,RM,8,58,1,BCCH,B,A,1,,,,
+34,58,STE-073,LowerMainland,6,MAFL,1,1,49,18,290,123,0,218,9,2023,2,19,100,0,0,,RM,8,58,2,UNID,C,D,1,1,Visual only. Bigger than a BCCH. AMRO?,,
+34,58,STE-073,LowerMainland,6,MAFL,1,1,49,18,290,123,0,218,9,2023,2,19,100,0,0,,RM,8,58,3,UNID,C,D,1,1,Visual only. Bigger than a BCCH. AMRO?,,
+34,58,STE-073,LowerMainland,6,MAFL,1,1,49,18,290,123,0,218,9,2023,2,19,100,0,0,,RM,8,58,4,UNID,C,D,1,1,Visual only. Bigger than a BCCH. AMRO?,,
+34,58,STE-073,LowerMainland,6,MAFL,1,1,49,18,290,123,0,218,9,2023,2,19,100,0,0,,RM,8,58,5,BCCH,D,B,1,,,,
+34,58,STE-073,LowerMainland,6,MAFL,1,1,49,18,290,123,0,218,9,2023,2,19,100,0,0,,RM,8,58,6,AMCR,E,A,1,,,,
+34,58,STE-073,LowerMainland,6,MAFL,1,1,49,18,290,123,0,218,9,2023,2,19,100,0,0,,RM,8,58,7,AMCR,E,A,1,,,,
+34,58,STE-073,LowerMainland,6,MAFL,1,1,49,18,290,123,0,218,9,2023,2,19,100,0,0,,RM,8,58,8,NOFL,E,A,1,,,,
+34,58,STE-073,LowerMainland,6,MAFL,1,1,49,18,290,123,0,218,9,2023,2,19,100,0,0,,RM,8,58,9,CORA,E,D,1,,,,
+34,58,STE-073,LowerMainland,6,MAFL,1,1,49,18,290,123,0,218,9,2023,2,19,100,0,0,,RM,8,58,10,BCCH,A,A,2,,,,
+34,58,STE-073,LowerMainland,6,MAFL,1,1,49,18,290,123,0,218,9,2023,2,19,100,0,0,,RM,8,58,11,BCCH,A,A,2,,,,
+34,58,STE-073,LowerMainland,6,MAFL,1,1,49,18,290,123,0,218,9,2023,2,19,100,0,0,,RM,8,58,12,BCCH,A,A,3,,,,
+34,58,STE-073,LowerMainland,6,MAFL,1,1,49,18,290,123,0,218,9,2023,2,19,100,0,0,,RM,8,58,13,BCCH,A,A,3,,,,
+34,58,STE-073,LowerMainland,6,MAFL,1,1,49,18,290,123,0,218,9,2023,2,19,100,0,0,,RM,8,58,14,BCCH,A,A,3,,,,
+34,58,STE-073,LowerMainland,6,MAFL,1,1,49,18,290,123,0,218,9,2023,2,19,100,0,0,,RM,8,58,15,SOSP,C,A,3,,,,
+34,58,STE-073,LowerMainland,6,MAFL,1,1,49,18,290,123,0,218,9,2023,2,19,100,0,0,,RM,8,58,16,AMCR,D,A,3,,,,
+34,58,STE-073,LowerMainland,6,MAFL,1,1,49,18,290,123,0,218,9,2023,2,19,100,0,0,,RM,8,58,17,GULL,E,A,3,,,,
+34,58,STE-073,LowerMainland,6,MAFL,1,1,49,18,290,123,0,218,9,2023,2,19,100,0,0,,RM,8,58,18,GULL,E,A,3,,,,
+34,58,STE-073,LowerMainland,6,MAFL,1,1,49,18,290,123,0,218,9,2023,2,19,100,0,0,,RM,8,58,19,BCCH,A,A,4,,,,
+34,58,STE-073,LowerMainland,6,MAFL,1,1,49,18,290,123,0,218,9,2023,2,19,100,0,0,,RM,8,58,20,BCCH,A,A,4,,,,
+34,58,STE-073,LowerMainland,6,MAFL,1,1,49,18,290,123,0,218,9,2023,2,19,100,0,0,,RM,8,58,21,SOSP,A,A,4,,,,
+34,58,STE-073,LowerMainland,6,MAFL,1,1,49,18,290,123,0,218,9,2023,2,19,100,0,0,,RM,8,58,22,BCCH,A,A,4,,,,
+34,58,STE-073,LowerMainland,6,MAFL,1,1,49,18,290,123,0,218,9,2023,2,19,100,0,0,,RM,8,58,23,BCCH,A,A,4,,,,
+34,58,STE-073,LowerMainland,6,MAFL,1,1,49,18,290,123,0,218,9,2023,2,19,100,0,0,,RM,8,58,24,SOSP,A,B,4,,,,
+34,58,STE-073,LowerMainland,6,MAFL,1,1,49,18,290,123,0,218,9,2023,2,19,100,0,0,,RM,8,58,25,AMCR,D,C,4,,,,
+34,58,STE-073,LowerMainland,6,MAFL,1,1,49,18,290,123,0,218,9,2023,2,19,100,0,0,,RM,8,58,26,AMCR,D,C,4,,Moved to S.,,
+34,58,STE-073,LowerMainland,6,MAFL,1,1,49,18,290,123,0,218,9,2023,2,19,100,0,0,,RM,8,58,27,BCCH,D,C,4,,,,
+34,58,STE-073,LowerMainland,6,MAFL,1,1,49,18,290,123,0,218,9,2023,2,19,100,0,0,,RM,8,58,28,AMCR,F,,,2,,,
+34,58,STE-073,LowerMainland,6,MAFL,1,1,49,18,290,123,0,218,9,2023,2,19,100,0,0,,RM,8,58,29,AMCR,F,,,2,,,
+34,58,STE-073,LowerMainland,6,MAFL,1,1,49,18,290,123,0,218,9,2023,2,19,100,0,0,,RM,8,58,30,MALL,F,,,3,,,
+34,58,STE-073,LowerMainland,6,MAFL,1,1,49,18,290,123,0,218,9,2023,2,19,100,0,0,,RM,8,58,31,MALL,F,,,3,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,1,SOSP,A,B,1,,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,2,BCCH,B,A,1,,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,3,SPTO,C,D,1,,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,4,BCCH,A,A,2,,Moved to Q1 Distance Band A.,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,5,PISI,A,A,2,1,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,6,PISI,A,A,2,1,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,7,PISI,A,A,2,1,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,8,PISI,A,A,2,1,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,9,PISI,A,A,2,1,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,10,PISI,A,A,2,1,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,11,PISI,A,A,2,1,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,12,PISI,A,A,2,1,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,13,PISI,A,A,2,1,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,14,PISI,A,A,2,1,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,15,PISI,A,A,2,1,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,16,PISI,A,A,2,1,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,17,PISI,A,A,2,1,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,18,PISI,A,A,2,1,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,19,PISI,A,A,2,1,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,20,PISI,A,A,2,1,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,21,PISI,A,A,2,1,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,22,PISI,A,A,2,1,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,23,PISI,A,A,2,1,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,24,PISI,A,A,2,1,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,25,PISI,A,A,2,1,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,26,PISI,A,A,2,1,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,27,PISI,A,A,2,1,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,28,PISI,A,A,2,1,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,29,PISI,A,A,2,1,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,30,PISI,A,A,2,1,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,31,PISI,A,A,2,1,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,32,PISI,A,A,2,1,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,33,PISI,A,A,2,1,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,34,PISI,A,A,2,1,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,35,PISI,A,A,2,1,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,36,PISI,A,A,2,1,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,37,PISI,A,A,2,1,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,38,PISI,A,A,2,1,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,39,PISI,A,A,2,1,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,40,PISI,A,A,2,1,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,41,PISI,A,A,2,1,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,42,PISI,A,A,2,1,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,43,PISI,A,A,2,1,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,44,PISI,A,A,2,1,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,45,BCCH,A,A,3,,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,46,BCCH,A,A,3,,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,47,SPTO,A,B,3,,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,48,SOSP,A,B,3,,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,49,SOSP,B,B,3,,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,50,BCCH,A,B,4,,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,51,AMRO,B,B,4,,Moved to Q3 Distance Band B.,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,52,MALL,D,A,4,,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,53,BCCH,D,D,4,,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,54,CORA,E,B,4,,Countercalling Bird 56.,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,55,NOFL,E,D,4,,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,56,CORA,E,B,4,,Countercalling Bird 54.,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,57,UNID,F,,,2,,,
+35,59,STE-074,LowerMainland,6,MAFL,2,1,49,18,311,123,0,375,-11,2023,2,19,100,1,0,,RM,9,34,58,UNID,F,,,2,,,
+36,60,STE-075,LowerMainland,6,MAFL,3,1,49,18,418,123,0,298,-6,2023,2,19,100,1,0,2,RM,9,56,1,BCCH,A,A,1,,,,Road noise. Rain died down to level 0.
+36,60,STE-075,LowerMainland,6,MAFL,3,1,49,18,418,123,0,298,-6,2023,2,19,100,1,0,2,RM,9,56,2,BRCR,A,A,1,,Countercalling Bird 4.,,Road noise. Rain died down to level 0.
+36,60,STE-075,LowerMainland,6,MAFL,3,1,49,18,418,123,0,298,-6,2023,2,19,100,1,0,2,RM,9,56,3,BCCH,B,A,1,,,,Road noise. Rain died down to level 0.
+36,60,STE-075,LowerMainland,6,MAFL,3,1,49,18,418,123,0,298,-6,2023,2,19,100,1,0,2,RM,9,56,4,BRCR,B,B,1,,Countercalling Bird 2.,,Road noise. Rain died down to level 0.
+36,60,STE-075,LowerMainland,6,MAFL,3,1,49,18,418,123,0,298,-6,2023,2,19,100,1,0,2,RM,9,56,5,NOFL,B,C,1,,,,Road noise. Rain died down to level 0.
+36,60,STE-075,LowerMainland,6,MAFL,3,1,49,18,418,123,0,298,-6,2023,2,19,100,1,0,2,RM,9,56,6,SPTO,B,C,1,,,,Road noise. Rain died down to level 0.
+36,60,STE-075,LowerMainland,6,MAFL,3,1,49,18,418,123,0,298,-6,2023,2,19,100,1,0,2,RM,9,56,7,SOSP,B,D,1,,Countercalling Bird 8.,,Road noise. Rain died down to level 0.
+36,60,STE-075,LowerMainland,6,MAFL,3,1,49,18,418,123,0,298,-6,2023,2,19,100,1,0,2,RM,9,56,8,SOSP,C,B,1,,Countercalling Bird 7.,,Road noise. Rain died down to level 0.
+36,60,STE-075,LowerMainland,6,MAFL,3,1,49,18,418,123,0,298,-6,2023,2,19,100,1,0,2,RM,9,56,9,NOFL,E,B,1,,Moved to SW.,,Road noise. Rain died down to level 0.
+36,60,STE-075,LowerMainland,6,MAFL,3,1,49,18,418,123,0,298,-6,2023,2,19,100,1,0,2,RM,9,56,10,NOFL,E,C,1,,,,Road noise. Rain died down to level 0.
+36,60,STE-075,LowerMainland,6,MAFL,3,1,49,18,418,123,0,298,-6,2023,2,19,100,1,0,2,RM,9,56,11,BCCH,A,A,2,,,,Road noise. Rain died down to level 0.
+36,60,STE-075,LowerMainland,6,MAFL,3,1,49,18,418,123,0,298,-6,2023,2,19,100,1,0,2,RM,9,56,12,AMRO,A,C,2,,,,Road noise. Rain died down to level 0.
+36,60,STE-075,LowerMainland,6,MAFL,3,1,49,18,418,123,0,298,-6,2023,2,19,100,1,0,2,RM,9,56,13,BCCH,A,D,2,,SOSP? Check recording (~4:00).,,Road noise. Rain died down to level 0.
+36,60,STE-075,LowerMainland,6,MAFL,3,1,49,18,418,123,0,298,-6,2023,2,19,100,1,0,2,RM,9,56,14,BRCR,A,D,2,,SOSP? Check recording (~4:00).,,Road noise. Rain died down to level 0.
+36,60,STE-075,LowerMainland,6,MAFL,3,1,49,18,418,123,0,298,-6,2023,2,19,100,1,0,2,RM,9,56,15,UNID,D,B,2,,,,Road noise. Rain died down to level 0.
+36,60,STE-075,LowerMainland,6,MAFL,3,1,49,18,418,123,0,298,-6,2023,2,19,100,1,0,2,RM,9,56,16,UNID,D,B,2,1,,,Road noise. Rain died down to level 0.
+36,60,STE-075,LowerMainland,6,MAFL,3,1,49,18,418,123,0,298,-6,2023,2,19,100,1,0,2,RM,9,56,17,BCCH,A,D,3,1,,,Road noise. Rain died down to level 0.
+36,60,STE-075,LowerMainland,6,MAFL,3,1,49,18,418,123,0,298,-6,2023,2,19,100,1,0,2,RM,9,56,18,BCCH,A,A,4,1,,,Road noise. Rain died down to level 0.
+36,60,STE-075,LowerMainland,6,MAFL,3,1,49,18,418,123,0,298,-6,2023,2,19,100,1,0,2,RM,9,56,19,BCCH,A,A,4,,,,Road noise. Rain died down to level 0.
+36,60,STE-075,LowerMainland,6,MAFL,3,1,49,18,418,123,0,298,-6,2023,2,19,100,1,0,2,RM,9,56,20,BCCH,A,C,4,,,,Road noise. Rain died down to level 0.
+36,60,STE-075,LowerMainland,6,MAFL,3,1,49,18,418,123,0,298,-6,2023,2,19,100,1,0,2,RM,9,56,21,SOSP,D,D,4,,,,Road noise. Rain died down to level 0.
+37,61,STE-076,LowerMainland,7,BULA,1,1,49,14,849,122,55,248,11,2023,2,20,100,1,0,3,RM,7,30,1,AMRO,A,A,1,,,,Road noise.
+37,61,STE-076,LowerMainland,7,BULA,1,1,49,14,849,122,55,248,11,2023,2,20,100,1,0,3,RM,7,30,2,SOSP,A,A,1,,,,Road noise.
+37,61,STE-076,LowerMainland,7,BULA,1,1,49,14,849,122,55,248,11,2023,2,20,100,1,0,3,RM,7,30,3,AMRO,C,A,1,,,,Road noise.
+37,61,STE-076,LowerMainland,7,BULA,1,1,49,14,849,122,55,248,11,2023,2,20,100,1,0,3,RM,7,30,4,BCCH,C,B,1,,Countercalling Bird 7.,,Road noise.
+37,61,STE-076,LowerMainland,7,BULA,1,1,49,14,849,122,55,248,11,2023,2,20,100,1,0,3,RM,7,30,5,NOFL,D,D,1,,,,Road noise.
+37,61,STE-076,LowerMainland,7,BULA,1,1,49,14,849,122,55,248,11,2023,2,20,100,1,0,3,RM,7,30,6,SOSP,C,A,2,,,,Road noise.
+37,61,STE-076,LowerMainland,7,BULA,1,1,49,14,849,122,55,248,11,2023,2,20,100,1,0,3,RM,7,30,7,BCCH,C,B,2,,Countercalling Bird 4.,,Road noise.
+37,61,STE-076,LowerMainland,7,BULA,1,1,49,14,849,122,55,248,11,2023,2,20,100,1,0,3,RM,7,30,8,BCCH,C,B,2,,,,Road noise.
+37,61,STE-076,LowerMainland,7,BULA,1,1,49,14,849,122,55,248,11,2023,2,20,100,1,0,3,RM,7,30,9,PAWR,A,A,3,,Countercalling Bird 9.,,Road noise.
+37,61,STE-076,LowerMainland,7,BULA,1,1,49,14,849,122,55,248,11,2023,2,20,100,1,0,3,RM,7,30,10,SOSP,A,B,3,,,,Road noise.
+37,61,STE-076,LowerMainland,7,BULA,1,1,49,14,849,122,55,248,11,2023,2,20,100,1,0,3,RM,7,30,11,SOSP,B,A,3,,Countercalling Bird 18.,,Road noise.
+37,61,STE-076,LowerMainland,7,BULA,1,1,49,14,849,122,55,248,11,2023,2,20,100,1,0,3,RM,7,30,12,SOSP,D,D,3,,,,Road noise.
+37,61,STE-076,LowerMainland,7,BULA,1,1,49,14,849,122,55,248,11,2023,2,20,100,1,0,3,RM,7,30,13,MALL,D,D,3,,,,Road noise.
+37,61,STE-076,LowerMainland,7,BULA,1,1,49,14,849,122,55,248,11,2023,2,20,100,1,0,3,RM,7,30,14,UNID,D,D,3,,Chattering ducks at 8:30.,,Road noise.
+37,61,STE-076,LowerMainland,7,BULA,1,1,49,14,849,122,55,248,11,2023,2,20,100,1,0,3,RM,7,30,15,UNID,D,D,3,,Chattering ducks at 8:30.,,Road noise.
+37,61,STE-076,LowerMainland,7,BULA,1,1,49,14,849,122,55,248,11,2023,2,20,100,1,0,3,RM,7,30,16,CAGO,E,C,3,,,,Road noise.
+37,61,STE-076,LowerMainland,7,BULA,1,1,49,14,849,122,55,248,11,2023,2,20,100,1,0,3,RM,7,30,17,CAGO,E,C,3,,,,Road noise.
+37,61,STE-076,LowerMainland,7,BULA,1,1,49,14,849,122,55,248,11,2023,2,20,100,1,0,3,RM,7,30,18,SOSP,A,A,4,,Countercalling Bird 11.,,Road noise.
+37,61,STE-076,LowerMainland,7,BULA,1,1,49,14,849,122,55,248,11,2023,2,20,100,1,0,3,RM,7,30,19,SOSP,A,A,4,,,,Road noise.
+37,61,STE-076,LowerMainland,7,BULA,1,1,49,14,849,122,55,248,11,2023,2,20,100,1,0,3,RM,7,30,20,PAWR,A,A,4,,Countercalling Bird 9.,,Road noise.
+37,61,STE-076,LowerMainland,7,BULA,1,1,49,14,849,122,55,248,11,2023,2,20,100,1,0,3,RM,7,30,21,AMCR,D,A,4,,Moved ESE.,,Road noise.
+37,61,STE-076,LowerMainland,7,BULA,1,1,49,14,849,122,55,248,11,2023,2,20,100,1,0,3,RM,7,30,22,AMCR,D,A,4,,Moved ESE.,,Road noise.
+37,61,STE-076,LowerMainland,7,BULA,1,1,49,14,849,122,55,248,11,2023,2,20,100,1,0,3,RM,7,30,23,AMCR,D,C,4,,,,Road noise.
+37,61,STE-076,LowerMainland,7,BULA,1,1,49,14,849,122,55,248,11,2023,2,20,100,1,0,3,RM,7,30,24,NOFL,E,A,4,,Check if PIWO.,,Road noise.
+37,61,STE-076,LowerMainland,7,BULA,1,1,49,14,849,122,55,248,11,2023,2,20,100,1,0,3,RM,7,30,25,GULL,F,,,,,,Road noise.
+37,61,STE-076,LowerMainland,7,BULA,1,1,49,14,849,122,55,248,11,2023,2,20,100,1,0,3,RM,7,30,26,GULL,F,,,,,,Road noise.
+37,61,STE-076,LowerMainland,7,BULA,1,1,49,14,849,122,55,248,11,2023,2,20,100,1,0,3,RM,7,30,27,AMCR,F,,,,,,Road noise.
+37,61,STE-076,LowerMainland,7,BULA,1,1,49,14,849,122,55,248,11,2023,2,20,100,1,0,3,RM,7,30,28,AMCR,F,,,,,,Road noise.
+38,62,STE-077,LowerMainland,7,BULA,2,1,49,14,816,122,55,452,11,2023,2,20,100,1,0,2,RM,8,15,1,SPTO,A,A,1,,,,
+38,62,STE-077,LowerMainland,7,BULA,2,1,49,14,816,122,55,452,11,2023,2,20,100,1,0,2,RM,8,15,2,BRCR,A,A,1,,,,
+38,62,STE-077,LowerMainland,7,BULA,2,1,49,14,816,122,55,452,11,2023,2,20,100,1,0,2,RM,8,15,3,CBCH,A,B,1,,"Uncertain. Check recording (~3:00). If not heard, definitely heard at ~9:30.",,
+38,62,STE-077,LowerMainland,7,BULA,2,1,49,14,816,122,55,452,11,2023,2,20,100,1,0,2,RM,8,15,4,CBCH,A,B,1,,"Uncertain. Check recording (~3:00). If not heard, definitely heard at ~9:30.",,
+38,62,STE-077,LowerMainland,7,BULA,2,1,49,14,816,122,55,452,11,2023,2,20,100,1,0,2,RM,8,15,5,GCKI,A,A,2,,,,
+38,62,STE-077,LowerMainland,7,BULA,2,1,49,14,816,122,55,452,11,2023,2,20,100,1,0,2,RM,8,15,6,SOSP,B,A,2,,,,
+38,62,STE-077,LowerMainland,7,BULA,2,1,49,14,816,122,55,452,11,2023,2,20,100,1,0,2,RM,8,15,7,AMRO,C,B,2,,,,
+38,62,STE-077,LowerMainland,7,BULA,2,1,49,14,816,122,55,452,11,2023,2,20,100,1,0,2,RM,8,15,8,GULL,E,A,2,,,,
+38,62,STE-077,LowerMainland,7,BULA,2,1,49,14,816,122,55,452,11,2023,2,20,100,1,0,2,RM,8,15,9,SOSP,A,A,3,,,,
+38,62,STE-077,LowerMainland,7,BULA,2,1,49,14,816,122,55,452,11,2023,2,20,100,1,0,2,RM,8,15,10,AMRO,A,B,3,,,,
+38,62,STE-077,LowerMainland,7,BULA,2,1,49,14,816,122,55,452,11,2023,2,20,100,1,0,2,RM,8,15,11,BCCH,B,A,3,,Moved to Q3 Distance Band A.,,
+38,62,STE-077,LowerMainland,7,BULA,2,1,49,14,816,122,55,452,11,2023,2,20,100,1,0,2,RM,8,15,12,BCCH,B,A,3,,Moved to Q3 Distance Band A.,,
+38,62,STE-077,LowerMainland,7,BULA,2,1,49,14,816,122,55,452,11,2023,2,20,100,1,0,2,RM,8,15,13,SOSP,B,A,3,,,,
+38,62,STE-077,LowerMainland,7,BULA,2,1,49,14,816,122,55,452,11,2023,2,20,100,1,0,2,RM,8,15,14,BCCH,B,D,3,,,,
+38,62,STE-077,LowerMainland,7,BULA,2,1,49,14,816,122,55,452,11,2023,2,20,100,1,0,2,RM,8,15,15,SOSP,C,A,4,,,,
+38,62,STE-077,LowerMainland,7,BULA,2,1,49,14,816,122,55,452,11,2023,2,20,100,1,0,2,RM,8,15,16,AMRO,C,A,4,,,,
+38,62,STE-077,LowerMainland,7,BULA,2,1,49,14,816,122,55,452,11,2023,2,20,100,1,0,2,RM,8,15,17,BCCH,D,D,4,,,,
+38,62,STE-077,LowerMainland,7,BULA,2,1,49,14,816,122,55,452,11,2023,2,20,100,1,0,2,RM,8,15,18,GULL,F,,,,,,
+38,62,STE-077,LowerMainland,7,BULA,2,1,49,14,816,122,55,452,11,2023,2,20,100,1,0,2,RM,8,15,19,AMCR,F,,,,,,
+39,64,STE-078,LowerMainland,7,BULA,3,1,49,14,739,122,55,823,0,2023,2,20,100,2,0,0,RM,9,6,1,CBCH,A,A,1,,,,Road noise.
+39,64,STE-078,LowerMainland,7,BULA,3,1,49,14,739,122,55,823,0,2023,2,20,100,2,0,0,RM,9,6,2,PAWR,A,A,1,,,,Road noise.
+39,64,STE-078,LowerMainland,7,BULA,3,1,49,14,739,122,55,823,0,2023,2,20,100,2,0,0,RM,9,6,3,SOSP,C,A,1,,Visual only.,,Road noise.
+39,64,STE-078,LowerMainland,7,BULA,3,1,49,14,739,122,55,823,0,2023,2,20,100,2,0,0,RM,9,6,4,BCCH,B,A,1,,,,Road noise.
+39,64,STE-078,LowerMainland,7,BULA,3,1,49,14,739,122,55,823,0,2023,2,20,100,2,0,0,RM,9,6,5,BCCH,D,A,1,,,,Road noise.
+39,64,STE-078,LowerMainland,7,BULA,3,1,49,14,739,122,55,823,0,2023,2,20,100,2,0,0,RM,9,6,6,GCKI,A,B,2,,,,Road noise.
+39,64,STE-078,LowerMainland,7,BULA,3,1,49,14,739,122,55,823,0,2023,2,20,100,2,0,0,RM,9,6,7,AMCR,C,D,2,,,,Road noise.
+39,64,STE-078,LowerMainland,7,BULA,3,1,49,14,739,122,55,823,0,2023,2,20,100,2,0,0,RM,9,6,8,GCKI,A,A,3,1,,,Road noise.
+39,64,STE-078,LowerMainland,7,BULA,3,1,49,14,739,122,55,823,0,2023,2,20,100,2,0,0,RM,9,6,9,GCKI,A,A,3,1,,,Road noise.
+39,64,STE-078,LowerMainland,7,BULA,3,1,49,14,739,122,55,823,0,2023,2,20,100,2,0,0,RM,9,6,10,GCKI,A,A,3,1,,,Road noise.
+39,64,STE-078,LowerMainland,7,BULA,3,1,49,14,739,122,55,823,0,2023,2,20,100,2,0,0,RM,9,6,11,DOWO,A,D,3,,Was this before 10:15? Check recording.,,Road noise.
+39,64,STE-078,LowerMainland,7,BULA,3,1,49,14,739,122,55,823,0,2023,2,20,100,2,0,0,RM,9,6,12,PAWR,C,B,4,,,,Road noise.
+41,66,STE-081,VancouverIsland,8,MTBE,1,1,49,9,686,124,2,70,376,2023,3,10,100,0,0,,RM,7,19,1,AMRO,B,C,1,,Check. Was this before 7:45?,,"~100m from edge, stream noise from SSE."
+41,66,STE-081,VancouverIsland,8,MTBE,1,1,49,9,686,124,2,70,376,2023,3,10,100,0,0,,RM,7,19,2,SOSP,C,A,1,,,,"~100m from edge, stream noise from SSE."
+41,66,STE-081,VancouverIsland,8,MTBE,1,1,49,9,686,124,2,70,376,2023,3,10,100,0,0,,RM,7,19,3,UNID,B,D,3,,Did I hear this? SOSP? ~10:10.,,"~100m from edge, stream noise from SSE."
+41,66,STE-081,VancouverIsland,8,MTBE,1,1,49,9,686,124,2,70,376,2023,3,10,100,0,0,,RM,7,19,4,CORA,B,A,4,1,"Moved to Q4 Distance Bin A, then to E.",,"~100m from edge, stream noise from SSE."
+41,66,STE-081,VancouverIsland,8,MTBE,1,1,49,9,686,124,2,70,376,2023,3,10,100,0,0,,RM,7,19,5,STJA,C,A,4,,,,"~100m from edge, stream noise from SSE."
+41,66,STE-081,VancouverIsland,8,MTBE,1,1,49,9,686,124,2,70,376,2023,3,10,100,0,0,,RM,7,19,6,SOSP,C,A,4,,,,"~100m from edge, stream noise from SSE."
+41,66,STE-081,VancouverIsland,8,MTBE,1,1,49,9,686,124,2,70,376,2023,3,10,100,0,0,,RM,7,19,7,UNID,D,C,4,,NOFL? PIWO? ~5:20.,,"~100m from edge, stream noise from SSE."
+41,66,STE-081,VancouverIsland,8,MTBE,1,1,49,9,686,124,2,70,376,2023,3,10,100,0,0,,RM,7,19,8,CORA,E,B,4,1,Moved E.,,"~100m from edge, stream noise from SSE."
+42,67,STE-082,VancouverIsland,8,MTBE,2,1,49,9,661,124,2,386,458,2023,3,10,100,0,0,,RM,8,7,1,CBCH,A,B,1,,,,
+42,67,STE-082,VancouverIsland,8,MTBE,2,1,49,9,661,124,2,386,458,2023,3,10,100,0,0,,RM,8,7,2,VATH,C,A,2,,,,
+42,67,STE-082,VancouverIsland,8,MTBE,2,1,49,9,661,124,2,386,458,2023,3,10,100,0,0,,RM,8,7,3,DEJU,B,A,3,,"Countercalling Bird 4. Originally UNID, identified as DEJU by RM 20230316.",,
+42,67,STE-082,VancouverIsland,8,MTBE,2,1,49,9,661,124,2,386,458,2023,3,10,100,0,0,,RM,8,7,4,DEJU,B,C,4,,"Countercalling Bird 3. Originally UNID, identified as DEJU by RM 20230316.",,
+42,67,STE-082,VancouverIsland,8,MTBE,2,1,49,9,661,124,2,386,458,2023,3,10,100,0,0,,RM,8,7,5,CAGO,E,C,4,,,,
+42,67,STE-082,VancouverIsland,8,MTBE,2,1,49,9,661,124,2,386,458,2023,3,10,100,0,0,,RM,8,7,6,CAGO,E,C,4,,,,
+43,68,STE-083,VancouverIsland,8,MTBE,3,1,49,9,599,124,2,852,561,2023,3,10,100,0,0,,RM,9,6,1,DEJU,A,A,1,,Countercalling Bird 2 and 16.,,
+43,68,STE-083,VancouverIsland,8,MTBE,3,1,49,9,599,124,2,852,561,2023,3,10,100,0,0,,RM,9,6,2,DEJU,A,A,1,,Countercalling Bird 1 and 16.,,
+43,68,STE-083,VancouverIsland,8,MTBE,3,1,49,9,599,124,2,852,561,2023,3,10,100,0,0,,RM,9,6,3,DEJU,C,D,1,,,,
+43,68,STE-083,VancouverIsland,8,MTBE,3,1,49,9,599,124,2,852,561,2023,3,10,100,0,0,,RM,9,6,4,RBNU,D,C,1,,,,
+43,68,STE-083,VancouverIsland,8,MTBE,3,1,49,9,599,124,2,852,561,2023,3,10,100,0,0,,RM,9,6,5,GULL,E,C,1,,,,
+43,68,STE-083,VancouverIsland,8,MTBE,3,1,49,9,599,124,2,852,561,2023,3,10,100,0,0,,RM,9,6,6,CBCH,A,A,2,,,,
+43,68,STE-083,VancouverIsland,8,MTBE,3,1,49,9,599,124,2,852,561,2023,3,10,100,0,0,,RM,9,6,7,GCKI,A,A,2,1,Flock moved to Q1 Distance Bin A.,,
+43,68,STE-083,VancouverIsland,8,MTBE,3,1,49,9,599,124,2,852,561,2023,3,10,100,0,0,,RM,9,6,8,RBNU,A,A,2,,,,
+43,68,STE-083,VancouverIsland,8,MTBE,3,1,49,9,599,124,2,852,561,2023,3,10,100,0,0,,RM,9,6,9,VATH,A,D,2,,,,
+43,68,STE-083,VancouverIsland,8,MTBE,3,1,49,9,599,124,2,852,561,2023,3,10,100,0,0,,RM,9,6,10,VATH,A,D,2,,,,
+43,68,STE-083,VancouverIsland,8,MTBE,3,1,49,9,599,124,2,852,561,2023,3,10,100,0,0,,RM,9,6,11,CBCH,A,A,3,,,,
+43,68,STE-083,VancouverIsland,8,MTBE,3,1,49,9,599,124,2,852,561,2023,3,10,100,0,0,,RM,9,6,12,GCKI,A,A,3,1,Flock moved to Q1 Distance Bin A.,,
+43,68,STE-083,VancouverIsland,8,MTBE,3,1,49,9,599,124,2,852,561,2023,3,10,100,0,0,,RM,9,6,13,GCKI,A,A,3,1,Flock moved to Q1 Distance Bin A.,,
+43,68,STE-083,VancouverIsland,8,MTBE,3,1,49,9,599,124,2,852,561,2023,3,10,100,0,0,,RM,9,6,14,GCKI,A,A,3,1,Flock moved to Q1 Distance Bin A.,,
+43,68,STE-083,VancouverIsland,8,MTBE,3,1,49,9,599,124,2,852,561,2023,3,10,100,0,0,,RM,9,6,15,GCKI,A,A,3,1,Flock moved to Q1 Distance Bin A.,,
+43,68,STE-083,VancouverIsland,8,MTBE,3,1,49,9,599,124,2,852,561,2023,3,10,100,0,0,,RM,9,6,16,DEJU,A,A,4,,Countercalling Bird 1 and 2.,,
+43,68,STE-083,VancouverIsland,8,MTBE,3,1,49,9,599,124,2,852,561,2023,3,10,100,0,0,,RM,9,6,17,VATH,C,D,4,,,,
+44,69,STE-084,VancouverIsland,8,MTBE,4,1,49,9,449,124,2,841,666,2023,3,10,100,0,0,,RM,9,53,1,DEJU,D,D,1,,,,Wind at times up to 1.
+44,69,STE-084,VancouverIsland,8,MTBE,4,1,49,9,449,124,2,841,666,2023,3,10,100,0,0,,RM,9,53,2,AMCR,E,C,1,,Very unsure. Check.,,Wind at times up to 1.
+44,69,STE-084,VancouverIsland,8,MTBE,4,1,49,9,449,124,2,841,666,2023,3,10,100,0,0,,RM,9,53,3,RECR,D,B,4,,,,Wind at times up to 1.
+45,70,STE-085,VancouverIsland,8,MTBE,5,1,49,9,302,124,3,15,784,2023,3,10,100,0,0,,RM,10,40,1,GCKI,A,A,4,1,Flock moved to Q3 Distance Bin A.,,
+45,70,STE-085,VancouverIsland,8,MTBE,5,1,49,9,302,124,3,15,784,2023,3,10,100,0,0,,RM,10,40,2,GCKI,A,A,4,1,Flock moved to Q3 Distance Bin A.,,
+45,70,STE-085,VancouverIsland,8,MTBE,5,1,49,9,302,124,3,15,784,2023,3,10,100,0,0,,RM,10,40,3,GCKI,A,A,4,1,Flock moved to Q3 Distance Bin A.,,
+46,71,STE-086,VancouverIsland,9,GABR,1,1,49,10,143,123,48,692,142,2023,3,11,100,0,1,,RM,7,0,1,CBCH,A,A,1,,,,
+46,71,STE-086,VancouverIsland,9,GABR,1,1,49,10,143,123,48,692,142,2023,3,11,100,0,1,,RM,7,0,2,AMRO,A,A,1,,,,
+46,71,STE-086,VancouverIsland,9,GABR,1,1,49,10,143,123,48,692,142,2023,3,11,100,0,1,,RM,7,0,3,DEJU,B,D,1,,,,
+46,71,STE-086,VancouverIsland,9,GABR,1,1,49,10,143,123,48,692,142,2023,3,11,100,0,1,,RM,7,0,4,SPTO,C,A,1,,,,
+46,71,STE-086,VancouverIsland,9,GABR,1,1,49,10,143,123,48,692,142,2023,3,11,100,0,1,,RM,7,0,5,PIWO,D,A,1,,,,
+46,71,STE-086,VancouverIsland,9,GABR,1,1,49,10,143,123,48,692,142,2023,3,11,100,0,1,,RM,7,0,6,CORA,D,C,1,,,,
+46,71,STE-086,VancouverIsland,9,GABR,1,1,49,10,143,123,48,692,142,2023,3,11,100,0,1,,RM,7,0,7,SPTO,A,B,3,,Countercalling Bird 17.,,
+46,71,STE-086,VancouverIsland,9,GABR,1,1,49,10,143,123,48,692,142,2023,3,11,100,0,1,,RM,7,0,8,PAWR,A,C,3,,,,
+46,71,STE-086,VancouverIsland,9,GABR,1,1,49,10,143,123,48,692,142,2023,3,11,100,0,1,,RM,7,0,9,DEJU,B,A,3,,Moved to Q3 Distance Bin A.,,
+46,71,STE-086,VancouverIsland,9,GABR,1,1,49,10,143,123,48,692,142,2023,3,11,100,0,1,,RM,7,0,10,AMRO,B,A,3,,,,
+46,71,STE-086,VancouverIsland,9,GABR,1,1,49,10,143,123,48,692,142,2023,3,11,100,0,1,,RM,7,0,11,CORA,C,D,3,,,,
+46,71,STE-086,VancouverIsland,9,GABR,1,1,49,10,143,123,48,692,142,2023,3,11,100,0,1,,RM,7,0,12,CORA,E,D,3,,,,
+46,71,STE-086,VancouverIsland,9,GABR,1,1,49,10,143,123,48,692,142,2023,3,11,100,0,1,,RM,7,0,13,CBCH,A,A,4,,,,
+46,71,STE-086,VancouverIsland,9,GABR,1,1,49,10,143,123,48,692,142,2023,3,11,100,0,1,,RM,7,0,14,DEJU,A,A,4,,Countercalling Bird 15. Moved to Q4 Distance Bin B.,,
+46,71,STE-086,VancouverIsland,9,GABR,1,1,49,10,143,123,48,692,142,2023,3,11,100,0,1,,RM,7,0,15,DEJU,A,A,4,,Countercalling Bird 14. Moved to Q4 Distance Bin B.,,
+46,71,STE-086,VancouverIsland,9,GABR,1,1,49,10,143,123,48,692,142,2023,3,11,100,0,1,,RM,7,0,16,AMRO,A,B,4,,,,
+46,71,STE-086,VancouverIsland,9,GABR,1,1,49,10,143,123,48,692,142,2023,3,11,100,0,1,,RM,7,0,17,SPTO,A,B,4,,Countercalling Bird 7.,,
+46,71,STE-086,VancouverIsland,9,GABR,1,1,49,10,143,123,48,692,142,2023,3,11,100,0,1,,RM,7,0,18,NOFL,B,C,4,,,,
+46,71,STE-086,VancouverIsland,9,GABR,1,1,49,10,143,123,48,692,142,2023,3,11,100,0,1,,RM,7,0,19,CORA,E,B,4,,,,
+47,72,STE-087,VancouverIsland,9,GABR,2,1,49,10,17,123,48,565,147,2023,3,11,100,0,2,,RM,7,34,1,GCKI,A,B,2,,,,
+47,72,STE-087,VancouverIsland,9,GABR,2,1,49,10,17,123,48,565,147,2023,3,11,100,0,2,,RM,7,34,2,PISI,A,C,2,,Moved NNW.,,
+47,72,STE-087,VancouverIsland,9,GABR,2,1,49,10,17,123,48,565,147,2023,3,11,100,0,2,,RM,7,34,3,PUFI,B,A,2,,,,
+47,72,STE-087,VancouverIsland,9,GABR,2,1,49,10,17,123,48,565,147,2023,3,11,100,0,2,,RM,7,34,4,UNID,A,A,3,,"Chupping, almost like squirrel or SOSP. Might be the same individual as bird 6.",,
+47,72,STE-087,VancouverIsland,9,GABR,2,1,49,10,17,123,48,565,147,2023,3,11,100,0,2,,RM,7,34,5,GCKI,A,A,3,,,,
+47,72,STE-087,VancouverIsland,9,GABR,2,1,49,10,17,123,48,565,147,2023,3,11,100,0,2,,RM,7,34,6,SOSP,B,C,3,,Might be the same individual as Bird 4.,,
+47,72,STE-087,VancouverIsland,9,GABR,2,1,49,10,17,123,48,565,147,2023,3,11,100,0,2,,RM,7,34,7,SPTO,B,C,3,,,,
+47,72,STE-087,VancouverIsland,9,GABR,2,1,49,10,17,123,48,565,147,2023,3,11,100,0,2,,RM,7,34,8,AMRO,D,B,3,,,,
+47,72,STE-087,VancouverIsland,9,GABR,2,1,49,10,17,123,48,565,147,2023,3,11,100,0,2,,RM,7,34,9,CORA,C,A,4,,,,
+48,73,STE-088,VancouverIsland,9,GABR,3,1,49,9,864,123,48,528,136,2023,3,11,90,0,1,,RM,8,2,1,PAWR,A,A,1,,,,Corrected GPS point from 76 on sheet to 73.
+48,73,STE-088,VancouverIsland,9,GABR,3,1,49,9,864,123,48,528,136,2023,3,11,90,0,1,,RM,8,2,2,CORA,D,A,1,,,,Corrected GPS point from 76 on sheet to 73.
+48,73,STE-088,VancouverIsland,9,GABR,3,1,49,9,864,123,48,528,136,2023,3,11,90,0,1,,RM,8,2,3,UNID,D,D,1,,Check ~ 10:00.,,Corrected GPS point from 76 on sheet to 73.
+48,73,STE-088,VancouverIsland,9,GABR,3,1,49,9,864,123,48,528,136,2023,3,11,90,0,1,,RM,8,2,4,PUFI,B,C,2,,,,Corrected GPS point from 76 on sheet to 73.
+48,73,STE-088,VancouverIsland,9,GABR,3,1,49,9,864,123,48,528,136,2023,3,11,90,0,1,,RM,8,2,5,PISI,A,B,3,,,,Corrected GPS point from 76 on sheet to 73.
+48,73,STE-088,VancouverIsland,9,GABR,3,1,49,9,864,123,48,528,136,2023,3,11,90,0,1,,RM,8,2,6,PUFI,B,B,3,,Gargle. Moved SE.,,Corrected GPS point from 76 on sheet to 73.
+48,73,STE-088,VancouverIsland,9,GABR,3,1,49,9,864,123,48,528,136,2023,3,11,90,0,1,,RM,8,2,7,CORA,D,B,3,,Moved to Q4 Distance Bin B.,,Corrected GPS point from 76 on sheet to 73.
+48,73,STE-088,VancouverIsland,9,GABR,3,1,49,9,864,123,48,528,136,2023,3,11,90,0,1,,RM,8,2,8,RBNU,E,C,3,,,,Corrected GPS point from 76 on sheet to 73.
+48,73,STE-088,VancouverIsland,9,GABR,3,1,49,9,864,123,48,528,136,2023,3,11,90,0,1,,RM,8,2,9,CBCH,A,A,4,1,Flock moved to Q3 Distance Bin B.,,Corrected GPS point from 76 on sheet to 73.
+48,73,STE-088,VancouverIsland,9,GABR,3,1,49,9,864,123,48,528,136,2023,3,11,90,0,1,,RM,8,2,10,CBCH,A,A,4,1,Flock moved to Q3 Distance Bin B.,,Corrected GPS point from 76 on sheet to 73.
+48,73,STE-088,VancouverIsland,9,GABR,3,1,49,9,864,123,48,528,136,2023,3,11,90,0,1,,RM,8,2,11,GCKI,A,A,4,1,Flock moved to Q3 Distance Bin B.,,Corrected GPS point from 76 on sheet to 73.
+48,73,STE-088,VancouverIsland,9,GABR,3,1,49,9,864,123,48,528,136,2023,3,11,90,0,1,,RM,8,2,12,GCKI,A,A,4,1,Flock moved to Q3 Distance Bin B.,,Corrected GPS point from 76 on sheet to 73.
+48,73,STE-088,VancouverIsland,9,GABR,3,1,49,9,864,123,48,528,136,2023,3,11,90,0,1,,RM,8,2,13,GCKI,A,A,4,1,Flock moved to Q3 Distance Bin B.,,Corrected GPS point from 76 on sheet to 73.
+48,73,STE-088,VancouverIsland,9,GABR,3,1,49,9,864,123,48,528,136,2023,3,11,90,0,1,,RM,8,2,14,GCKI,A,A,4,1,Flock moved to Q3 Distance Bin B.,,Corrected GPS point from 76 on sheet to 73.
+48,73,STE-088,VancouverIsland,9,GABR,3,1,49,9,864,123,48,528,136,2023,3,11,90,0,1,,RM,8,2,15,GCKI,A,A,4,1,Flock moved to Q3 Distance Bin B.,,Corrected GPS point from 76 on sheet to 73.
+48,73,STE-088,VancouverIsland,9,GABR,3,1,49,9,864,123,48,528,136,2023,3,11,90,0,1,,RM,8,2,16,GCKI,A,A,4,1,Flock moved to Q3 Distance Bin B.,,Corrected GPS point from 76 on sheet to 73.
+48,73,STE-088,VancouverIsland,9,GABR,3,1,49,9,864,123,48,528,136,2023,3,11,90,0,1,,RM,8,2,17,GCKI,A,A,4,1,Flock moved to Q3 Distance Bin B.,,Corrected GPS point from 76 on sheet to 73.
+48,73,STE-088,VancouverIsland,9,GABR,3,1,49,9,864,123,48,528,136,2023,3,11,90,0,1,,RM,8,2,18,GCKI,A,A,4,1,Flock moved to Q3 Distance Bin B.,,Corrected GPS point from 76 on sheet to 73.
+48,73,STE-088,VancouverIsland,9,GABR,3,1,49,9,864,123,48,528,136,2023,3,11,90,0,1,,RM,8,2,19,GCKI,A,A,4,1,Flock moved to Q3 Distance Bin B.,,Corrected GPS point from 76 on sheet to 73.
+48,73,STE-088,VancouverIsland,9,GABR,3,1,49,9,864,123,48,528,136,2023,3,11,90,0,1,,RM,8,2,20,GCKI,A,A,4,1,Flock moved to Q3 Distance Bin B.,,Corrected GPS point from 76 on sheet to 73.
+49,74,STE-089,VancouverIsland,9,GABR,4,1,49,9,848,123,48,252,128,2023,3,11,80,0,1,,RM,8,34,1,PIWO,B,A,1,,,,
+49,74,STE-089,VancouverIsland,9,GABR,4,1,49,9,848,123,48,252,128,2023,3,11,80,0,1,,RM,8,34,2,SOSP,B,D,1,,Might be the same individual as Bird 11.,,
+49,74,STE-089,VancouverIsland,9,GABR,4,1,49,9,848,123,48,252,128,2023,3,11,80,0,1,,RM,8,34,3,SOSP,C,D,1,,,,
+49,74,STE-089,VancouverIsland,9,GABR,4,1,49,9,848,123,48,252,128,2023,3,11,80,0,1,,RM,8,34,4,DEJU,C,D,1,,,,
+49,74,STE-089,VancouverIsland,9,GABR,4,1,49,9,848,123,48,252,128,2023,3,11,80,0,1,,RM,8,34,5,CORA,E,A,1,,,,
+49,74,STE-089,VancouverIsland,9,GABR,4,1,49,9,848,123,48,252,128,2023,3,11,80,0,1,,RM,8,34,6,CORA,E,A,1,,,,
+49,74,STE-089,VancouverIsland,9,GABR,4,1,49,9,848,123,48,252,128,2023,3,11,80,0,1,,RM,8,34,7,SOSP,B,B,3,,,,
+49,74,STE-089,VancouverIsland,9,GABR,4,1,49,9,848,123,48,252,128,2023,3,11,80,0,1,,RM,8,34,8,UNID,C,C,3,,DEJU? Something squeaky around 6:20.,,
+49,74,STE-089,VancouverIsland,9,GABR,4,1,49,9,848,123,48,252,128,2023,3,11,80,0,1,,RM,8,34,9,PISI,D,A,3,,Moved to Q3 Distance Bin B.,,
+49,74,STE-089,VancouverIsland,9,GABR,4,1,49,9,848,123,48,252,128,2023,3,11,80,0,1,,RM,8,34,10,CORA,D,B,3,,,,
+49,74,STE-089,VancouverIsland,9,GABR,4,1,49,9,848,123,48,252,128,2023,3,11,80,0,1,,RM,8,34,11,UNID,A,A,4,,Missed this. SOSP? ~0:30.,,
+50,75,STE-090,VancouverIsland,9,GABR,5,1,49,9,777,123,48,10,124,2023,3,11,90,0,2,,RM,9,11,1,SOSP,A,A,1,,,,
+50,75,STE-090,VancouverIsland,9,GABR,5,1,49,9,777,123,48,10,124,2023,3,11,90,0,2,,RM,9,11,2,BAEA,B,A,1,,,,
+50,75,STE-090,VancouverIsland,9,GABR,5,1,49,9,777,123,48,10,124,2023,3,11,90,0,2,,RM,9,11,3,PAWR,B,C,1,,,,
+50,75,STE-090,VancouverIsland,9,GABR,5,1,49,9,777,123,48,10,124,2023,3,11,90,0,2,,RM,9,11,4,CORA,D,B,1,,,,
+50,75,STE-090,VancouverIsland,9,GABR,5,1,49,9,777,123,48,10,124,2023,3,11,90,0,2,,RM,9,11,5,CORA,E,B,1,,,,
+50,75,STE-090,VancouverIsland,9,GABR,5,1,49,9,777,123,48,10,124,2023,3,11,90,0,2,,RM,9,11,6,SOSP,B,A,2,,,,
+50,75,STE-090,VancouverIsland,9,GABR,5,1,49,9,777,123,48,10,124,2023,3,11,90,0,2,,RM,9,11,7,CORA,C,A,3,,,,
+50,75,STE-090,VancouverIsland,9,GABR,5,1,49,9,777,123,48,10,124,2023,3,11,90,0,2,,RM,9,11,8,DEJU,A,A,4,,,,
+50,75,STE-090,VancouverIsland,9,GABR,5,1,49,9,777,123,48,10,124,2023,3,11,90,0,2,,RM,9,11,9,SOSP,B,A,4,,Moved to Q3 Distance Bin B.,,
+50,75,STE-090,VancouverIsland,9,GABR,5,1,49,9,777,123,48,10,124,2023,3,11,90,0,2,,RM,9,11,10,RECR,B,B,4,,,,
+50,75,STE-090,VancouverIsland,9,GABR,5,1,49,9,777,123,48,10,124,2023,3,11,90,0,2,,RM,9,11,11,CORA,B,B,4,,,,
+50,75,STE-090,VancouverIsland,9,GABR,5,1,49,9,777,123,48,10,124,2023,3,11,90,0,2,,RM,9,11,12,CBCH,C,C,4,,,,
+50,75,STE-090,VancouverIsland,9,GABR,5,1,49,9,777,123,48,10,124,2023,3,11,90,0,2,,RM,9,11,13,SOSP,D,D,4,,,,
+50,75,STE-090,VancouverIsland,9,GABR,5,1,49,9,777,123,48,10,124,2023,3,11,90,0,2,,RM,9,11,14,CORA,F,,,,,,
+51,77,STE-091,VancouverIsland,9,GABR,6,1,49,9,955,123,47,792,119,2023,3,11,100,0,1,,RM,9,45,1,DEJU,A,A,1,,,,Wind up to 2 at times.
+51,77,STE-091,VancouverIsland,9,GABR,6,1,49,9,955,123,47,792,119,2023,3,11,100,0,1,,RM,9,45,2,SOSP,A,A,1,,,,Wind up to 2 at times.
+51,77,STE-091,VancouverIsland,9,GABR,6,1,49,9,955,123,47,792,119,2023,3,11,100,0,1,,RM,9,45,3,CORA,C,A,1,,,,Wind up to 2 at times.
+51,77,STE-091,VancouverIsland,9,GABR,6,1,49,9,955,123,47,792,119,2023,3,11,100,0,1,,RM,9,45,4,DEJU,C,D,1,,,,Wind up to 2 at times.
+51,77,STE-091,VancouverIsland,9,GABR,6,1,49,9,955,123,47,792,119,2023,3,11,100,0,1,,RM,9,45,5,PISI,A,D,2,1,,,Wind up to 2 at times.
+51,77,STE-091,VancouverIsland,9,GABR,6,1,49,9,955,123,47,792,119,2023,3,11,100,0,1,,RM,9,45,6,PISI,A,D,2,1,,,Wind up to 2 at times.
+51,77,STE-091,VancouverIsland,9,GABR,6,1,49,9,955,123,47,792,119,2023,3,11,100,0,1,,RM,9,45,7,GCKI,A,B,3,2,Flock moved to Q1 Distance Bin A.,,Wind up to 2 at times.
+51,77,STE-091,VancouverIsland,9,GABR,6,1,49,9,955,123,47,792,119,2023,3,11,100,0,1,,RM,9,45,8,GCKI,A,C,3,2,Flock moved to Q1 Distance Bin A.,,Wind up to 2 at times.
+51,77,STE-091,VancouverIsland,9,GABR,6,1,49,9,955,123,47,792,119,2023,3,11,100,0,1,,RM,9,45,9,UNID,C,B,3,,RECR? Dzweeep.,,Wind up to 2 at times.
+51,77,STE-091,VancouverIsland,9,GABR,6,1,49,9,955,123,47,792,119,2023,3,11,100,0,1,,RM,9,45,10,CORA,D,C,3,,,,Wind up to 2 at times.
+51,77,STE-091,VancouverIsland,9,GABR,6,1,49,9,955,123,47,792,119,2023,3,11,100,0,1,,RM,9,45,11,NOFL,C,A,4,,,,Wind up to 2 at times.
+51,77,STE-091,VancouverIsland,9,GABR,6,1,49,9,955,123,47,792,119,2023,3,11,100,0,1,,RM,9,45,12,AMRO,C,B,4,,,,Wind up to 2 at times.
+51,77,STE-091,VancouverIsland,9,GABR,6,1,49,9,955,123,47,792,119,2023,3,11,100,0,1,,RM,9,45,13,DEJU,C,C,4,,,,Wind up to 2 at times.
+51,77,STE-091,VancouverIsland,9,GABR,6,1,49,9,955,123,47,792,119,2023,3,11,100,0,1,,RM,9,45,14,CORA,D,B,4,,,,Wind up to 2 at times.
+52,78,STE-092,VancouverIsland,9,GABR,7,1,49,9,955,123,8,14,123,2023,3,11,95,0,1,,RM,10,17,1,PAWR,A,A,1,,Moved to Q1 Distance Bin B.,,
+52,78,STE-092,VancouverIsland,9,GABR,7,1,49,9,955,123,8,14,123,2023,3,11,95,0,1,,RM,10,17,2,SOSP,B,A,1,,,,
+52,78,STE-092,VancouverIsland,9,GABR,7,1,49,9,955,123,8,14,123,2023,3,11,95,0,1,,RM,10,17,3,PIWO,A,A,2,,,,
+52,78,STE-092,VancouverIsland,9,GABR,7,1,49,9,955,123,8,14,123,2023,3,11,95,0,1,,RM,10,17,4,GCKI,A,A,2,1,Flock moved to Q3 Distance Bin A.,,
+52,78,STE-092,VancouverIsland,9,GABR,7,1,49,9,955,123,8,14,123,2023,3,11,95,0,1,,RM,10,17,5,GCKI,A,A,2,1,Flock moved to Q3 Distance Bin A.,,
+52,78,STE-092,VancouverIsland,9,GABR,7,1,49,9,955,123,8,14,123,2023,3,11,95,0,1,,RM,10,17,6,GCKI,A,C,2,,,,
+52,78,STE-092,VancouverIsland,9,GABR,7,1,49,9,955,123,8,14,123,2023,3,11,95,0,1,,RM,10,17,7,AMRO,C,A,2,,,,
+52,78,STE-092,VancouverIsland,9,GABR,7,1,49,9,955,123,8,14,123,2023,3,11,95,0,1,,RM,10,17,8,CORA,E,A,2,,,,
+52,78,STE-092,VancouverIsland,9,GABR,7,1,49,9,955,123,8,14,123,2023,3,11,95,0,1,,RM,10,17,9,PAWR,A,A,3,,,,
+52,78,STE-092,VancouverIsland,9,GABR,7,1,49,9,955,123,8,14,123,2023,3,11,95,0,1,,RM,10,17,10,GCKI,A,A,3,1,Flock moved to Q3 Distance Bin A.,,
+52,78,STE-092,VancouverIsland,9,GABR,7,1,49,9,955,123,8,14,123,2023,3,11,95,0,1,,RM,10,17,11,GCKI,A,D,3,2,,,
+52,78,STE-092,VancouverIsland,9,GABR,7,1,49,9,955,123,8,14,123,2023,3,11,95,0,1,,RM,10,17,12,GCKI,A,D,3,2,,,
+52,78,STE-092,VancouverIsland,9,GABR,7,1,49,9,955,123,8,14,123,2023,3,11,95,0,1,,RM,10,17,13,GCKI,A,D,3,2,,,
+52,78,STE-092,VancouverIsland,9,GABR,7,1,49,9,955,123,8,14,123,2023,3,11,95,0,1,,RM,10,17,14,CORA,C,A,3,,,,
+52,78,STE-092,VancouverIsland,9,GABR,7,1,49,9,955,123,8,14,123,2023,3,11,95,0,1,,RM,10,17,15,PAWR,A,A,4,,,,
+52,78,STE-092,VancouverIsland,9,GABR,7,1,49,9,955,123,8,14,123,2023,3,11,95,0,1,,RM,10,17,16,GCKI,A,A,4,,Moved to Q1 Distance Bin A.,,
+52,78,STE-092,VancouverIsland,9,GABR,7,1,49,9,955,123,8,14,123,2023,3,11,95,0,1,,RM,10,17,17,RCKI,A,B,4,,,,
+52,78,STE-092,VancouverIsland,9,GABR,7,1,49,9,955,123,8,14,123,2023,3,11,95,0,1,,RM,10,17,18,SPTO,B,D,4,,,,
+53,79,STE-093,VancouverIsland,9,GABR,8,1,49,9,999,123,48,229,118,2023,3,11,100,0,1,,RM,10,48,1,CBCH,A,A,1,1,Flock moved to Q1 Distance Bin B.,,
+53,79,STE-093,VancouverIsland,9,GABR,8,1,49,9,999,123,48,229,118,2023,3,11,100,0,1,,RM,10,48,2,CBCH,A,B,1,1,Flock moved to Q1 Distance Bin B.,,
+53,79,STE-093,VancouverIsland,9,GABR,8,1,49,9,999,123,48,229,118,2023,3,11,100,0,1,,RM,10,48,3,CBCH,A,B,1,1,Flock moved to Q1 Distance Bin B.,,
+53,79,STE-093,VancouverIsland,9,GABR,8,1,49,9,999,123,48,229,118,2023,3,11,100,0,1,,RM,10,48,4,VATH,D,D,1,,,,
+53,79,STE-093,VancouverIsland,9,GABR,8,1,49,9,999,123,48,229,118,2023,3,11,100,0,1,,RM,10,48,5,GCKI,A,C,2,,,,
+53,79,STE-093,VancouverIsland,9,GABR,8,1,49,9,999,123,48,229,118,2023,3,11,100,0,1,,RM,10,48,6,PAWR,A,C,2,,"Countercalling Bird 7. Calls, not song.",,
+53,79,STE-093,VancouverIsland,9,GABR,8,1,49,9,999,123,48,229,118,2023,3,11,100,0,1,,RM,10,48,7,PAWR,B,C,2,,"Countercalling Bird 6. Calls, not song.",,
+53,79,STE-093,VancouverIsland,9,GABR,8,1,49,9,999,123,48,229,118,2023,3,11,100,0,1,,RM,10,48,8,AMRO,D,C,2,,Moved to Q2 Distance Bin C.,,
+53,79,STE-093,VancouverIsland,9,GABR,8,1,49,9,999,123,48,229,118,2023,3,11,100,0,1,,RM,10,48,9,GCKI,A,C,3,,,,
+53,79,STE-093,VancouverIsland,9,GABR,8,1,49,9,999,123,48,229,118,2023,3,11,100,0,1,,RM,10,48,10,RECR,B,D,3,,Unsure. Check ~9:30.,,
+53,79,STE-093,VancouverIsland,9,GABR,8,1,49,9,999,123,48,229,118,2023,3,11,100,0,1,,RM,10,48,11,VATH,E,A,3,,,,
+53,79,STE-093,VancouverIsland,9,GABR,8,1,49,9,999,123,48,229,118,2023,3,11,100,0,1,,RM,10,48,12,CBCH,A,B,4,1,Flock moved to Q1 Distance Bin B.,,
+53,79,STE-093,VancouverIsland,9,GABR,8,1,49,9,999,123,48,229,118,2023,3,11,100,0,1,,RM,10,48,13,CBCH,A,A,4,1,Flock moved to Q1 Distance Bin B.,,
+53,79,STE-093,VancouverIsland,9,GABR,8,1,49,9,999,123,48,229,118,2023,3,11,100,0,1,,RM,10,48,14,GCKI,A,A,4,,,,
+53,79,STE-093,VancouverIsland,9,GABR,8,1,49,9,999,123,48,229,118,2023,3,11,100,0,1,,RM,10,48,15,BRCR,A,A,4,,,,
+53,79,STE-093,VancouverIsland,9,GABR,8,1,49,9,999,123,48,229,118,2023,3,11,100,0,1,,RM,10,48,16,SPTO,A,B,4,,,,
+53,79,STE-093,VancouverIsland,9,GABR,8,1,49,9,999,123,48,229,118,2023,3,11,100,0,1,,RM,10,48,17,UNID,A,B,4,,Tsweeeeep. Merlin suggests CBCH.,,
+53,79,STE-093,VancouverIsland,9,GABR,8,1,49,9,999,123,48,229,118,2023,3,11,100,0,1,,RM,10,48,18,RBNU,C,B,4,,,,
+53,79,STE-093,VancouverIsland,9,GABR,8,1,49,9,999,123,48,229,118,2023,3,11,100,0,1,,RM,10,48,19,SOSP,D,B,4,,,,
+54,80,STE-094,VancouverIsland,10,LINL,1,1,49,13,401,123,59,904,175,2023,3,12,90,0,0,,RM,7,46,1,SPTO,A,B,1,,,,
+54,80,STE-094,VancouverIsland,10,LINL,1,1,49,13,401,123,59,904,175,2023,3,12,90,0,0,,RM,7,46,2,AMRO,B,D,1,,,,
+54,80,STE-094,VancouverIsland,10,LINL,1,1,49,13,401,123,59,904,175,2023,3,12,90,0,0,,RM,7,46,3,RBNU,C,A,1,,,,
+54,80,STE-094,VancouverIsland,10,LINL,1,1,49,13,401,123,59,904,175,2023,3,12,90,0,0,,RM,7,46,4,VATH,C,C,1,,,,
+54,80,STE-094,VancouverIsland,10,LINL,1,1,49,13,401,123,59,904,175,2023,3,12,90,0,0,,RM,7,46,5,CORA,D,A,1,,,,
+54,80,STE-094,VancouverIsland,10,LINL,1,1,49,13,401,123,59,904,175,2023,3,12,90,0,0,,RM,7,46,6,GCKI,A,A,2,,Moved to Q4 Distance Bin A.,,
+54,80,STE-094,VancouverIsland,10,LINL,1,1,49,13,401,123,59,904,175,2023,3,12,90,0,0,,RM,7,46,7,GCKI,A,A,2,,Moved to Q1 Distance Bin A.,,
+54,80,STE-094,VancouverIsland,10,LINL,1,1,49,13,401,123,59,904,175,2023,3,12,90,0,0,,RM,7,46,8,CBCH,A,A,2,,Moved to Q1 Distance Bin A.,,
+54,80,STE-094,VancouverIsland,10,LINL,1,1,49,13,401,123,59,904,175,2023,3,12,90,0,0,,RM,7,46,9,GCKI,A,D,2,,,,
+54,80,STE-094,VancouverIsland,10,LINL,1,1,49,13,401,123,59,904,175,2023,3,12,90,0,0,,RM,7,46,10,CBCH,A,D,2,,,,
+54,80,STE-094,VancouverIsland,10,LINL,1,1,49,13,401,123,59,904,175,2023,3,12,90,0,0,,RM,7,46,11,VATH,B,A,2,,,,
+54,80,STE-094,VancouverIsland,10,LINL,1,1,49,13,401,123,59,904,175,2023,3,12,90,0,0,,RM,7,46,12,PAWR,B,A,2,,,,
+54,80,STE-094,VancouverIsland,10,LINL,1,1,49,13,401,123,59,904,175,2023,3,12,90,0,0,,RM,7,46,13,PUFI,B,A,2,,Countercalling Bird 23.,,
+54,80,STE-094,VancouverIsland,10,LINL,1,1,49,13,401,123,59,904,175,2023,3,12,90,0,0,,RM,7,46,14,BRCR,B,D,2,,,,
+54,80,STE-094,VancouverIsland,10,LINL,1,1,49,13,401,123,59,904,175,2023,3,12,90,0,0,,RM,7,46,15,VATH,C,A,2,,,,
+54,80,STE-094,VancouverIsland,10,LINL,1,1,49,13,401,123,59,904,175,2023,3,12,90,0,0,,RM,7,46,16,RBNU,C,B,2,,,,
+54,80,STE-094,VancouverIsland,10,LINL,1,1,49,13,401,123,59,904,175,2023,3,12,90,0,0,,RM,7,46,17,AMRO,A,A,3,,,,
+54,80,STE-094,VancouverIsland,10,LINL,1,1,49,13,401,123,59,904,175,2023,3,12,90,0,0,,RM,7,46,18,SPTO,B,A,3,,,,
+54,80,STE-094,VancouverIsland,10,LINL,1,1,49,13,401,123,59,904,175,2023,3,12,90,0,0,,RM,7,46,19,AMRO,D,B,3,,,,
+54,80,STE-094,VancouverIsland,10,LINL,1,1,49,13,401,123,59,904,175,2023,3,12,90,0,0,,RM,7,46,20,CORA,E,D,3,,,,
+54,80,STE-094,VancouverIsland,10,LINL,1,1,49,13,401,123,59,904,175,2023,3,12,90,0,0,,RM,7,46,21,DEJU,A,B,4,,,,
+54,80,STE-094,VancouverIsland,10,LINL,1,1,49,13,401,123,59,904,175,2023,3,12,90,0,0,,RM,7,46,22,CBCH,A,D,4,,,,
+54,80,STE-094,VancouverIsland,10,LINL,1,1,49,13,401,123,59,904,175,2023,3,12,90,0,0,,RM,7,46,23,PUFI,B,A,4,,Countercalling Bird 13.,,
+54,80,STE-094,VancouverIsland,10,LINL,1,1,49,13,401,123,59,904,175,2023,3,12,90,0,0,,RM,7,46,24,CORA,C,C,4,,,,
+55,81,STE-095,VancouverIsland,10,LINL,2,1,49,13,348,123,59,609,156,2023,3,12,70,0,0,,RM,8,19,1,CBCH,A,A,1,,,,Ridge ~ 50m SW.
+55,81,STE-095,VancouverIsland,10,LINL,2,1,49,13,348,123,59,609,156,2023,3,12,70,0,0,,RM,8,19,2,DEJU,A,A,1,,Moved to Q1 Distance Bin 2.,,Ridge ~ 50m SW.
+55,81,STE-095,VancouverIsland,10,LINL,2,1,49,13,348,123,59,609,156,2023,3,12,70,0,0,,RM,8,19,3,SPTO,B,A,1,,Countercalling Bird 8.,,Ridge ~ 50m SW.
+55,81,STE-095,VancouverIsland,10,LINL,2,1,49,13,348,123,59,609,156,2023,3,12,70,0,0,,RM,8,19,4,RBNU,B,A,1,,,,Ridge ~ 50m SW.
+55,81,STE-095,VancouverIsland,10,LINL,2,1,49,13,348,123,59,609,156,2023,3,12,70,0,0,,RM,8,19,5,UNID,C,A,1,,~1:30.,,Ridge ~ 50m SW.
+55,81,STE-095,VancouverIsland,10,LINL,2,1,49,13,348,123,59,609,156,2023,3,12,70,0,0,,RM,8,19,6,CBCH,A,B,2,,,,Ridge ~ 50m SW.
+55,81,STE-095,VancouverIsland,10,LINL,2,1,49,13,348,123,59,609,156,2023,3,12,70,0,0,,RM,8,19,7,GCKI,A,C,2,,,,Ridge ~ 50m SW.
+55,81,STE-095,VancouverIsland,10,LINL,2,1,49,13,348,123,59,609,156,2023,3,12,70,0,0,,RM,8,19,8,SPTO,A,C,2,,Countercalling Bird 3 and Bird 14.,,Ridge ~ 50m SW.
+55,81,STE-095,VancouverIsland,10,LINL,2,1,49,13,348,123,59,609,156,2023,3,12,70,0,0,,RM,8,19,9,PIWO,D,A,2,,,,Ridge ~ 50m SW.
+55,81,STE-095,VancouverIsland,10,LINL,2,1,49,13,348,123,59,609,156,2023,3,12,70,0,0,,RM,8,19,10,RBNU,D,B,2,,,,Ridge ~ 50m SW.
+55,81,STE-095,VancouverIsland,10,LINL,2,1,49,13,348,123,59,609,156,2023,3,12,70,0,0,,RM,8,19,11,CBCH,A,A,3,,,,Ridge ~ 50m SW.
+55,81,STE-095,VancouverIsland,10,LINL,2,1,49,13,348,123,59,609,156,2023,3,12,70,0,0,,RM,8,19,12,GCKI,A,C,3,,,,Ridge ~ 50m SW.
+55,81,STE-095,VancouverIsland,10,LINL,2,1,49,13,348,123,59,609,156,2023,3,12,70,0,0,,RM,8,19,13,CORA,D,B,3,,,,Ridge ~ 50m SW.
+55,81,STE-095,VancouverIsland,10,LINL,2,1,49,13,348,123,59,609,156,2023,3,12,70,0,0,,RM,8,19,14,SPTO,A,A,4,,Countercalling Bird 8. Moved to Q4 Distance Bin B.,,Ridge ~ 50m SW.
+55,81,STE-095,VancouverIsland,10,LINL,2,1,49,13,348,123,59,609,156,2023,3,12,70,0,0,,RM,8,19,15,CBCH,A,A,4,,,,Ridge ~ 50m SW.
+55,81,STE-095,VancouverIsland,10,LINL,2,1,49,13,348,123,59,609,156,2023,3,12,70,0,0,,RM,8,19,16,CBCH,A,A,4,,,,Ridge ~ 50m SW.
+55,81,STE-095,VancouverIsland,10,LINL,2,1,49,13,348,123,59,609,156,2023,3,12,70,0,0,,RM,8,19,17,ANHU,A,C,4,,,,Ridge ~ 50m SW.
+55,81,STE-095,VancouverIsland,10,LINL,2,1,49,13,348,123,59,609,156,2023,3,12,70,0,0,,RM,8,19,18,PUFI,B,B,4,,,,Ridge ~ 50m SW.
+55,81,STE-095,VancouverIsland,10,LINL,2,1,49,13,348,123,59,609,156,2023,3,12,70,0,0,,RM,8,19,19,AMRO,B,B,4,,,,Ridge ~ 50m SW.
+55,81,STE-095,VancouverIsland,10,LINL,2,1,49,13,348,123,59,609,156,2023,3,12,70,0,0,,RM,8,19,20,AMRO,B,B,4,,,,Ridge ~ 50m SW.
+55,81,STE-095,VancouverIsland,10,LINL,2,1,49,13,348,123,59,609,156,2023,3,12,70,0,0,,RM,8,19,21,PUFI,B,B,4,,,,Ridge ~ 50m SW.
+55,81,STE-095,VancouverIsland,10,LINL,2,1,49,13,348,123,59,609,156,2023,3,12,70,0,0,,RM,8,19,22,NOFL,B,B,4,,Countercalling Bird 27.,,Ridge ~ 50m SW.
+55,81,STE-095,VancouverIsland,10,LINL,2,1,49,13,348,123,59,609,156,2023,3,12,70,0,0,,RM,8,19,23,NOFL,D,A,4,,,,Ridge ~ 50m SW.
+55,81,STE-095,VancouverIsland,10,LINL,2,1,49,13,348,123,59,609,156,2023,3,12,70,0,0,,RM,8,19,24,RBNU,D,A,4,,,,Ridge ~ 50m SW.
+55,81,STE-095,VancouverIsland,10,LINL,2,1,49,13,348,123,59,609,156,2023,3,12,70,0,0,,RM,8,19,25,PUFI,D,A,4,,,,Ridge ~ 50m SW.
+55,81,STE-095,VancouverIsland,10,LINL,2,1,49,13,348,123,59,609,156,2023,3,12,70,0,0,,RM,8,19,26,RBNU,D,D,4,,,,Ridge ~ 50m SW.
+55,81,STE-095,VancouverIsland,10,LINL,2,1,49,13,348,123,59,609,156,2023,3,12,70,0,0,,RM,8,19,27,NOFL,E,A,4,,Countercalling Bird 22. Moved to Q4 Distance Bin D.,,Ridge ~ 50m SW.
+56,82,STE-096,VancouverIsland,10,LINL,3,1,49,13,569,123,59,967,206,2023,3,12,40,0,2,,RM,9,6,1,ANHU,A,C,1,,,,Corrected Recording from STE-095 on Sheet to STE-096.
+56,82,STE-096,VancouverIsland,10,LINL,3,1,49,13,569,123,59,967,206,2023,3,12,40,0,2,,RM,9,6,2,CBCH,A,C,1,,,,Corrected Recording from STE-095 on Sheet to STE-096.
+56,82,STE-096,VancouverIsland,10,LINL,3,1,49,13,569,123,59,967,206,2023,3,12,40,0,2,,RM,9,6,3,SPTO,B,A,1,,,,Corrected Recording from STE-095 on Sheet to STE-096.
+56,82,STE-096,VancouverIsland,10,LINL,3,1,49,13,569,123,59,967,206,2023,3,12,40,0,2,,RM,9,6,4,HAWO,B,C,1,,Unsure of ID. DOWO? Moved ENE.,,Corrected Recording from STE-095 on Sheet to STE-096.
+56,82,STE-096,VancouverIsland,10,LINL,3,1,49,13,569,123,59,967,206,2023,3,12,40,0,2,,RM,9,6,5,HAWO,B,C,1,,Unsure of ID. DOWO? Moved ENE.,,Corrected Recording from STE-095 on Sheet to STE-096.
+56,82,STE-096,VancouverIsland,10,LINL,3,1,49,13,569,123,59,967,206,2023,3,12,40,0,2,,RM,9,6,6,RBNU,C,A,1,,,,Corrected Recording from STE-095 on Sheet to STE-096.
+56,82,STE-096,VancouverIsland,10,LINL,3,1,49,13,569,123,59,967,206,2023,3,12,40,0,2,,RM,9,6,7,UNID,C,B,1,,~4:00.,,Corrected Recording from STE-095 on Sheet to STE-096.
+56,82,STE-096,VancouverIsland,10,LINL,3,1,49,13,569,123,59,967,206,2023,3,12,40,0,2,,RM,9,6,8,DEJU,C,D,1,,Countercalling Bird 10.,,Corrected Recording from STE-095 on Sheet to STE-096.
+56,82,STE-096,VancouverIsland,10,LINL,3,1,49,13,569,123,59,967,206,2023,3,12,40,0,2,,RM,9,6,9,RBNU,C,D,1,,,,Corrected Recording from STE-095 on Sheet to STE-096.
+56,82,STE-096,VancouverIsland,10,LINL,3,1,49,13,569,123,59,967,206,2023,3,12,40,0,2,,RM,9,6,10,DEJU,D,A,1,,Countercalling Bird 8. Moved to Q1 Distance Band C.,,Corrected Recording from STE-095 on Sheet to STE-096.
+56,82,STE-096,VancouverIsland,10,LINL,3,1,49,13,569,123,59,967,206,2023,3,12,40,0,2,,RM,9,6,11,CBCH,A,A,2,,,,Corrected Recording from STE-095 on Sheet to STE-096.
+56,82,STE-096,VancouverIsland,10,LINL,3,1,49,13,569,123,59,967,206,2023,3,12,40,0,2,,RM,9,6,12,CORA,B,D,2,,,,Corrected Recording from STE-095 on Sheet to STE-096.
+56,82,STE-096,VancouverIsland,10,LINL,3,1,49,13,569,123,59,967,206,2023,3,12,40,0,2,,RM,9,6,13,AMRO,D,D,2,,,,Corrected Recording from STE-095 on Sheet to STE-096.
+56,82,STE-096,VancouverIsland,10,LINL,3,1,49,13,569,123,59,967,206,2023,3,12,40,0,2,,RM,9,6,14,GCKI,A,D,3,,,,Corrected Recording from STE-095 on Sheet to STE-096.
+56,82,STE-096,VancouverIsland,10,LINL,3,1,49,13,569,123,59,967,206,2023,3,12,40,0,2,,RM,9,6,15,CORA,B,D,3,,,,Corrected Recording from STE-095 on Sheet to STE-096.
+56,82,STE-096,VancouverIsland,10,LINL,3,1,49,13,569,123,59,967,206,2023,3,12,40,0,2,,RM,9,6,16,SOSP,C,B,3,,,,Corrected Recording from STE-095 on Sheet to STE-096.
+56,82,STE-096,VancouverIsland,10,LINL,3,1,49,13,569,123,59,967,206,2023,3,12,40,0,2,,RM,9,6,17,CORA,E,B,3,,,,Corrected Recording from STE-095 on Sheet to STE-096.
+56,82,STE-096,VancouverIsland,10,LINL,3,1,49,13,569,123,59,967,206,2023,3,12,40,0,2,,RM,9,6,18,CBCH,A,A,4,,Moved to Q3 Distance Bin A.,,Corrected Recording from STE-095 on Sheet to STE-096.
+56,82,STE-096,VancouverIsland,10,LINL,3,1,49,13,569,123,59,967,206,2023,3,12,40,0,2,,RM,9,6,19,ANHU,A,A,4,,,,Corrected Recording from STE-095 on Sheet to STE-096.
+56,82,STE-096,VancouverIsland,10,LINL,3,1,49,13,569,123,59,967,206,2023,3,12,40,0,2,,RM,9,6,20,CBCH,A,B,4,,,,Corrected Recording from STE-095 on Sheet to STE-096.
+56,82,STE-096,VancouverIsland,10,LINL,3,1,49,13,569,123,59,967,206,2023,3,12,40,0,2,,RM,9,6,21,CBCH,B,A,4,,Moved to Q4 Distance Bin A.,,Corrected Recording from STE-095 on Sheet to STE-096.
+57,83,STE-097,VancouverIsland,10,LINL,4,1,49,13,594,124,0,296,177,2023,3,12,10,0,2,,RM,9,39,1,CBCH,A,B,1,,,,Ridge ~50m SW.
+57,83,STE-097,VancouverIsland,10,LINL,4,1,49,13,594,124,0,296,177,2023,3,12,10,0,2,,RM,9,39,2,DEJU,A,B,1,,,,Ridge ~50m SW.
+57,83,STE-097,VancouverIsland,10,LINL,4,1,49,13,594,124,0,296,177,2023,3,12,10,0,2,,RM,9,39,3,GCKI,A,D,1,,,,Ridge ~50m SW.
+57,83,STE-097,VancouverIsland,10,LINL,4,1,49,13,594,124,0,296,177,2023,3,12,10,0,2,,RM,9,39,4,RECR,B,B,1,,,,Ridge ~50m SW.
+57,83,STE-097,VancouverIsland,10,LINL,4,1,49,13,594,124,0,296,177,2023,3,12,10,0,2,,RM,9,39,5,CBCH,A,A,2,,Moved to Q4 Distance Bin A.,,Ridge ~50m SW.
+57,83,STE-097,VancouverIsland,10,LINL,4,1,49,13,594,124,0,296,177,2023,3,12,10,0,2,,RM,9,39,6,BUSH,A,D,2,,,,Ridge ~50m SW.
+57,83,STE-097,VancouverIsland,10,LINL,4,1,49,13,594,124,0,296,177,2023,3,12,10,0,2,,RM,9,39,7,GCKI,A,A,3,,,,Ridge ~50m SW.
+57,83,STE-097,VancouverIsland,10,LINL,4,1,49,13,594,124,0,296,177,2023,3,12,10,0,2,,RM,9,39,8,RBNU,D,A,3,,,,Ridge ~50m SW.
+57,83,STE-097,VancouverIsland,10,LINL,4,1,49,13,594,124,0,296,177,2023,3,12,10,0,2,,RM,9,39,9,UNID,D,C,3,,~5:30. teeteeteetee.,,Ridge ~50m SW.
+57,83,STE-097,VancouverIsland,10,LINL,4,1,49,13,594,124,0,296,177,2023,3,12,10,0,2,,RM,9,39,10,CORA,E,C,3,,,,Ridge ~50m SW.
+57,83,STE-097,VancouverIsland,10,LINL,4,1,49,13,594,124,0,296,177,2023,3,12,10,0,2,,RM,9,39,11,NOFL,E,D,3,,,,Ridge ~50m SW.
+57,83,STE-097,VancouverIsland,10,LINL,4,1,49,13,594,124,0,296,177,2023,3,12,10,0,2,,RM,9,39,12,SPTO,A,A,4,,,,Ridge ~50m SW.
+57,83,STE-097,VancouverIsland,10,LINL,4,1,49,13,594,124,0,296,177,2023,3,12,10,0,2,,RM,9,39,13,GCKI,A,A,4,,,,Ridge ~50m SW.
+57,83,STE-097,VancouverIsland,10,LINL,4,1,49,13,594,124,0,296,177,2023,3,12,10,0,2,,RM,9,39,14,CBCH,A,A,4,,Moved NW.,,Ridge ~50m SW.
+57,83,STE-097,VancouverIsland,10,LINL,4,1,49,13,594,124,0,296,177,2023,3,12,10,0,2,,RM,9,39,15,ANHU,A,C,4,,,,Ridge ~50m SW.
+57,83,STE-097,VancouverIsland,10,LINL,4,1,49,13,594,124,0,296,177,2023,3,12,10,0,2,,RM,9,39,16,DEJU,B,A,4,,Countercalling Bird 18.,,Ridge ~50m SW.
+57,83,STE-097,VancouverIsland,10,LINL,4,1,49,13,594,124,0,296,177,2023,3,12,10,0,2,,RM,9,39,17,SOSP,D,A,4,,,,Ridge ~50m SW.
+57,83,STE-097,VancouverIsland,10,LINL,4,1,49,13,594,124,0,296,177,2023,3,12,10,0,2,,RM,9,39,18,DEJU,D,B,4,,Countercalling Bird 16.,,Ridge ~50m SW.
+57,83,STE-097,VancouverIsland,10,LINL,4,1,49,13,594,124,0,296,177,2023,3,12,10,0,2,,RM,9,39,19,RBNU,D,D,4,,,,Ridge ~50m SW.
+58,85,STE-098,VancouverIsland,11,UPLA,1,1,48,26,521,123,17,937,3,2023,3,17,0,0,1,,RM,7,45,1,DEJU,A,B,1,,Moved to Q4 Distance Bin A.,,
+58,85,STE-098,VancouverIsland,11,UPLA,1,1,48,26,521,123,17,937,3,2023,3,17,0,0,1,,RM,7,45,2,SPTO,A,C,1,,,,
+58,85,STE-098,VancouverIsland,11,UPLA,1,1,48,26,521,123,17,937,3,2023,3,17,0,0,1,,RM,7,45,3,AMRO,B,A,1,,,,
+58,85,STE-098,VancouverIsland,11,UPLA,1,1,48,26,521,123,17,937,3,2023,3,17,0,0,1,,RM,7,45,4,CORA,D,C,1,,,,
+58,85,STE-098,VancouverIsland,11,UPLA,1,1,48,26,521,123,17,937,3,2023,3,17,0,0,1,,RM,7,45,5,AMCR,D,D,1,,,,
+58,85,STE-098,VancouverIsland,11,UPLA,1,1,48,26,521,123,17,937,3,2023,3,17,0,0,1,,RM,7,45,6,AMCR,D,D,1,,,,
+58,85,STE-098,VancouverIsland,11,UPLA,1,1,48,26,521,123,17,937,3,2023,3,17,0,0,1,,RM,7,45,7,GULL,E,A,1,,,,
+58,85,STE-098,VancouverIsland,11,UPLA,1,1,48,26,521,123,17,937,3,2023,3,17,0,0,1,,RM,7,45,8,CAGO,E,D,1,,,,
+58,85,STE-098,VancouverIsland,11,UPLA,1,1,48,26,521,123,17,937,3,2023,3,17,0,0,1,,RM,7,45,9,DEJU,A,B,2,,,,
+58,85,STE-098,VancouverIsland,11,UPLA,1,1,48,26,521,123,17,937,3,2023,3,17,0,0,1,,RM,7,45,10,PAWR,A,B,2,,,,
+58,85,STE-098,VancouverIsland,11,UPLA,1,1,48,26,521,123,17,937,3,2023,3,17,0,0,1,,RM,7,45,11,CBCH,A,C,2,1,,,
+58,85,STE-098,VancouverIsland,11,UPLA,1,1,48,26,521,123,17,937,3,2023,3,17,0,0,1,,RM,7,45,12,NOFL,B,A,2,,Moved to Q1 Distance Bin B. Countercalling Bird 25.,,
+58,85,STE-098,VancouverIsland,11,UPLA,1,1,48,26,521,123,17,937,3,2023,3,17,0,0,1,,RM,7,45,13,AMCR,E,A,2,,,,
+58,85,STE-098,VancouverIsland,11,UPLA,1,1,48,26,521,123,17,937,3,2023,3,17,0,0,1,,RM,7,45,14,CBCH,A,A,3,1,Moved to Q2 Distance Bin A.,,
+58,85,STE-098,VancouverIsland,11,UPLA,1,1,48,26,521,123,17,937,3,2023,3,17,0,0,1,,RM,7,45,15,CBCH,A,B,3,1,Moved to Q2 Distance Bin A.,,
+58,85,STE-098,VancouverIsland,11,UPLA,1,1,48,26,521,123,17,937,3,2023,3,17,0,0,1,,RM,7,45,16,SPTO,A,B,3,,Countercalling Bird 26.,,
+58,85,STE-098,VancouverIsland,11,UPLA,1,1,48,26,521,123,17,937,3,2023,3,17,0,0,1,,RM,7,45,17,CBCH,A,C,3,1,,,
+58,85,STE-098,VancouverIsland,11,UPLA,1,1,48,26,521,123,17,937,3,2023,3,17,0,0,1,,RM,7,45,18,CBCH,A,C,3,1,,,
+58,85,STE-098,VancouverIsland,11,UPLA,1,1,48,26,521,123,17,937,3,2023,3,17,0,0,1,,RM,7,45,19,CBCH,A,C,3,1,,,
+58,85,STE-098,VancouverIsland,11,UPLA,1,1,48,26,521,123,17,937,3,2023,3,17,0,0,1,,RM,7,45,20,CBCH,A,C,3,1,,,
+58,85,STE-098,VancouverIsland,11,UPLA,1,1,48,26,521,123,17,937,3,2023,3,17,0,0,1,,RM,7,45,21,DEJU,A,C,3,,,,
+58,85,STE-098,VancouverIsland,11,UPLA,1,1,48,26,521,123,17,937,3,2023,3,17,0,0,1,,RM,7,45,22,ANHU,A,C,3,,Moved to Q1 Distance Bin A.,,
+58,85,STE-098,VancouverIsland,11,UPLA,1,1,48,26,521,123,17,937,3,2023,3,17,0,0,1,,RM,7,45,23,BEWR,B,B,3,,,,
+58,85,STE-098,VancouverIsland,11,UPLA,1,1,48,26,521,123,17,937,3,2023,3,17,0,0,1,,RM,7,45,24,AMRO,E,A,3,,,,
+58,85,STE-098,VancouverIsland,11,UPLA,1,1,48,26,521,123,17,937,3,2023,3,17,0,0,1,,RM,7,45,25,NOFL,A,A,4,,Countercalling Bird 12.,,
+58,85,STE-098,VancouverIsland,11,UPLA,1,1,48,26,521,123,17,937,3,2023,3,17,0,0,1,,RM,7,45,26,SPTO,A,C,4,,Countercalling Bird 16.,,
+58,85,STE-098,VancouverIsland,11,UPLA,1,1,48,26,521,123,17,937,3,2023,3,17,0,0,1,,RM,7,45,27,SOSP,B,A,4,,,,
+58,85,STE-098,VancouverIsland,11,UPLA,1,1,48,26,521,123,17,937,3,2023,3,17,0,0,1,,RM,7,45,28,DEJU,D,A,4,,,,
+58,85,STE-098,VancouverIsland,11,UPLA,1,1,48,26,521,123,17,937,3,2023,3,17,0,0,1,,RM,7,45,29,AMRO,E,A,4,,,,
+58,85,STE-098,VancouverIsland,11,UPLA,1,1,48,26,521,123,17,937,3,2023,3,17,0,0,1,,RM,7,45,30,GULL,E,B,4,,,,
+59,86,STE-099,VancouverIsland,11,UPLA,2,1,48,26,593,123,18,146,5,2023,3,17,0,0,1,,RM,8,12,1,CBCH,A,A,1,1,Flock moved NNW.,,
+59,86,STE-099,VancouverIsland,11,UPLA,2,1,48,26,593,123,18,146,5,2023,3,17,0,0,1,,RM,8,12,2,CBCH,A,A,1,1,Flock moved NNW.,,
+59,86,STE-099,VancouverIsland,11,UPLA,2,1,48,26,593,123,18,146,5,2023,3,17,0,0,1,,RM,8,12,3,UNID,B,D,1,,~8:50.,,
+59,86,STE-099,VancouverIsland,11,UPLA,2,1,48,26,593,123,18,146,5,2023,3,17,0,0,1,,RM,8,12,4,AMRO,C,A,1,,,,
+59,86,STE-099,VancouverIsland,11,UPLA,2,1,48,26,593,123,18,146,5,2023,3,17,0,0,1,,RM,8,12,5,AMRO,C,A,1,,,,
+59,86,STE-099,VancouverIsland,11,UPLA,2,1,48,26,593,123,18,146,5,2023,3,17,0,0,1,,RM,8,12,6,AMRO,C,A,1,,,,
+59,86,STE-099,VancouverIsland,11,UPLA,2,1,48,26,593,123,18,146,5,2023,3,17,0,0,1,,RM,8,12,7,NOFL,C,C,1,,Check if missed in 2.5-5min.,,
+59,86,STE-099,VancouverIsland,11,UPLA,2,1,48,26,593,123,18,146,5,2023,3,17,0,0,1,,RM,8,12,8,DEJU,C,D,1,,,,
+59,86,STE-099,VancouverIsland,11,UPLA,2,1,48,26,593,123,18,146,5,2023,3,17,0,0,1,,RM,8,12,9,CBCH,A,B,2,,,,
+59,86,STE-099,VancouverIsland,11,UPLA,2,1,48,26,593,123,18,146,5,2023,3,17,0,0,1,,RM,8,12,10,CBCH,A,D,2,,,,
+59,86,STE-099,VancouverIsland,11,UPLA,2,1,48,26,593,123,18,146,5,2023,3,17,0,0,1,,RM,8,12,11,ANHU,A,A,3,,,,
+59,86,STE-099,VancouverIsland,11,UPLA,2,1,48,26,593,123,18,146,5,2023,3,17,0,0,1,,RM,8,12,12,CBCH,A,D,3,,Countercalling Bird 16.,,
+59,86,STE-099,VancouverIsland,11,UPLA,2,1,48,26,593,123,18,146,5,2023,3,17,0,0,1,,RM,8,12,13,SPTO,B,A,3,,,,
+59,86,STE-099,VancouverIsland,11,UPLA,2,1,48,26,593,123,18,146,5,2023,3,17,0,0,1,,RM,8,12,14,SOSP,C,B,3,,,,
+59,86,STE-099,VancouverIsland,11,UPLA,2,1,48,26,593,123,18,146,5,2023,3,17,0,0,1,,RM,8,12,15,BEWR,A,A,4,,,,
+59,86,STE-099,VancouverIsland,11,UPLA,2,1,48,26,593,123,18,146,5,2023,3,17,0,0,1,,RM,8,12,16,CBCH,A,C,4,,Countercalling Bird 12.,,
+59,86,STE-099,VancouverIsland,11,UPLA,2,1,48,26,593,123,18,146,5,2023,3,17,0,0,1,,RM,8,12,17,SOSP,A,C,4,,,,
+59,86,STE-099,VancouverIsland,11,UPLA,2,1,48,26,593,123,18,146,5,2023,3,17,0,0,1,,RM,8,12,18,HOFI,B,D,4,2,,,
+59,86,STE-099,VancouverIsland,11,UPLA,2,1,48,26,593,123,18,146,5,2023,3,17,0,0,1,,RM,8,12,19,HOFI,B,D,4,2,,,
+59,86,STE-099,VancouverIsland,11,UPLA,2,1,48,26,593,123,18,146,5,2023,3,17,0,0,1,,RM,8,12,20,AMRO,D,A,4,,,,
+59,86,STE-099,VancouverIsland,11,UPLA,2,1,48,26,593,123,18,146,5,2023,3,17,0,0,1,,RM,8,12,21,NOFL,D,B,4,,,,
+59,86,STE-099,VancouverIsland,11,UPLA,2,1,48,26,593,123,18,146,5,2023,3,17,0,0,1,,RM,8,12,22,NOFL,D,B,4,,,,
+59,86,STE-099,VancouverIsland,11,UPLA,2,1,48,26,593,123,18,146,5,2023,3,17,0,0,1,,RM,8,12,23,DEJU,D,B,4,,Moved to Q4 Distance Bin C.,,
+59,86,STE-099,VancouverIsland,11,UPLA,2,1,48,26,593,123,18,146,5,2023,3,17,0,0,1,,RM,8,12,24,NOFL,D,C,4,,,,
+59,86,STE-099,VancouverIsland,11,UPLA,2,1,48,26,593,123,18,146,5,2023,3,17,0,0,1,,RM,8,12,25,AMRO,F,,,3,,,
+59,86,STE-099,VancouverIsland,11,UPLA,2,1,48,26,593,123,18,146,5,2023,3,17,0,0,1,,RM,8,12,26,AMRO,F,,,3,,,
+59,86,STE-099,VancouverIsland,11,UPLA,2,1,48,26,593,123,18,146,5,2023,3,17,0,0,1,,RM,8,12,27,AMRO,F,,,3,,,
+59,86,STE-099,VancouverIsland,11,UPLA,2,1,48,26,593,123,18,146,5,2023,3,17,0,0,1,,RM,8,12,28,AMRO,F,,,3,,,
+59,86,STE-099,VancouverIsland,11,UPLA,2,1,48,26,593,123,18,146,5,2023,3,17,0,0,1,,RM,8,12,29,AMRO,F,,,4,,,
+59,86,STE-099,VancouverIsland,11,UPLA,2,1,48,26,593,123,18,146,5,2023,3,17,0,0,1,,RM,8,12,30,AMRO,F,,,4,,,
+59,86,STE-099,VancouverIsland,11,UPLA,2,1,48,26,593,123,18,146,5,2023,3,17,0,0,1,,RM,8,12,31,AMRO,F,,,4,,,
+59,86,STE-099,VancouverIsland,11,UPLA,2,1,48,26,593,123,18,146,5,2023,3,17,0,0,1,,RM,8,12,32,GULL,F,,,,,,
+60,87,STE-100,VancouverIsland,11,UPLA,3,1,48,26,486,123,18,96,0,2023,3,17,0,0,0,,RM,8,51,1,CBCH,A,B,1,,,Check if BEWR in Q3 Distance Bin C at ~9:30.,
+60,87,STE-100,VancouverIsland,11,UPLA,3,1,48,26,486,123,18,96,0,2023,3,17,0,0,0,,RM,8,51,2,CBCH,A,B,1,,,Check if BEWR in Q3 Distance Bin C at ~9:30.,
+60,87,STE-100,VancouverIsland,11,UPLA,3,1,48,26,486,123,18,96,0,2023,3,17,0,0,0,,RM,8,51,3,AMRO,B,B,1,,,Check if BEWR in Q3 Distance Bin C at ~9:30.,
+60,87,STE-100,VancouverIsland,11,UPLA,3,1,48,26,486,123,18,96,0,2023,3,17,0,0,0,,RM,8,51,4,SPTO,B,B,1,,,Check if BEWR in Q3 Distance Bin C at ~9:30.,
+60,87,STE-100,VancouverIsland,11,UPLA,3,1,48,26,486,123,18,96,0,2023,3,17,0,0,0,,RM,8,51,5,SOSP,D,D,1,,,Check if BEWR in Q3 Distance Bin C at ~9:30.,
+60,87,STE-100,VancouverIsland,11,UPLA,3,1,48,26,486,123,18,96,0,2023,3,17,0,0,0,,RM,8,51,6,SOSP,B,C,2,,,Check if BEWR in Q3 Distance Bin C at ~9:30.,
+60,87,STE-100,VancouverIsland,11,UPLA,3,1,48,26,486,123,18,96,0,2023,3,17,0,0,0,,RM,8,51,7,AMRO,D,A,2,,,Check if BEWR in Q3 Distance Bin C at ~9:30.,
+60,87,STE-100,VancouverIsland,11,UPLA,3,1,48,26,486,123,18,96,0,2023,3,17,0,0,0,,RM,8,51,8,AMRO,A,A,3,,,Check if BEWR in Q3 Distance Bin C at ~9:30.,
+60,87,STE-100,VancouverIsland,11,UPLA,3,1,48,26,486,123,18,96,0,2023,3,17,0,0,0,,RM,8,51,9,CBCH,A,A,3,,,Check if BEWR in Q3 Distance Bin C at ~9:30.,
+60,87,STE-100,VancouverIsland,11,UPLA,3,1,48,26,486,123,18,96,0,2023,3,17,0,0,0,,RM,8,51,10,DEJU,A,B,3,,,Check if BEWR in Q3 Distance Bin C at ~9:30.,
+60,87,STE-100,VancouverIsland,11,UPLA,3,1,48,26,486,123,18,96,0,2023,3,17,0,0,0,,RM,8,51,11,AMRO,B,A,3,,,Check if BEWR in Q3 Distance Bin C at ~9:30.,
+60,87,STE-100,VancouverIsland,11,UPLA,3,1,48,26,486,123,18,96,0,2023,3,17,0,0,0,,RM,8,51,12,AMRO,B,A,3,,,Check if BEWR in Q3 Distance Bin C at ~9:30.,
+60,87,STE-100,VancouverIsland,11,UPLA,3,1,48,26,486,123,18,96,0,2023,3,17,0,0,0,,RM,8,51,13,DEJU,C,B,3,,,Check if BEWR in Q3 Distance Bin C at ~9:30.,
+60,87,STE-100,VancouverIsland,11,UPLA,3,1,48,26,486,123,18,96,0,2023,3,17,0,0,0,,RM,8,51,14,CORA,E,B,3,,,Check if BEWR in Q3 Distance Bin C at ~9:30.,
+60,87,STE-100,VancouverIsland,11,UPLA,3,1,48,26,486,123,18,96,0,2023,3,17,0,0,0,,RM,8,51,15,RBNU,E,B,3,,,Check if BEWR in Q3 Distance Bin C at ~9:30.,
+60,87,STE-100,VancouverIsland,11,UPLA,3,1,48,26,486,123,18,96,0,2023,3,17,0,0,0,,RM,8,51,16,SPTO,A,A,4,,,Check if BEWR in Q3 Distance Bin C at ~9:30.,
+60,87,STE-100,VancouverIsland,11,UPLA,3,1,48,26,486,123,18,96,0,2023,3,17,0,0,0,,RM,8,51,17,CBCH,A,A,4,,,Check if BEWR in Q3 Distance Bin C at ~9:30.,
+60,87,STE-100,VancouverIsland,11,UPLA,3,1,48,26,486,123,18,96,0,2023,3,17,0,0,0,,RM,8,51,18,CBCH,A,A,4,,,Check if BEWR in Q3 Distance Bin C at ~9:30.,
+60,87,STE-100,VancouverIsland,11,UPLA,3,1,48,26,486,123,18,96,0,2023,3,17,0,0,0,,RM,8,51,19,CBCH,A,A,4,,,Check if BEWR in Q3 Distance Bin C at ~9:30.,
+60,87,STE-100,VancouverIsland,11,UPLA,3,1,48,26,486,123,18,96,0,2023,3,17,0,0,0,,RM,8,51,20,CBCH,A,A,4,,,Check if BEWR in Q3 Distance Bin C at ~9:30.,
+60,87,STE-100,VancouverIsland,11,UPLA,3,1,48,26,486,123,18,96,0,2023,3,17,0,0,0,,RM,8,51,21,AMRO,A,A,4,,,Check if BEWR in Q3 Distance Bin C at ~9:30.,
+60,87,STE-100,VancouverIsland,11,UPLA,3,1,48,26,486,123,18,96,0,2023,3,17,0,0,0,,RM,8,51,22,AMRO,A,C,4,,,Check if BEWR in Q3 Distance Bin C at ~9:30.,
+60,87,STE-100,VancouverIsland,11,UPLA,3,1,48,26,486,123,18,96,0,2023,3,17,0,0,0,,RM,8,51,23,AMRO,A,C,4,,,Check if BEWR in Q3 Distance Bin C at ~9:30.,
+60,87,STE-100,VancouverIsland,11,UPLA,3,1,48,26,486,123,18,96,0,2023,3,17,0,0,0,,RM,8,51,24,SPTO,B,A,4,,,Check if BEWR in Q3 Distance Bin C at ~9:30.,
+60,87,STE-100,VancouverIsland,11,UPLA,3,1,48,26,486,123,18,96,0,2023,3,17,0,0,0,,RM,8,51,25,DEJU,B,A,4,,,Check if BEWR in Q3 Distance Bin C at ~9:30.,
+60,87,STE-100,VancouverIsland,11,UPLA,3,1,48,26,486,123,18,96,0,2023,3,17,0,0,0,,RM,8,51,26,DOWO,B,C,4,,,Check if BEWR in Q3 Distance Bin C at ~9:30.,
+60,87,STE-100,VancouverIsland,11,UPLA,3,1,48,26,486,123,18,96,0,2023,3,17,0,0,0,,RM,8,51,27,PAWR,B,C,4,,,Check if BEWR in Q3 Distance Bin C at ~9:30.,
+60,87,STE-100,VancouverIsland,11,UPLA,3,1,48,26,486,123,18,96,0,2023,3,17,0,0,0,,RM,8,51,28,AMGO,C,C,4,,,Check if BEWR in Q3 Distance Bin C at ~9:30.,
+60,87,STE-100,VancouverIsland,11,UPLA,3,1,48,26,486,123,18,96,0,2023,3,17,0,0,0,,RM,8,51,29,SOSP,C,D,4,,,Check if BEWR in Q3 Distance Bin C at ~9:30.,
+60,87,STE-100,VancouverIsland,11,UPLA,3,1,48,26,486,123,18,96,0,2023,3,17,0,0,0,,RM,8,51,30,CORA,D,A,4,,,Check if BEWR in Q3 Distance Bin C at ~9:30.,
+61,88,STE-101,VancouverIsland,11,MTTO,1,1,48,27,450,123,19,339,86,2023,3,17,0,0,1,,RM,9,28,1,SPTO,A,A,1,,,,Recording stopped at ~5 min.
+61,88,STE-101,VancouverIsland,11,MTTO,1,1,48,27,450,123,19,339,86,2023,3,17,0,0,1,,RM,9,28,2,SPTO,A,A,1,,,,Recording stopped at ~5 min.
+61,88,STE-101,VancouverIsland,11,MTTO,1,1,48,27,450,123,19,339,86,2023,3,17,0,0,1,,RM,9,28,3,WCSP,A,A,1,,,,Recording stopped at ~5 min.
+61,88,STE-101,VancouverIsland,11,MTTO,1,1,48,27,450,123,19,339,86,2023,3,17,0,0,1,,RM,9,28,4,SOSP,A,A,1,,,,Recording stopped at ~5 min.
+61,88,STE-101,VancouverIsland,11,MTTO,1,1,48,27,450,123,19,339,86,2023,3,17,0,0,1,,RM,9,28,5,SOSP,A,A,1,,,,Recording stopped at ~5 min.
+61,88,STE-101,VancouverIsland,11,MTTO,1,1,48,27,450,123,19,339,86,2023,3,17,0,0,1,,RM,9,28,6,SOSP,A,A,1,,,,Recording stopped at ~5 min.
+61,88,STE-101,VancouverIsland,11,MTTO,1,1,48,27,450,123,19,339,86,2023,3,17,0,0,1,,RM,9,28,7,SOSP,A,A,1,,,,Recording stopped at ~5 min.
+61,88,STE-101,VancouverIsland,11,MTTO,1,1,48,27,450,123,19,339,86,2023,3,17,0,0,1,,RM,9,28,8,ANHU,A,A,1,,,,Recording stopped at ~5 min.
+61,88,STE-101,VancouverIsland,11,MTTO,1,1,48,27,450,123,19,339,86,2023,3,17,0,0,1,,RM,9,28,9,DEJU,A,A,1,,,,Recording stopped at ~5 min.
+61,88,STE-101,VancouverIsland,11,MTTO,1,1,48,27,450,123,19,339,86,2023,3,17,0,0,1,,RM,9,28,10,HOFI,B,A,1,,,,Recording stopped at ~5 min.
+61,88,STE-101,VancouverIsland,11,MTTO,1,1,48,27,450,123,19,339,86,2023,3,17,0,0,1,,RM,9,28,11,DEJU,C,B,1,,,,Recording stopped at ~5 min.
+61,88,STE-101,VancouverIsland,11,MTTO,1,1,48,27,450,123,19,339,86,2023,3,17,0,0,1,,RM,9,28,12,CBCH,C,D,1,,,,Recording stopped at ~5 min.
+61,88,STE-101,VancouverIsland,11,MTTO,1,1,48,27,450,123,19,339,86,2023,3,17,0,0,1,,RM,9,28,13,HOFI,D,B,2,,,,Recording stopped at ~5 min.
+61,88,STE-101,VancouverIsland,11,MTTO,1,1,48,27,450,123,19,339,86,2023,3,17,0,0,1,,RM,9,28,14,RBNU,A,B,3,,,,Recording stopped at ~5 min.
+61,88,STE-101,VancouverIsland,11,MTTO,1,1,48,27,450,123,19,339,86,2023,3,17,0,0,1,,RM,9,28,15,DEJU,A,D,3,,,,Recording stopped at ~5 min.
+61,88,STE-101,VancouverIsland,11,MTTO,1,1,48,27,450,123,19,339,86,2023,3,17,0,0,1,,RM,9,28,16,DOWO,B,D,3,,,,Recording stopped at ~5 min.
+61,88,STE-101,VancouverIsland,11,MTTO,1,1,48,27,450,123,19,339,86,2023,3,17,0,0,1,,RM,9,28,17,HOFI,C,B,3,,,,Recording stopped at ~5 min.
+61,88,STE-101,VancouverIsland,11,MTTO,1,1,48,27,450,123,19,339,86,2023,3,17,0,0,1,,RM,9,28,18,HOFI,F,,,1,,,Recording stopped at ~5 min.
+61,88,STE-101,VancouverIsland,11,MTTO,1,1,48,27,450,123,19,339,86,2023,3,17,0,0,1,,RM,9,28,19,HOFI,F,,,1,,,Recording stopped at ~5 min.
+61,88,STE-101,VancouverIsland,11,MTTO,1,1,48,27,450,123,19,339,86,2023,3,17,0,0,1,,RM,9,28,20,HOFI,F,,,1,,,Recording stopped at ~5 min.
+61,88,STE-101,VancouverIsland,11,MTTO,1,1,48,27,450,123,19,339,86,2023,3,17,0,0,1,,RM,9,28,21,HOFI,F,,,1,,,Recording stopped at ~5 min.
+62,89,230318-000,VancouverIsland,12,MTQU,1,1,48,24,23,123,39,771,78,2023,3,18,0,0,0,,RM,7,47,1,BRCR,A,A,1,,Countercalling Bird 19.,,"Some road noise, some stream noise."
+62,89,230318-000,VancouverIsland,12,MTQU,1,1,48,24,23,123,39,771,78,2023,3,18,0,0,0,,RM,7,47,2,HAWO,A,A,1,,RECR?,,"Some road noise, some stream noise."
+62,89,230318-000,VancouverIsland,12,MTQU,1,1,48,24,23,123,39,771,78,2023,3,18,0,0,0,,RM,7,47,3,HAWO,A,A,1,,,,"Some road noise, some stream noise."
+62,89,230318-000,VancouverIsland,12,MTQU,1,1,48,24,23,123,39,771,78,2023,3,18,0,0,0,,RM,7,47,4,CBCH,A,A,1,,Check that I heard this. Very early in the recording.,,"Some road noise, some stream noise."
+62,89,230318-000,VancouverIsland,12,MTQU,1,1,48,24,23,123,39,771,78,2023,3,18,0,0,0,,RM,7,47,5,AMRO,B,A,1,,,,"Some road noise, some stream noise."
+62,89,230318-000,VancouverIsland,12,MTQU,1,1,48,24,23,123,39,771,78,2023,3,18,0,0,0,,RM,7,47,6,VATH,B,A,1,,,,"Some road noise, some stream noise."
+62,89,230318-000,VancouverIsland,12,MTQU,1,1,48,24,23,123,39,771,78,2023,3,18,0,0,0,,RM,7,47,7,PAWR,C,A,1,,,,"Some road noise, some stream noise."
+62,89,230318-000,VancouverIsland,12,MTQU,1,1,48,24,23,123,39,771,78,2023,3,18,0,0,0,,RM,7,47,8,CORA,C,A,1,,,,"Some road noise, some stream noise."
+62,89,230318-000,VancouverIsland,12,MTQU,1,1,48,24,23,123,39,771,78,2023,3,18,0,0,0,,RM,7,47,9,SPTO,B,A,2,,,,"Some road noise, some stream noise."
+62,89,230318-000,VancouverIsland,12,MTQU,1,1,48,24,23,123,39,771,78,2023,3,18,0,0,0,,RM,7,47,10,DEJU,B,B,2,,,,"Some road noise, some stream noise."
+62,89,230318-000,VancouverIsland,12,MTQU,1,1,48,24,23,123,39,771,78,2023,3,18,0,0,0,,RM,7,47,11,SPTO,B,B,2,,Not sure whether I meant Time Bin B or C. Check recording.,,"Some road noise, some stream noise."
+62,89,230318-000,VancouverIsland,12,MTQU,1,1,48,24,23,123,39,771,78,2023,3,18,0,0,0,,RM,7,47,12,NOFL,C,A,2,,Countercalling Bird 18. Moved to Q2 Distance Bin B.,,"Some road noise, some stream noise."
+62,89,230318-000,VancouverIsland,12,MTQU,1,1,48,24,23,123,39,771,78,2023,3,18,0,0,0,,RM,7,47,13,VATH,D,B,2,,,,"Some road noise, some stream noise."
+62,89,230318-000,VancouverIsland,12,MTQU,1,1,48,24,23,123,39,771,78,2023,3,18,0,0,0,,RM,7,47,14,CAGO,E,A,2,,,,"Some road noise, some stream noise."
+62,89,230318-000,VancouverIsland,12,MTQU,1,1,48,24,23,123,39,771,78,2023,3,18,0,0,0,,RM,7,47,15,GULL,E,A,2,,,,"Some road noise, some stream noise."
+62,89,230318-000,VancouverIsland,12,MTQU,1,1,48,24,23,123,39,771,78,2023,3,18,0,0,0,,RM,7,47,16,NOFL,B,C,3,,,,"Some road noise, some stream noise."
+62,89,230318-000,VancouverIsland,12,MTQU,1,1,48,24,23,123,39,771,78,2023,3,18,0,0,0,,RM,7,47,17,RECR,D,D,3,,Moved to Q3 Distance Bin B.,,"Some road noise, some stream noise."
+62,89,230318-000,VancouverIsland,12,MTQU,1,1,48,24,23,123,39,771,78,2023,3,18,0,0,0,,RM,7,47,18,NOFL,E,B,3,,Countercalling Bird 12.,,"Some road noise, some stream noise."
+62,89,230318-000,VancouverIsland,12,MTQU,1,1,48,24,23,123,39,771,78,2023,3,18,0,0,0,,RM,7,47,19,BRCR,A,A,4,,Countercalling Bird 1.,,"Some road noise, some stream noise."
+62,89,230318-000,VancouverIsland,12,MTQU,1,1,48,24,23,123,39,771,78,2023,3,18,0,0,0,,RM,7,47,20,AMRO,B,A,4,,,,"Some road noise, some stream noise."
+62,89,230318-000,VancouverIsland,12,MTQU,1,1,48,24,23,123,39,771,78,2023,3,18,0,0,0,,RM,7,47,21,UNID,B,D,4,,~8:30.,,"Some road noise, some stream noise."
+63,90,230318-001,VancouverIsland,12,MTQU,2,1,48,24,397,123,39,638,196,2023,3,18,0,0,0,,RM,8,24,1,SPTO,A,B,1,,,Check if DEJU at ~8:30 Q1 Distance Bin D.,
+63,90,230318-001,VancouverIsland,12,MTQU,2,1,48,24,397,123,39,638,196,2023,3,18,0,0,0,,RM,8,24,2,CBCH,A,D,1,,,Check if DEJU at ~8:30 Q1 Distance Bin D.,
+63,90,230318-001,VancouverIsland,12,MTQU,2,1,48,24,397,123,39,638,196,2023,3,18,0,0,0,,RM,8,24,3,AMRO,B,A,1,,,Check if DEJU at ~8:30 Q1 Distance Bin D.,
+63,90,230318-001,VancouverIsland,12,MTQU,2,1,48,24,397,123,39,638,196,2023,3,18,0,0,0,,RM,8,24,4,CAGO,D,D,1,,Unsure. ~8:00.,Check if DEJU at ~8:30 Q1 Distance Bin D.,
+63,90,230318-001,VancouverIsland,12,MTQU,2,1,48,24,397,123,39,638,196,2023,3,18,0,0,0,,RM,8,24,5,AMRO,A,A,2,,,Check if DEJU at ~8:30 Q1 Distance Bin D.,
+63,90,230318-001,VancouverIsland,12,MTQU,2,1,48,24,397,123,39,638,196,2023,3,18,0,0,0,,RM,8,24,6,RECR,B,A,2,,Moved NW.,Check if DEJU at ~8:30 Q1 Distance Bin D.,
+63,90,230318-001,VancouverIsland,12,MTQU,2,1,48,24,397,123,39,638,196,2023,3,18,0,0,0,,RM,8,24,7,RBNU,D,D,2,,Countercalling Bird 8.,Check if DEJU at ~8:30 Q1 Distance Bin D.,
+63,90,230318-001,VancouverIsland,12,MTQU,2,1,48,24,397,123,39,638,196,2023,3,18,0,0,0,,RM,8,24,8,RBNU,E,A,2,,Countercalling Bird 7. Moved to Q2 Distance Bin C.,Check if DEJU at ~8:30 Q1 Distance Bin D.,
+63,90,230318-001,VancouverIsland,12,MTQU,2,1,48,24,397,123,39,638,196,2023,3,18,0,0,0,,RM,8,24,9,NOFL,E,D,2,,,Check if DEJU at ~8:30 Q1 Distance Bin D.,
+63,90,230318-001,VancouverIsland,12,MTQU,2,1,48,24,397,123,39,638,196,2023,3,18,0,0,0,,RM,8,24,10,SPTO,A,A,3,,,Check if DEJU at ~8:30 Q1 Distance Bin D.,
+63,90,230318-001,VancouverIsland,12,MTQU,2,1,48,24,397,123,39,638,196,2023,3,18,0,0,0,,RM,8,24,11,CBCH,A,D,3,,,Check if DEJU at ~8:30 Q1 Distance Bin D.,
+63,90,230318-001,VancouverIsland,12,MTQU,2,1,48,24,397,123,39,638,196,2023,3,18,0,0,0,,RM,8,24,12,DEJU,B,A,3,,,Check if DEJU at ~8:30 Q1 Distance Bin D.,
+63,90,230318-001,VancouverIsland,12,MTQU,2,1,48,24,397,123,39,638,196,2023,3,18,0,0,0,,RM,8,24,13,SPTO,A,A,4,,,Check if DEJU at ~8:30 Q1 Distance Bin D.,
+63,90,230318-001,VancouverIsland,12,MTQU,2,1,48,24,397,123,39,638,196,2023,3,18,0,0,0,,RM,8,24,14,DEJU,A,A,4,,,Check if DEJU at ~8:30 Q1 Distance Bin D.,
+63,90,230318-001,VancouverIsland,12,MTQU,2,1,48,24,397,123,39,638,196,2023,3,18,0,0,0,,RM,8,24,15,PAWR,C,A,4,,Moved to Q3 Distance Bin B.,Check if DEJU at ~8:30 Q1 Distance Bin D.,
+63,90,230318-001,VancouverIsland,12,MTQU,2,1,48,24,397,123,39,638,196,2023,3,18,0,0,0,,RM,8,24,16,WOOD,C,B,4,,Very squeaky gargle.,Check if DEJU at ~8:30 Q1 Distance Bin D.,
+63,90,230318-001,VancouverIsland,12,MTQU,2,1,48,24,397,123,39,638,196,2023,3,18,0,0,0,,RM,8,24,17,SPTO,C,C,4,,,Check if DEJU at ~8:30 Q1 Distance Bin D.,
+64,91,230318-002,VancouverIsland,12,MTQU,3,1,48,24,602,123,39,499,306,2023,3,18,0,0,0,,RM,9,6,1,STJA,C,C,1,,,,
+64,91,230318-002,VancouverIsland,12,MTQU,3,1,48,24,602,123,39,499,306,2023,3,18,0,0,0,,RM,9,6,2,RCKI,A,A,2,,,,
+64,91,230318-002,VancouverIsland,12,MTQU,3,1,48,24,602,123,39,499,306,2023,3,18,0,0,0,,RM,9,6,3,PUFI,A,B,2,,,,
+64,91,230318-002,VancouverIsland,12,MTQU,3,1,48,24,602,123,39,499,306,2023,3,18,0,0,0,,RM,9,6,4,STJA,D,A,2,,Moved to Q2 Distance Bin B.,,
+64,91,230318-002,VancouverIsland,12,MTQU,3,1,48,24,602,123,39,499,306,2023,3,18,0,0,0,,RM,9,6,5,RBNU,E,A,2,,,,
+64,91,230318-002,VancouverIsland,12,MTQU,3,1,48,24,602,123,39,499,306,2023,3,18,0,0,0,,RM,9,6,6,RBNU,E,B,2,,,,
+64,91,230318-002,VancouverIsland,12,MTQU,3,1,48,24,602,123,39,499,306,2023,3,18,0,0,0,,RM,9,6,7,DEJU,C,C,3,,Countercalling Bird 9.,,
+64,91,230318-002,VancouverIsland,12,MTQU,3,1,48,24,602,123,39,499,306,2023,3,18,0,0,0,,RM,9,6,8,CORA,D,C,3,,Moved to Q2 Distance Bin E.,,
+64,91,230318-002,VancouverIsland,12,MTQU,3,1,48,24,602,123,39,499,306,2023,3,18,0,0,0,,RM,9,6,9,DEJU,B,A,4,,Countercalling Bird 7 and Bird 10.,,
+64,91,230318-002,VancouverIsland,12,MTQU,3,1,48,24,602,123,39,499,306,2023,3,18,0,0,0,,RM,9,6,10,DEJU,C,A,4,,Countercalling Bird 9.,,
+64,91,230318-002,VancouverIsland,12,MTQU,3,1,48,24,602,123,39,499,306,2023,3,18,0,0,0,,RM,9,6,11,SPTO,C,A,4,,,,
+65,92,230318-003,VancouverIsland,12,MTQU,4,1,48,24,909,123,39,379,387,2023,3,18,0,0,0,,RM,9,46,1,DEJU,A,D,1,,,,Plane flyover ~3:30-5:30.
+65,92,230318-003,VancouverIsland,12,MTQU,4,1,48,24,909,123,39,379,387,2023,3,18,0,0,0,,RM,9,46,2,DEJU,B,A,2,,Countercalling Bird 4.,,Plane flyover ~3:30-5:30.
+65,92,230318-003,VancouverIsland,12,MTQU,4,1,48,24,909,123,39,379,387,2023,3,18,0,0,0,,RM,9,46,3,SPTO,A,A,3,,,,Plane flyover ~3:30-5:30.
+65,92,230318-003,VancouverIsland,12,MTQU,4,1,48,24,909,123,39,379,387,2023,3,18,0,0,0,,RM,9,46,4,DEJU,B,D,3,,Countercalling Bird 2.,,Plane flyover ~3:30-5:30.
+65,92,230318-003,VancouverIsland,12,MTQU,4,1,48,24,909,123,39,379,387,2023,3,18,0,0,0,,RM,9,46,5,AMRO,C,B,3,,Moved to Q3 Distance Bin D.,,Plane flyover ~3:30-5:30.
+65,92,230318-003,VancouverIsland,12,MTQU,4,1,48,24,909,123,39,379,387,2023,3,18,0,0,0,,RM,9,46,6,RECR,D,C,3,,,,Plane flyover ~3:30-5:30.
+65,92,230318-003,VancouverIsland,12,MTQU,4,1,48,24,909,123,39,379,387,2023,3,18,0,0,0,,RM,9,46,7,DEJU,A,A,4,,Moved to Q1 Distance Bin A.,,Plane flyover ~3:30-5:30.
+65,92,230318-003,VancouverIsland,12,MTQU,4,1,48,24,909,123,39,379,387,2023,3,18,0,0,0,,RM,9,46,8,RBNU,A,C,4,,,,Plane flyover ~3:30-5:30.
+65,92,230318-003,VancouverIsland,12,MTQU,4,1,48,24,909,123,39,379,387,2023,3,18,0,0,0,,RM,9,46,9,DEJU,B,A,4,,,,Plane flyover ~3:30-5:30.
+65,92,230318-003,VancouverIsland,12,MTQU,4,1,48,24,909,123,39,379,387,2023,3,18,0,0,0,,RM,9,46,10,RECR,B,C,4,,,,Plane flyover ~3:30-5:30.
+65,92,230318-003,VancouverIsland,12,MTQU,4,1,48,24,909,123,39,379,387,2023,3,18,0,0,0,,RM,9,46,11,UNID,C,A,4,,In first minute.,,Plane flyover ~3:30-5:30.
+65,92,230318-003,VancouverIsland,12,MTQU,4,1,48,24,909,123,39,379,387,2023,3,18,0,0,0,,RM,9,46,12,SPTO,C,C,4,,Unsure. Check.,,Plane flyover ~3:30-5:30.
+65,92,230318-003,VancouverIsland,12,MTQU,4,1,48,24,909,123,39,379,387,2023,3,18,0,0,0,,RM,9,46,13,UNID,D,A,4,,"In first minute. ""HOOOO.""",,Plane flyover ~3:30-5:30.
+66,93,230318-004,VancouverIsland,12,MTQU,5,1,48,25,147,123,39,364,478,2023,3,18,0,0,1,,RM,10,38,1,DEJU,A,A,1,,Moved to Q2 Distance Bin A.,,Wind at times up to 2.
+66,93,230318-004,VancouverIsland,12,MTQU,5,1,48,25,147,123,39,364,478,2023,3,18,0,0,1,,RM,10,38,2,DEJU,C,D,1,,,,Wind at times up to 2.
+66,93,230318-004,VancouverIsland,12,MTQU,5,1,48,25,147,123,39,364,478,2023,3,18,0,0,1,,RM,10,38,3,DEJU,D,A,2,,Moved to Q2 Distance Bin B. Countercalling Bird 5.,,Wind at times up to 2.
+66,93,230318-004,VancouverIsland,12,MTQU,5,1,48,25,147,123,39,364,478,2023,3,18,0,0,1,,RM,10,38,4,DEJU,D,C,2,,,,Wind at times up to 2.
+66,93,230318-004,VancouverIsland,12,MTQU,5,1,48,25,147,123,39,364,478,2023,3,18,0,0,1,,RM,10,38,5,DEJU,C,A,3,,Countercalling Bird 3.,,Wind at times up to 2.
+66,93,230318-004,VancouverIsland,12,MTQU,5,1,48,25,147,123,39,364,478,2023,3,18,0,0,1,,RM,10,38,6,CORA,E,B,3,,,,Wind at times up to 2.
+66,93,230318-004,VancouverIsland,12,MTQU,5,1,48,25,147,123,39,364,478,2023,3,18,0,0,1,,RM,10,38,7,DEJU,A,A,4,,,,Wind at times up to 2.
+66,93,230318-004,VancouverIsland,12,MTQU,5,1,48,25,147,123,39,364,478,2023,3,18,0,0,1,,RM,10,38,8,DEJU,B,A,4,,,,Wind at times up to 2.
+66,93,230318-004,VancouverIsland,12,MTQU,5,1,48,25,147,123,39,364,478,2023,3,18,0,0,1,,RM,10,38,9,AMRO,C,D,4,,,,Wind at times up to 2.
+66,93,230318-004,VancouverIsland,12,MTQU,5,1,48,25,147,123,39,364,478,2023,3,18,0,0,1,,RM,10,38,10,SPTO,C,D,4,,,,Wind at times up to 2.
+66,93,230318-004,VancouverIsland,12,MTQU,5,1,48,25,147,123,39,364,478,2023,3,18,0,0,1,,RM,10,38,11,DEJU,D,D,4,,,,Wind at times up to 2.
+67,94,230319-000,VancouverIsland,13,SUPA,1,1,48,26,746,123,21,248,81,2023,3,19,100,0,2,,RM,7,33,1,NOFL,A,C,1,,,,
+67,94,230319-000,VancouverIsland,13,SUPA,1,1,48,26,746,123,21,248,81,2023,3,19,100,0,2,,RM,7,33,2,SPTO,B,A,1,,,,
+67,94,230319-000,VancouverIsland,13,SUPA,1,1,48,26,746,123,21,248,81,2023,3,19,100,0,2,,RM,7,33,3,AMCR,C,A,1,,,,
+67,94,230319-000,VancouverIsland,13,SUPA,1,1,48,26,746,123,21,248,81,2023,3,19,100,0,2,,RM,7,33,4,DEJU,D,A,1,,,,
+67,94,230319-000,VancouverIsland,13,SUPA,1,1,48,26,746,123,21,248,81,2023,3,19,100,0,2,,RM,7,33,5,AMCR,D,A,1,,,,
+67,94,230319-000,VancouverIsland,13,SUPA,1,1,48,26,746,123,21,248,81,2023,3,19,100,0,2,,RM,7,33,6,AMCR,D,A,1,,,,
+67,94,230319-000,VancouverIsland,13,SUPA,1,1,48,26,746,123,21,248,81,2023,3,19,100,0,2,,RM,7,33,7,AMCR,D,B,1,,,,
+67,94,230319-000,VancouverIsland,13,SUPA,1,1,48,26,746,123,21,248,81,2023,3,19,100,0,2,,RM,7,33,8,UNID,D,D,1,,"~7:50. ""Bew.. Bew... Bew""",,
+67,94,230319-000,VancouverIsland,13,SUPA,1,1,48,26,746,123,21,248,81,2023,3,19,100,0,2,,RM,7,33,9,SPTO,B,B,2,,,,
+67,94,230319-000,VancouverIsland,13,SUPA,1,1,48,26,746,123,21,248,81,2023,3,19,100,0,2,,RM,7,33,10,DEJU,C,A,2,,,,
+67,94,230319-000,VancouverIsland,13,SUPA,1,1,48,26,746,123,21,248,81,2023,3,19,100,0,2,,RM,7,33,11,AMRO,D,B,2,,,,
+67,94,230319-000,VancouverIsland,13,SUPA,1,1,48,26,746,123,21,248,81,2023,3,19,100,0,2,,RM,7,33,12,NOFL,D,D,2,,,,
+67,94,230319-000,VancouverIsland,13,SUPA,1,1,48,26,746,123,21,248,81,2023,3,19,100,0,2,,RM,7,33,13,ANHU,A,B,3,,,,
+67,94,230319-000,VancouverIsland,13,SUPA,1,1,48,26,746,123,21,248,81,2023,3,19,100,0,2,,RM,7,33,14,DEJU,A,D,3,1,Flock moved to Q1 Distance Bin B.,,
+67,94,230319-000,VancouverIsland,13,SUPA,1,1,48,26,746,123,21,248,81,2023,3,19,100,0,2,,RM,7,33,15,DEJU,A,D,3,1,Flock moved to Q1 Distance Bin B.,,
+67,94,230319-000,VancouverIsland,13,SUPA,1,1,48,26,746,123,21,248,81,2023,3,19,100,0,2,,RM,7,33,16,DEJU,A,D,3,1,Flock moved to Q1 Distance Bin B.,,
+67,94,230319-000,VancouverIsland,13,SUPA,1,1,48,26,746,123,21,248,81,2023,3,19,100,0,2,,RM,7,33,17,CBCH,B,A,3,,Moved to Q3 Distance Bin C.,,
+67,94,230319-000,VancouverIsland,13,SUPA,1,1,48,26,746,123,21,248,81,2023,3,19,100,0,2,,RM,7,33,18,GCKI,B,A,3,,,,
+67,94,230319-000,VancouverIsland,13,SUPA,1,1,48,26,746,123,21,248,81,2023,3,19,100,0,2,,RM,7,33,19,SPTO,C,B,3,,,,
+67,94,230319-000,VancouverIsland,13,SUPA,1,1,48,26,746,123,21,248,81,2023,3,19,100,0,2,,RM,7,33,20,SOSP,D,B,3,,,,
+67,94,230319-000,VancouverIsland,13,SUPA,1,1,48,26,746,123,21,248,81,2023,3,19,100,0,2,,RM,7,33,21,NOFL,D,D,3,,Unsure. Check ~9:50.,,
+67,94,230319-000,VancouverIsland,13,SUPA,1,1,48,26,746,123,21,248,81,2023,3,19,100,0,2,,RM,7,33,22,HOFI,B,C,4,,,,
+67,94,230319-000,VancouverIsland,13,SUPA,1,1,48,26,746,123,21,248,81,2023,3,19,100,0,2,,RM,7,33,23,CBCH,B,C,4,,,,
+67,94,230319-000,VancouverIsland,13,SUPA,1,1,48,26,746,123,21,248,81,2023,3,19,100,0,2,,RM,7,33,24,ANHU,B,D,4,,,,
+67,94,230319-000,VancouverIsland,13,SUPA,1,1,48,26,746,123,21,248,81,2023,3,19,100,0,2,,RM,7,33,25,HOFI,C,A,4,,Moved to Q1 Distance Bin C.,,
+67,94,230319-000,VancouverIsland,13,SUPA,1,1,48,26,746,123,21,248,81,2023,3,19,100,0,2,,RM,7,33,26,SPTO,C,B,4,,,,
+67,94,230319-000,VancouverIsland,13,SUPA,1,1,48,26,746,123,21,248,81,2023,3,19,100,0,2,,RM,7,33,27,EUST,D,A,4,,,,
+67,94,230319-000,VancouverIsland,13,SUPA,1,1,48,26,746,123,21,248,81,2023,3,19,100,0,2,,RM,7,33,28,EUST,D,A,4,,,,
+67,94,230319-000,VancouverIsland,13,SUPA,1,1,48,26,746,123,21,248,81,2023,3,19,100,0,2,,RM,7,33,29,AMRO,D,A,4,,Moved to Q1 Distance Bin D.,,
+67,94,230319-000,VancouverIsland,13,SUPA,1,1,48,26,746,123,21,248,81,2023,3,19,100,0,2,,RM,7,33,30,AMCR,D,D,4,,,,
+67,94,230319-000,VancouverIsland,13,SUPA,1,1,48,26,746,123,21,248,81,2023,3,19,100,0,2,,RM,7,33,31,GULL,F,,,,,,
+67,94,230319-000,VancouverIsland,13,SUPA,1,1,48,26,746,123,21,248,81,2023,3,19,100,0,2,,RM,7,33,32,GULL,F,,,,,,
+68,95,230319-001,VancouverIsland,13,PLAY,1,1,48,27,735,123,21,465,66,2023,3,19,100,0,1,,RM,8,0,1,DEJU,B,A,1,,,Check for NOFL Q2 Distance Bin C ~ 9:00.,
+68,95,230319-001,VancouverIsland,13,PLAY,1,1,48,27,735,123,21,465,66,2023,3,19,100,0,1,,RM,8,0,2,AMRO,B,A,1,,,Check for NOFL Q2 Distance Bin C ~ 9:00.,
+68,95,230319-001,VancouverIsland,13,PLAY,1,1,48,27,735,123,21,465,66,2023,3,19,100,0,1,,RM,8,0,3,AMRO,B,B,1,,,Check for NOFL Q2 Distance Bin C ~ 9:00.,
+68,95,230319-001,VancouverIsland,13,PLAY,1,1,48,27,735,123,21,465,66,2023,3,19,100,0,1,,RM,8,0,4,AMCR,C,A,1,,,Check for NOFL Q2 Distance Bin C ~ 9:00.,
+68,95,230319-001,VancouverIsland,13,PLAY,1,1,48,27,735,123,21,465,66,2023,3,19,100,0,1,,RM,8,0,5,AMCR,C,A,1,,,Check for NOFL Q2 Distance Bin C ~ 9:00.,
+68,95,230319-001,VancouverIsland,13,PLAY,1,1,48,27,735,123,21,465,66,2023,3,19,100,0,1,,RM,8,0,6,BEWR,C,A,1,,Countercalling Bird 13 and Bird 19.,Check for NOFL Q2 Distance Bin C ~ 9:00.,
+68,95,230319-001,VancouverIsland,13,PLAY,1,1,48,27,735,123,21,465,66,2023,3,19,100,0,1,,RM,8,0,7,SPTO,D,A,1,,Moved to Q1 Distance Bin B.,Check for NOFL Q2 Distance Bin C ~ 9:00.,
+68,95,230319-001,VancouverIsland,13,PLAY,1,1,48,27,735,123,21,465,66,2023,3,19,100,0,1,,RM,8,0,8,AMRO,D,B,1,,,Check for NOFL Q2 Distance Bin C ~ 9:00.,
+68,95,230319-001,VancouverIsland,13,PLAY,1,1,48,27,735,123,21,465,66,2023,3,19,100,0,1,,RM,8,0,9,AMCR,D,C,1,,,Check for NOFL Q2 Distance Bin C ~ 9:00.,
+68,95,230319-001,VancouverIsland,13,PLAY,1,1,48,27,735,123,21,465,66,2023,3,19,100,0,1,,RM,8,0,10,ANHU,A,B,3,,,Check for NOFL Q2 Distance Bin C ~ 9:00.,
+68,95,230319-001,VancouverIsland,13,PLAY,1,1,48,27,735,123,21,465,66,2023,3,19,100,0,1,,RM,8,0,11,SPTO,B,A,3,,,Check for NOFL Q2 Distance Bin C ~ 9:00.,
+68,95,230319-001,VancouverIsland,13,PLAY,1,1,48,27,735,123,21,465,66,2023,3,19,100,0,1,,RM,8,0,12,CBCH,B,B,3,,,Check for NOFL Q2 Distance Bin C ~ 9:00.,
+68,95,230319-001,VancouverIsland,13,PLAY,1,1,48,27,735,123,21,465,66,2023,3,19,100,0,1,,RM,8,0,13,BEWR,C,A,3,,Countercalling Bird 6 and Bird 19.,Check for NOFL Q2 Distance Bin C ~ 9:00.,
+68,95,230319-001,VancouverIsland,13,PLAY,1,1,48,27,735,123,21,465,66,2023,3,19,100,0,1,,RM,8,0,14,CBCH,A,B,4,,Time bin B or C? Did I imagine this?,Check for NOFL Q2 Distance Bin C ~ 9:00.,
+68,95,230319-001,VancouverIsland,13,PLAY,1,1,48,27,735,123,21,465,66,2023,3,19,100,0,1,,RM,8,0,15,AMCR,A,B,4,,Moved E.,Check for NOFL Q2 Distance Bin C ~ 9:00.,
+68,95,230319-001,VancouverIsland,13,PLAY,1,1,48,27,735,123,21,465,66,2023,3,19,100,0,1,,RM,8,0,16,AMCR,B,A,4,,,Check for NOFL Q2 Distance Bin C ~ 9:00.,
+68,95,230319-001,VancouverIsland,13,PLAY,1,1,48,27,735,123,21,465,66,2023,3,19,100,0,1,,RM,8,0,17,NOFL,B,C,4,,,Check for NOFL Q2 Distance Bin C ~ 9:00.,
+68,95,230319-001,VancouverIsland,13,PLAY,1,1,48,27,735,123,21,465,66,2023,3,19,100,0,1,,RM,8,0,18,HOSP,B,D,4,,,Check for NOFL Q2 Distance Bin C ~ 9:00.,
+68,95,230319-001,VancouverIsland,13,PLAY,1,1,48,27,735,123,21,465,66,2023,3,19,100,0,1,,RM,8,0,19,BEWR,C,A,4,,Countercalling Bird 6 and Bird 13.,Check for NOFL Q2 Distance Bin C ~ 9:00.,
+68,95,230319-001,VancouverIsland,13,PLAY,1,1,48,27,735,123,21,465,66,2023,3,19,100,0,1,,RM,8,0,20,HOFI,C,D,4,,Unsure. Check ~10:00.,Check for NOFL Q2 Distance Bin C ~ 9:00.,
+68,95,230319-001,VancouverIsland,13,PLAY,1,1,48,27,735,123,21,465,66,2023,3,19,100,0,1,,RM,8,0,21,AMCR,F,,,,,Check for NOFL Q2 Distance Bin C ~ 9:00.,
+68,95,230319-001,VancouverIsland,13,PLAY,1,1,48,27,735,123,21,465,66,2023,3,19,100,0,1,,RM,8,0,22,AMCR,F,,,,,Check for NOFL Q2 Distance Bin C ~ 9:00.,
+68,95,230319-001,VancouverIsland,13,PLAY,1,1,48,27,735,123,21,465,66,2023,3,19,100,0,1,,RM,8,0,23,AMCR,F,,,,,Check for NOFL Q2 Distance Bin C ~ 9:00.,
+68,95,230319-001,VancouverIsland,13,PLAY,1,1,48,27,735,123,21,465,66,2023,3,19,100,0,1,,RM,8,0,24,AMCR,F,,,,,Check for NOFL Q2 Distance Bin C ~ 9:00.,
+68,95,230319-001,VancouverIsland,13,PLAY,1,1,48,27,735,123,21,465,66,2023,3,19,100,0,1,,RM,8,0,25,AMCR,F,,,,,Check for NOFL Q2 Distance Bin C ~ 9:00.,
+68,95,230319-001,VancouverIsland,13,PLAY,1,1,48,27,735,123,21,465,66,2023,3,19,100,0,1,,RM,8,0,26,AMCR,F,,,,,Check for NOFL Q2 Distance Bin C ~ 9:00.,
+68,95,230319-001,VancouverIsland,13,PLAY,1,1,48,27,735,123,21,465,66,2023,3,19,100,0,1,,RM,8,0,27,MALL,F,,,,,Check for NOFL Q2 Distance Bin C ~ 9:00.,
+69,96,230319-002,VancouverIsland,13,CHHI,1,1,48,28,429,123,22,539,83,2023,3,19,100,0,0,,RM,8,29,1,ANHU,A,A,1,,Moved to Q4 Distance Bin A.,,"Upslope towards Q3, so hard to detect anything."
+69,96,230319-002,VancouverIsland,13,CHHI,1,1,48,28,429,123,22,539,83,2023,3,19,100,0,0,,RM,8,29,2,ANHU,A,A,1,,,,"Upslope towards Q3, so hard to detect anything."
+69,96,230319-002,VancouverIsland,13,CHHI,1,1,48,28,429,123,22,539,83,2023,3,19,100,0,0,,RM,8,29,3,RCKI,A,B,1,,,,"Upslope towards Q3, so hard to detect anything."
+69,96,230319-002,VancouverIsland,13,CHHI,1,1,48,28,429,123,22,539,83,2023,3,19,100,0,0,,RM,8,29,4,CBCH,A,D,1,,,,"Upslope towards Q3, so hard to detect anything."
+69,96,230319-002,VancouverIsland,13,CHHI,1,1,48,28,429,123,22,539,83,2023,3,19,100,0,0,,RM,8,29,5,SPTO,B,A,1,,,,"Upslope towards Q3, so hard to detect anything."
+69,96,230319-002,VancouverIsland,13,CHHI,1,1,48,28,429,123,22,539,83,2023,3,19,100,0,0,,RM,8,29,6,DEJU,B,A,1,,Moved to Q1 Distance Bin A.,,"Upslope towards Q3, so hard to detect anything."
+69,96,230319-002,VancouverIsland,13,CHHI,1,1,48,28,429,123,22,539,83,2023,3,19,100,0,0,,RM,8,29,7,AMRO,B,A,1,,,,"Upslope towards Q3, so hard to detect anything."
+69,96,230319-002,VancouverIsland,13,CHHI,1,1,48,28,429,123,22,539,83,2023,3,19,100,0,0,,RM,8,29,8,RCKI,B,A,1,,,,"Upslope towards Q3, so hard to detect anything."
+69,96,230319-002,VancouverIsland,13,CHHI,1,1,48,28,429,123,22,539,83,2023,3,19,100,0,0,,RM,8,29,9,CBCH,B,A,1,,Moved to Q1 Distance Bin A.,,"Upslope towards Q3, so hard to detect anything."
+69,96,230319-002,VancouverIsland,13,CHHI,1,1,48,28,429,123,22,539,83,2023,3,19,100,0,0,,RM,8,29,10,RBNU,D,A,1,,,,"Upslope towards Q3, so hard to detect anything."
+69,96,230319-002,VancouverIsland,13,CHHI,1,1,48,28,429,123,22,539,83,2023,3,19,100,0,0,,RM,8,29,11,NOFL,D,A,1,,,,"Upslope towards Q3, so hard to detect anything."
+69,96,230319-002,VancouverIsland,13,CHHI,1,1,48,28,429,123,22,539,83,2023,3,19,100,0,0,,RM,8,29,12,CORA,D,D,1,,,,"Upslope towards Q3, so hard to detect anything."
+69,96,230319-002,VancouverIsland,13,CHHI,1,1,48,28,429,123,22,539,83,2023,3,19,100,0,0,,RM,8,29,13,AMCR,E,B,1,,,,"Upslope towards Q3, so hard to detect anything."
+69,96,230319-002,VancouverIsland,13,CHHI,1,1,48,28,429,123,22,539,83,2023,3,19,100,0,0,,RM,8,29,14,AMCR,E,B,1,,,,"Upslope towards Q3, so hard to detect anything."
+69,96,230319-002,VancouverIsland,13,CHHI,1,1,48,28,429,123,22,539,83,2023,3,19,100,0,0,,RM,8,29,15,SPTO,A,A,2,,,,"Upslope towards Q3, so hard to detect anything."
+69,96,230319-002,VancouverIsland,13,CHHI,1,1,48,28,429,123,22,539,83,2023,3,19,100,0,0,,RM,8,29,16,GCKI,A,B,2,,,,"Upslope towards Q3, so hard to detect anything."
+69,96,230319-002,VancouverIsland,13,CHHI,1,1,48,28,429,123,22,539,83,2023,3,19,100,0,0,,RM,8,29,17,NOFL,B,B,2,,Moved to Q4 Distance Bin A.,,"Upslope towards Q3, so hard to detect anything."
+69,96,230319-002,VancouverIsland,13,CHHI,1,1,48,28,429,123,22,539,83,2023,3,19,100,0,0,,RM,8,29,18,SPTO,A,A,4,,Moved to Q1 Distance Bin A.,,"Upslope towards Q3, so hard to detect anything."
+69,96,230319-002,VancouverIsland,13,CHHI,1,1,48,28,429,123,22,539,83,2023,3,19,100,0,0,,RM,8,29,19,CBCH,A,D,4,,,,"Upslope towards Q3, so hard to detect anything."
+69,96,230319-002,VancouverIsland,13,CHHI,1,1,48,28,429,123,22,539,83,2023,3,19,100,0,0,,RM,8,29,20,RBNU,D,A,4,,,,"Upslope towards Q3, so hard to detect anything."
+69,96,230319-002,VancouverIsland,13,CHHI,1,1,48,28,429,123,22,539,83,2023,3,19,100,0,0,,RM,8,29,21,CORA,D,A,4,,,,"Upslope towards Q3, so hard to detect anything."
+69,96,230319-002,VancouverIsland,13,CHHI,1,1,48,28,429,123,22,539,83,2023,3,19,100,0,0,,RM,8,29,22,SOSP,D,C,4,,,,"Upslope towards Q3, so hard to detect anything."
+70,97,230319-003,VancouverIsland,13,KOPA,1,1,48,27,335,123,16,517,23,2023,3,19,100,0,1,,RM,9,14,1,CBCH,A,A,1,1,Flock moved to Q1 Distance Bin B.,,
+70,97,230319-003,VancouverIsland,13,KOPA,1,1,48,27,335,123,16,517,23,2023,3,19,100,0,1,,RM,9,14,2,CBCH,A,A,1,1,Flock moved to Q1 Distance Bin B.,,
+70,97,230319-003,VancouverIsland,13,KOPA,1,1,48,27,335,123,16,517,23,2023,3,19,100,0,1,,RM,9,14,3,CBCH,A,A,1,1,Flock moved to Q1 Distance Bin B.,,
+70,97,230319-003,VancouverIsland,13,KOPA,1,1,48,27,335,123,16,517,23,2023,3,19,100,0,1,,RM,9,14,4,CBCH,A,D,1,,,,
+70,97,230319-003,VancouverIsland,13,KOPA,1,1,48,27,335,123,16,517,23,2023,3,19,100,0,1,,RM,9,14,5,PUFI,B,C,1,,Countercalling Bird 9.,,
+70,97,230319-003,VancouverIsland,13,KOPA,1,1,48,27,335,123,16,517,23,2023,3,19,100,0,1,,RM,9,14,6,SOSP,C,A,1,,,,
+70,97,230319-003,VancouverIsland,13,KOPA,1,1,48,27,335,123,16,517,23,2023,3,19,100,0,1,,RM,9,14,7,SPTO,C,B,1,,,,
+70,97,230319-003,VancouverIsland,13,KOPA,1,1,48,27,335,123,16,517,23,2023,3,19,100,0,1,,RM,9,14,8,BEWR,C,B,1,,Countercalling Bird 29.,,
+70,97,230319-003,VancouverIsland,13,KOPA,1,1,48,27,335,123,16,517,23,2023,3,19,100,0,1,,RM,9,14,9,PUFI,C,C,1,,Countercalling Bird 5.,,
+70,97,230319-003,VancouverIsland,13,KOPA,1,1,48,27,335,123,16,517,23,2023,3,19,100,0,1,,RM,9,14,10,SPTO,C,C,1,,,,
+70,97,230319-003,VancouverIsland,13,KOPA,1,1,48,27,335,123,16,517,23,2023,3,19,100,0,1,,RM,9,14,11,CBCH,A,A,2,,,,
+70,97,230319-003,VancouverIsland,13,KOPA,1,1,48,27,335,123,16,517,23,2023,3,19,100,0,1,,RM,9,14,12,CBCH,A,A,2,,,,
+70,97,230319-003,VancouverIsland,13,KOPA,1,1,48,27,335,123,16,517,23,2023,3,19,100,0,1,,RM,9,14,13,DEJU,A,B,2,,,,
+70,97,230319-003,VancouverIsland,13,KOPA,1,1,48,27,335,123,16,517,23,2023,3,19,100,0,1,,RM,9,14,14,ANHU,A,C,2,,Moved to Q3 Distance Bin A.,,
+70,97,230319-003,VancouverIsland,13,KOPA,1,1,48,27,335,123,16,517,23,2023,3,19,100,0,1,,RM,9,14,15,PUFI,B,C,2,,,,
+70,97,230319-003,VancouverIsland,13,KOPA,1,1,48,27,335,123,16,517,23,2023,3,19,100,0,1,,RM,9,14,16,SOSP,B,C,2,,,,
+70,97,230319-003,VancouverIsland,13,KOPA,1,1,48,27,335,123,16,517,23,2023,3,19,100,0,1,,RM,9,14,17,CORA,B,A,3,,,,
+70,97,230319-003,VancouverIsland,13,KOPA,1,1,48,27,335,123,16,517,23,2023,3,19,100,0,1,,RM,9,14,18,SPTO,B,B,3,,,,
+70,97,230319-003,VancouverIsland,13,KOPA,1,1,48,27,335,123,16,517,23,2023,3,19,100,0,1,,RM,9,14,19,CORA,B,D,3,,,,
+70,97,230319-003,VancouverIsland,13,KOPA,1,1,48,27,335,123,16,517,23,2023,3,19,100,0,1,,RM,9,14,20,PUFI,C,B,3,,,,
+70,97,230319-003,VancouverIsland,13,KOPA,1,1,48,27,335,123,16,517,23,2023,3,19,100,0,1,,RM,9,14,21,AMCR,C,B,3,,,,
+70,97,230319-003,VancouverIsland,13,KOPA,1,1,48,27,335,123,16,517,23,2023,3,19,100,0,1,,RM,9,14,22,RBNU,C,D,3,,,,
+70,97,230319-003,VancouverIsland,13,KOPA,1,1,48,27,335,123,16,517,23,2023,3,19,100,0,1,,RM,9,14,23,CBCH,A,A,4,1,Flock moved to Q1 Distance Bin B.,,
+70,97,230319-003,VancouverIsland,13,KOPA,1,1,48,27,335,123,16,517,23,2023,3,19,100,0,1,,RM,9,14,24,CBCH,A,A,4,1,Flock moved to Q1 Distance Bin B.,,
+70,97,230319-003,VancouverIsland,13,KOPA,1,1,48,27,335,123,16,517,23,2023,3,19,100,0,1,,RM,9,14,25,CORA,A,C,4,,,,
+70,97,230319-003,VancouverIsland,13,KOPA,1,1,48,27,335,123,16,517,23,2023,3,19,100,0,1,,RM,9,14,26,AMRO,B,A,4,,Moved to Q4 Distance Bin A.,,
+70,97,230319-003,VancouverIsland,13,KOPA,1,1,48,27,335,123,16,517,23,2023,3,19,100,0,1,,RM,9,14,27,AMRO,B,A,4,,,,
+70,97,230319-003,VancouverIsland,13,KOPA,1,1,48,27,335,123,16,517,23,2023,3,19,100,0,1,,RM,9,14,28,DEJU,C,A,4,,Moved to Q1 Distance Bin B.,,
+70,97,230319-003,VancouverIsland,13,KOPA,1,1,48,27,335,123,16,517,23,2023,3,19,100,0,1,,RM,9,14,29,BEWR,C,B,4,,Countercalling Bird 8.,,
+71,98,230320-000,VancouverIsland,14,MTDO,1,1,48,29,125,123,20,739,64,2023,3,20,100,0,0,,RM,9,3,1,CBCH,A,B,1,,,,Many hikers. ~100m from edge.
+71,98,230320-000,VancouverIsland,14,MTDO,1,1,48,29,125,123,20,739,64,2023,3,20,100,0,0,,RM,9,3,2,CBCH,B,A,1,,,,Many hikers. ~100m from edge.
+71,98,230320-000,VancouverIsland,14,MTDO,1,1,48,29,125,123,20,739,64,2023,3,20,100,0,0,,RM,9,3,3,RBNU,D,A,1,,"Countercalling Bird 11, Bird 12, Bird 25, and Bird 26.",,Many hikers. ~100m from edge.
+71,98,230320-000,VancouverIsland,14,MTDO,1,1,48,29,125,123,20,739,64,2023,3,20,100,0,0,,RM,9,3,4,PAWR,D,A,1,,,,Many hikers. ~100m from edge.
+71,98,230320-000,VancouverIsland,14,MTDO,1,1,48,29,125,123,20,739,64,2023,3,20,100,0,0,,RM,9,3,5,CORA,E,D,1,,,,Many hikers. ~100m from edge.
+71,98,230320-000,VancouverIsland,14,MTDO,1,1,48,29,125,123,20,739,64,2023,3,20,100,0,0,,RM,9,3,6,DEJU,A,A,2,1,Flock moved to Q1 Distance Bin A.,,Many hikers. ~100m from edge.
+71,98,230320-000,VancouverIsland,14,MTDO,1,1,48,29,125,123,20,739,64,2023,3,20,100,0,0,,RM,9,3,7,DEJU,A,A,2,1,Flock moved to Q1 Distance Bin A.,,Many hikers. ~100m from edge.
+71,98,230320-000,VancouverIsland,14,MTDO,1,1,48,29,125,123,20,739,64,2023,3,20,100,0,0,,RM,9,3,8,SOSP,A,A,2,,Moved to Q1 Distance Bin A.,,Many hikers. ~100m from edge.
+71,98,230320-000,VancouverIsland,14,MTDO,1,1,48,29,125,123,20,739,64,2023,3,20,100,0,0,,RM,9,3,9,GCKI,A,A,2,,,,Many hikers. ~100m from edge.
+71,98,230320-000,VancouverIsland,14,MTDO,1,1,48,29,125,123,20,739,64,2023,3,20,100,0,0,,RM,9,3,10,CBCH,B,B,2,,,,Many hikers. ~100m from edge.
+71,98,230320-000,VancouverIsland,14,MTDO,1,1,48,29,125,123,20,739,64,2023,3,20,100,0,0,,RM,9,3,11,RBNU,C,B,2,,"Countercalling Bird 3, Bird 25, and Bird 26.",,Many hikers. ~100m from edge.
+71,98,230320-000,VancouverIsland,14,MTDO,1,1,48,29,125,123,20,739,64,2023,3,20,100,0,0,,RM,9,3,12,RBNU,C,B,2,,"Countercalling Bird 3, Bird 25, and Bird 26. Check was this before 2:45?",,Many hikers. ~100m from edge.
+71,98,230320-000,VancouverIsland,14,MTDO,1,1,48,29,125,123,20,739,64,2023,3,20,100,0,0,,RM,9,3,13,UNID,D,C,2,,"Check ~6:00. ""Tsew.. Tsew..""",,Many hikers. ~100m from edge.
+71,98,230320-000,VancouverIsland,14,MTDO,1,1,48,29,125,123,20,739,64,2023,3,20,100,0,0,,RM,9,3,14,AMRO,D,D,2,,,,Many hikers. ~100m from edge.
+71,98,230320-000,VancouverIsland,14,MTDO,1,1,48,29,125,123,20,739,64,2023,3,20,100,0,0,,RM,9,3,15,AMCR,E,C,2,,,,Many hikers. ~100m from edge.
+71,98,230320-000,VancouverIsland,14,MTDO,1,1,48,29,125,123,20,739,64,2023,3,20,100,0,0,,RM,9,3,16,AMCR,E,C,2,,,,Many hikers. ~100m from edge.
+71,98,230320-000,VancouverIsland,14,MTDO,1,1,48,29,125,123,20,739,64,2023,3,20,100,0,0,,RM,9,3,17,GCKI,A,A,3,,,,Many hikers. ~100m from edge.
+71,98,230320-000,VancouverIsland,14,MTDO,1,1,48,29,125,123,20,739,64,2023,3,20,100,0,0,,RM,9,3,18,PAWR,A,D,3,,,,Many hikers. ~100m from edge.
+71,98,230320-000,VancouverIsland,14,MTDO,1,1,48,29,125,123,20,739,64,2023,3,20,100,0,0,,RM,9,3,19,CBCH,B,A,3,,,,Many hikers. ~100m from edge.
+71,98,230320-000,VancouverIsland,14,MTDO,1,1,48,29,125,123,20,739,64,2023,3,20,100,0,0,,RM,9,3,20,PAWR,B,D,3,,,,Many hikers. ~100m from edge.
+71,98,230320-000,VancouverIsland,14,MTDO,1,1,48,29,125,123,20,739,64,2023,3,20,100,0,0,,RM,9,3,21,VATH,D,C,3,,Unsure. Check ~5:45.,,Many hikers. ~100m from edge.
+71,98,230320-000,VancouverIsland,14,MTDO,1,1,48,29,125,123,20,739,64,2023,3,20,100,0,0,,RM,9,3,22,AMRO,E,A,3,,,,Many hikers. ~100m from edge.
+71,98,230320-000,VancouverIsland,14,MTDO,1,1,48,29,125,123,20,739,64,2023,3,20,100,0,0,,RM,9,3,23,CBCH,A,A,4,,,,Many hikers. ~100m from edge.
+71,98,230320-000,VancouverIsland,14,MTDO,1,1,48,29,125,123,20,739,64,2023,3,20,100,0,0,,RM,9,3,24,CBCH,A,A,4,,,,Many hikers. ~100m from edge.
+71,98,230320-000,VancouverIsland,14,MTDO,1,1,48,29,125,123,20,739,64,2023,3,20,100,0,0,,RM,9,3,25,RBNU,C,B,4,,"Countercalling Bird 3, Bird 11, and Bird 12.",,Many hikers. ~100m from edge.
+71,98,230320-000,VancouverIsland,14,MTDO,1,1,48,29,125,123,20,739,64,2023,3,20,100,0,0,,RM,9,3,26,RBNU,C,B,4,,"Countercalling Bird 3, Bird 11, and Bird 12.",,Many hikers. ~100m from edge.
+72,99,230320-001,VancouverIsland,14,MTDO,2,1,48,29,257,123,20,726,86,2023,3,20,100,0,0,,RM,9,25,1,BRCR,A,A,1,,,,~100m from edge on all sides.
+72,99,230320-001,VancouverIsland,14,MTDO,2,1,48,29,257,123,20,726,86,2023,3,20,100,0,0,,RM,9,25,2,CBCH,A,B,1,,,,~100m from edge on all sides.
+72,99,230320-001,VancouverIsland,14,MTDO,2,1,48,29,257,123,20,726,86,2023,3,20,100,0,0,,RM,9,25,3,RBNU,C,B,1,,,,~100m from edge on all sides.
+72,99,230320-001,VancouverIsland,14,MTDO,2,1,48,29,257,123,20,726,86,2023,3,20,100,0,0,,RM,9,25,4,GCKI,A,D,2,,,,~100m from edge on all sides.
+72,99,230320-001,VancouverIsland,14,MTDO,2,1,48,29,257,123,20,726,86,2023,3,20,100,0,0,,RM,9,25,5,RBNU,C,A,2,,Countercalling Bird 6 and Bird 7.,,~100m from edge on all sides.
+72,99,230320-001,VancouverIsland,14,MTDO,2,1,48,29,257,123,20,726,86,2023,3,20,100,0,0,,RM,9,25,6,RBNU,C,A,3,,Countercalling Bird 5.,,~100m from edge on all sides.
+72,99,230320-001,VancouverIsland,14,MTDO,2,1,48,29,257,123,20,726,86,2023,3,20,100,0,0,,RM,9,25,7,RBNU,C,A,3,,Countercalling Bird 5.,,~100m from edge on all sides.
+72,99,230320-001,VancouverIsland,14,MTDO,2,1,48,29,257,123,20,726,86,2023,3,20,100,0,0,,RM,9,25,8,PUFI,C,A,3,,Moved to Q2 Distance Bin B.,,~100m from edge on all sides.
+72,99,230320-001,VancouverIsland,14,MTDO,2,1,48,29,257,123,20,726,86,2023,3,20,100,0,0,,RM,9,25,9,AMRO,D,D,3,,,,~100m from edge on all sides.
+72,99,230320-001,VancouverIsland,14,MTDO,2,1,48,29,257,123,20,726,86,2023,3,20,100,0,0,,RM,9,25,10,ANHU,A,A,4,,,,~100m from edge on all sides.
+72,99,230320-001,VancouverIsland,14,MTDO,2,1,48,29,257,123,20,726,86,2023,3,20,100,0,0,,RM,9,25,11,CBCH,A,B,4,,Moved to Q3 Distance Bin A.,,~100m from edge on all sides.
+72,99,230320-001,VancouverIsland,14,MTDO,2,1,48,29,257,123,20,726,86,2023,3,20,100,0,0,,RM,9,25,12,CBCH,A,B,4,,Moved to Q3 Distance Bin A.,,~100m from edge on all sides.
+72,99,230320-001,VancouverIsland,14,MTDO,2,1,48,29,257,123,20,726,86,2023,3,20,100,0,0,,RM,9,25,13,BRCR,B,C,4,,,,~100m from edge on all sides.
+72,99,230320-001,VancouverIsland,14,MTDO,2,1,48,29,257,123,20,726,86,2023,3,20,100,0,0,,RM,9,25,14,PAWR,C,B,4,,,,~100m from edge on all sides.
+72,99,230320-001,VancouverIsland,14,MTDO,2,1,48,29,257,123,20,726,86,2023,3,20,100,0,0,,RM,9,25,15,AMRO,D,A,4,,Moved to Q3 Distance Bin D.,,~100m from edge on all sides.
+72,99,230320-001,VancouverIsland,14,MTDO,2,1,48,29,257,123,20,726,86,2023,3,20,100,0,0,,RM,9,25,16,SPTO,D,D,4,,Unsure. Check ~8:00.,,~100m from edge on all sides.
+72,99,230320-001,VancouverIsland,14,MTDO,2,1,48,29,257,123,20,726,86,2023,3,20,100,0,0,,RM,9,25,17,NOFL,E,D,4,,,,~100m from edge on all sides.
+73,100,230320-002,VancouverIsland,14,MTDO,3,1,48,29,395,123,20,555,61,2023,3,20,100,0,0,,RM,9,55,1,BRCR,A,A,1,,,,
+73,100,230320-002,VancouverIsland,14,MTDO,3,1,48,29,395,123,20,555,61,2023,3,20,100,0,0,,RM,9,55,2,CBCH,A,A,1,,,,
+73,100,230320-002,VancouverIsland,14,MTDO,3,1,48,29,395,123,20,555,61,2023,3,20,100,0,0,,RM,9,55,3,PAWR,A,C,1,,,,
+73,100,230320-002,VancouverIsland,14,MTDO,3,1,48,29,395,123,20,555,61,2023,3,20,100,0,0,,RM,9,55,4,PUFI,B,A,1,,,,
+73,100,230320-002,VancouverIsland,14,MTDO,3,1,48,29,395,123,20,555,61,2023,3,20,100,0,0,,RM,9,55,5,SPTO,B,A,1,,,,
+73,100,230320-002,VancouverIsland,14,MTDO,3,1,48,29,395,123,20,555,61,2023,3,20,100,0,0,,RM,9,55,6,NOFL,B,C,1,,,,
+73,100,230320-002,VancouverIsland,14,MTDO,3,1,48,29,395,123,20,555,61,2023,3,20,100,0,0,,RM,9,55,7,AMRO,B,D,1,,,,
+73,100,230320-002,VancouverIsland,14,MTDO,3,1,48,29,395,123,20,555,61,2023,3,20,100,0,0,,RM,9,55,8,AMRO,C,A,1,,,,
+73,100,230320-002,VancouverIsland,14,MTDO,3,1,48,29,395,123,20,555,61,2023,3,20,100,0,0,,RM,9,55,9,BEWR,C,A,1,,Unsure. Check.,,
+73,100,230320-002,VancouverIsland,14,MTDO,3,1,48,29,395,123,20,555,61,2023,3,20,100,0,0,,RM,9,55,10,SPTO,D,A,1,,,,
+73,100,230320-002,VancouverIsland,14,MTDO,3,1,48,29,395,123,20,555,61,2023,3,20,100,0,0,,RM,9,55,11,RBNU,D,A,1,,,,
+73,100,230320-002,VancouverIsland,14,MTDO,3,1,48,29,395,123,20,555,61,2023,3,20,100,0,0,,RM,9,55,12,CBCH,A,A,2,,,,
+73,100,230320-002,VancouverIsland,14,MTDO,3,1,48,29,395,123,20,555,61,2023,3,20,100,0,0,,RM,9,55,13,GCKI,A,B,2,,,,
+73,100,230320-002,VancouverIsland,14,MTDO,3,1,48,29,395,123,20,555,61,2023,3,20,100,0,0,,RM,9,55,14,UNID,B,C,2,,"Check ~7:40. Repeated ""puhweeEEP"".",,
+73,100,230320-002,VancouverIsland,14,MTDO,3,1,48,29,395,123,20,555,61,2023,3,20,100,0,0,,RM,9,55,15,AMRO,C,A,2,,,,
+73,100,230320-002,VancouverIsland,14,MTDO,3,1,48,29,395,123,20,555,61,2023,3,20,100,0,0,,RM,9,55,16,RBNU,B,D,3,,,,
+73,100,230320-002,VancouverIsland,14,MTDO,3,1,48,29,395,123,20,555,61,2023,3,20,100,0,0,,RM,9,55,17,SPTO,C,B,3,,,,
+73,100,230320-002,VancouverIsland,14,MTDO,3,1,48,29,395,123,20,555,61,2023,3,20,100,0,0,,RM,9,55,18,RBNU,E,C,3,,,,
+73,100,230320-002,VancouverIsland,14,MTDO,3,1,48,29,395,123,20,555,61,2023,3,20,100,0,0,,RM,9,55,19,ANHU,A,A,4,,,,
+73,100,230320-002,VancouverIsland,14,MTDO,3,1,48,29,395,123,20,555,61,2023,3,20,100,0,0,,RM,9,55,20,GCKI,A,B,4,,,,
+73,100,230320-002,VancouverIsland,14,MTDO,3,1,48,29,395,123,20,555,61,2023,3,20,100,0,0,,RM,9,55,21,SPTO,B,B,4,,,,
+73,100,230320-002,VancouverIsland,14,MTDO,3,1,48,29,395,123,20,555,61,2023,3,20,100,0,0,,RM,9,55,22,UNID,B,B,4,,"Check ~4:10. ""chyup chyup chyup""",,
+73,100,230320-002,VancouverIsland,14,MTDO,3,1,48,29,395,123,20,555,61,2023,3,20,100,0,0,,RM,9,55,23,BCRC,B,C,4,,,,
+73,100,230320-002,VancouverIsland,14,MTDO,3,1,48,29,395,123,20,555,61,2023,3,20,100,0,0,,RM,9,55,24,CBCH,B,D,4,,,,
+73,100,230320-002,VancouverIsland,14,MTDO,3,1,48,29,395,123,20,555,61,2023,3,20,100,0,0,,RM,9,55,25,AMRO,C,C,4,,,,
+73,100,230320-002,VancouverIsland,14,MTDO,3,1,48,29,395,123,20,555,61,2023,3,20,100,0,0,,RM,9,55,26,RBNU,D,B,4,,,,

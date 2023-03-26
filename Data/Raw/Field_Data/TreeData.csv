@@ -1,0 +1,889 @@
+SheetNo,BirdSheetNo,Transect,Site,Point,Elevation,Year,Month,Day,Observer,CanopyCover,Direction,Method,HorizontalDistance,HypotenuseDistance,DownslopeHypotenuseDistance,AngleToBase,AngleToTop,RawAdjustment,DirectHeight,TreeType,DistanceToFinalTree,TreeComments,SiteComments
+1,1,1,CRRP,1,80,2023,2,8,RM,60,N,LevelDistanceLRF,6.1,40.1,,,,,,Con,,,"NW-SW strip of tall con forest, ~50m to east gap for Capilano River, 50m to NW gap for road."
+1,1,1,CRRP,1,80,2023,2,8,RM,60,N,LevelDistanceLRF,12.4,45.9,,,,,,Con,,,"NW-SW strip of tall con forest, ~50m to east gap for Capilano River, 50m to NW gap for road."
+1,1,1,CRRP,1,80,2023,2,8,RM,60,N,LevelDistanceLRF,32.5,79.9,,,,,,Con,,,"NW-SW strip of tall con forest, ~50m to east gap for Capilano River, 50m to NW gap for road."
+1,1,1,CRRP,1,80,2023,2,8,RM,60,N,LevelDistanceLRF,30.9,38.9,,,,,,Con,,,"NW-SW strip of tall con forest, ~50m to east gap for Capilano River, 50m to NW gap for road."
+1,1,1,CRRP,1,80,2023,2,8,RM,60,N,LevelDistanceLRF,9.9,42,,,,,,Con,51.2,,"NW-SW strip of tall con forest, ~50m to east gap for Capilano River, 50m to NW gap for road."
+1,1,1,CRRP,1,80,2023,2,8,RM,60,E,LevelDistanceLRF,6.9,40.3,,,,,,Con,,,"NW-SW strip of tall con forest, ~50m to east gap for Capilano River, 50m to NW gap for road."
+1,1,1,CRRP,1,80,2023,2,8,RM,60,E,LevelDistanceLRF,6.1,13,,,,,,Con,,,"NW-SW strip of tall con forest, ~50m to east gap for Capilano River, 50m to NW gap for road."
+1,1,1,CRRP,1,80,2023,2,8,RM,60,E,LevelDistanceLRF,11,15.1,,,,,,Con,,,"NW-SW strip of tall con forest, ~50m to east gap for Capilano River, 50m to NW gap for road."
+1,1,1,CRRP,1,80,2023,2,8,RM,60,E,LevelDistanceLRF,20.9,47.8,,,,,,Con,,,"NW-SW strip of tall con forest, ~50m to east gap for Capilano River, 50m to NW gap for road."
+1,1,1,CRRP,1,80,2023,2,8,RM,60,E,LevelDistanceLRF,8.5,17.4,,,,,,Con,14.2,,"NW-SW strip of tall con forest, ~50m to east gap for Capilano River, 50m to NW gap for road."
+1,1,1,CRRP,1,80,2023,2,8,RM,60,S,LevelDistanceLRF,6.9,13.1,,,,,,Con,,,"NW-SW strip of tall con forest, ~50m to east gap for Capilano River, 50m to NW gap for road."
+1,1,1,CRRP,1,80,2023,2,8,RM,60,S,LevelDistanceLRF,7.7,49,,,,,,Con,,,"NW-SW strip of tall con forest, ~50m to east gap for Capilano River, 50m to NW gap for road."
+1,1,1,CRRP,1,80,2023,2,8,RM,60,S,LevelDistanceLRF,10.5,12.1,,,,2,,Con,,,"NW-SW strip of tall con forest, ~50m to east gap for Capilano River, 50m to NW gap for road."
+1,1,1,CRRP,1,80,2023,2,8,RM,60,S,LevelDistanceLRF,6,33.8,,,,,,Con,,,"NW-SW strip of tall con forest, ~50m to east gap for Capilano River, 50m to NW gap for road."
+1,1,1,CRRP,1,80,2023,2,8,RM,60,S,LevelDistanceLRF,6.1,7.4,,,,,,Con,15.1,,"NW-SW strip of tall con forest, ~50m to east gap for Capilano River, 50m to NW gap for road."
+1,1,1,CRRP,1,80,2023,2,8,RM,60,W,LevelDistanceLRF,6.1,10.6,,,,,,Con,,,"NW-SW strip of tall con forest, ~50m to east gap for Capilano River, 50m to NW gap for road."
+1,1,1,CRRP,1,80,2023,2,8,RM,60,W,LevelDistanceLRF,7.1,35.9,,,,,,Con,,,"NW-SW strip of tall con forest, ~50m to east gap for Capilano River, 50m to NW gap for road."
+1,1,1,CRRP,1,80,2023,2,8,RM,60,W,LevelDistanceLRF,7.1,8.7,,,,,,Con,,,"NW-SW strip of tall con forest, ~50m to east gap for Capilano River, 50m to NW gap for road."
+1,1,1,CRRP,1,80,2023,2,8,RM,60,W,LevelDistanceLRF,10.2,42.9,,,,,,Con,,,"NW-SW strip of tall con forest, ~50m to east gap for Capilano River, 50m to NW gap for road."
+1,1,1,CRRP,1,80,2023,2,8,RM,60,W,LevelDistanceLRF,11.7,52.2,,,,,,Con,9.7,,"NW-SW strip of tall con forest, ~50m to east gap for Capilano River, 50m to NW gap for road."
+2,2,1,CLPA,1,180,2023,2,8,RM,40,N,LevelDistanceLRF,6.8,10.8,,,,,,Decid,,,
+2,2,1,CLPA,1,180,2023,2,8,RM,40,N,LevelDistanceLRF,7.1,21.3,,,,,,Decid,,,
+2,2,1,CLPA,1,180,2023,2,8,RM,40,N,LevelDistanceLRF,10.2,21,,,,,,Decid,,,
+2,2,1,CLPA,1,180,2023,2,8,RM,40,N,LevelDistanceLRF,7.7,22.5,,,,,,Decid,,,
+2,2,1,CLPA,1,180,2023,2,8,RM,40,N,LevelDistanceLRF,7.4,8.8,,,,,,Decid,11.4,,
+2,2,1,CLPA,1,180,2023,2,8,RM,40,E,LevelDistanceLRF,8.9,10.5,,,,,,Decid,,,
+2,2,1,CLPA,1,180,2023,2,8,RM,40,E,LevelDistanceLRF,10.2,19.6,,,,,,Decid,,,
+2,2,1,CLPA,1,180,2023,2,8,RM,40,E,LevelDistanceLRF,13.2,23.7,,,,,,Decid,,,
+2,2,1,CLPA,1,180,2023,2,8,RM,40,E,LevelDistanceLRF,12.4,16.3,,,,,,Con,,,
+2,2,1,CLPA,1,180,2023,2,8,RM,40,E,LevelDistanceLRF,11.4,14.6,,,,,,Con,15.7,,
+2,2,1,CLPA,1,180,2023,2,8,RM,40,S,LevelDistanceLRF,7.7,9.9,,,,,,Con,,,
+2,2,1,CLPA,1,180,2023,2,8,RM,40,S,LevelDistanceLRF,8.8,20.9,,,,,,Decid,,,
+2,2,1,CLPA,1,180,2023,2,8,RM,40,S,LevelDistanceLRF,8.9,9.4,,,,,,Con,,,
+2,2,1,CLPA,1,180,2023,2,8,RM,40,S,LevelDistanceLRF,12.3,15.8,,,,,,Con,,,
+2,2,1,CLPA,1,180,2023,2,8,RM,40,S,LevelDistanceLRF,12.7,26.6,,,,,,Decid,14.4,,
+2,2,1,CLPA,1,180,2023,2,8,RM,40,W,LevelDistanceLRF,8,8.8,,,,,,Decid,,,
+2,2,1,CLPA,1,180,2023,2,8,RM,40,W,LevelDistanceLRF,8.9,19,,,,,,Decid,,,
+2,2,1,CLPA,1,180,2023,2,8,RM,40,W,LevelDistanceEstimate,3,3,,,,,,Decid,,,
+2,2,1,CLPA,1,180,2023,2,8,RM,40,W,LevelDistanceEstimate,3,4,,,,,,Decid,,,
+2,2,1,CLPA,1,180,2023,2,8,RM,40,W,LevelDistanceEstimate,4,16.1,,,,,,Decid,17.9,,
+3,3,1,BCMC,1,319,2023,2,8,RM,40,N,LevelDistanceLRF,6.1,6.2,,,,,,Con,,,
+3,3,1,BCMC,1,319,2023,2,8,RM,40,N,LevelDistanceLRF,6.6,9.7,,,,,,Con,,,
+3,3,1,BCMC,1,319,2023,2,8,RM,40,N,LevelDistanceLRF,6.8,9.5,,,,,,Con,,,
+3,3,1,BCMC,1,319,2023,2,8,RM,40,N,LevelDistanceLRF,8.1,11.5,,,,,,Con,,,
+3,3,1,BCMC,1,319,2023,2,8,RM,40,N,LevelDistanceLRF,8,9.6,,,,,,Con,8,,
+3,3,1,BCMC,1,319,2023,2,8,RM,40,E,LevelDistanceLRF,6.4,7.3,,,,,,Con,,,
+3,3,1,BCMC,1,319,2023,2,8,RM,40,E,LevelDistanceLRF,6.3,9,,,,,,Con,,,
+3,3,1,BCMC,1,319,2023,2,8,RM,40,E,LevelDistanceLRF,7,7.8,,,,,,Con,,,
+3,3,1,BCMC,1,319,2023,2,8,RM,40,E,LevelDistanceLRF,8.4,9.5,,,,,,Con,,,
+3,3,1,BCMC,1,319,2023,2,8,RM,40,E,LevelDistanceLRF,8.9,9,,,,,,Con,5,,
+3,3,1,BCMC,1,319,2023,2,8,RM,40,S,LevelDistanceLRF,6.6,9.7,,,,2,,Con,,,
+3,3,1,BCMC,1,319,2023,2,8,RM,40,S,LevelDistanceLRF,2.5,4.5,,,,,,Con,,,
+3,3,1,BCMC,1,319,2023,2,8,RM,40,S,LevelDistanceLRF,6.1,8.6,,,,,,Decid,,,
+3,3,1,BCMC,1,319,2023,2,8,RM,40,S,DirectEstimate,,,,,,,2,Decid,,,
+3,3,1,BCMC,1,319,2023,2,8,RM,40,S,DirectEstimate,,,,,,,2,Decid,15,,
+3,3,1,BCMC,1,319,2023,2,8,RM,40,W,LevelDistanceLRF,6.1,13,,,,,,Con,,,
+3,3,1,BCMC,1,319,2023,2,8,RM,40,W,DirectEstimate,,,,,,,,Decid,,Less than 2m tall,
+3,3,1,BCMC,1,319,2023,2,8,RM,40,W,DirectEstimate,,,,,,,,Decid,,Less than 2m tall,
+3,3,1,BCMC,1,319,2023,2,8,RM,40,W,DirectEstimate,,,,,,,,Decid,,Less than 2m tall,
+3,3,1,BCMC,1,319,2023,2,8,RM,40,W,DirectEstimate,,,,,,,,Decid,14,Less than 2m tall,
+4,4,1,BCMC,2,385,2023,2,8,RM,80,N,LevelDistanceLRF,6.1,7.5,,,,,,Con,,,
+4,4,1,BCMC,2,385,2023,2,8,RM,80,N,LevelDistanceLRF,8,8.7,,,,,,Con,,,
+4,4,1,BCMC,2,385,2023,2,8,RM,80,N,LevelDistanceLRF,17.4,46.4,,,,,,Con,,,
+4,4,1,BCMC,2,385,2023,2,8,RM,80,N,LevelDistanceLRF,17.5,27.4,,,,,,Con,,,
+4,4,1,BCMC,2,385,2023,2,8,RM,80,N,LevelDistanceLRF,15.2,22.7,,,,,,Con,19.4,,
+4,4,1,BCMC,2,385,2023,2,8,RM,80,E,LevelDistanceLRF,8.2,9.3,,,,,,Con,,,
+4,4,1,BCMC,2,385,2023,2,8,RM,80,E,LevelDistanceLRF,12.3,50.4,,,,-2,,Con,,,
+4,4,1,BCMC,2,385,2023,2,8,RM,80,E,LevelDistanceLRF,20.6,49.3,,,,-5,,Con,,,
+4,4,1,BCMC,2,385,2023,2,8,RM,80,E,LevelDistanceLRF,9.6,11.1,,,,,,Con,,,
+4,4,1,BCMC,2,385,2023,2,8,RM,80,E,LevelDistanceLRF,30.2,54.4,,,,-8,,Con,30.2,,
+4,4,1,BCMC,2,385,2023,2,8,RM,80,S,LevelDistanceLRF,15.5,25.2,,,,5,,Con,,,
+4,4,1,BCMC,2,385,2023,2,8,RM,80,S,LevelDistanceLRF,11.6,13.4,,,,4,,Con,,,
+4,4,1,BCMC,2,385,2023,2,8,RM,80,S,LevelDistanceEstimate,21.5,40,,,,6,,Con,,,
+4,4,1,BCMC,2,385,2023,2,8,RM,80,S,LevelDistanceLRF,26.2,43.2,,,,6,,Con,,,
+4,4,1,BCMC,2,385,2023,2,8,RM,80,S,LevelDistanceLRF,29.1,45.5,,,,8,,Con,29.1,,
+4,4,1,BCMC,2,385,2023,2,8,RM,80,W,LevelDistanceLRF,7.9,42.8,,,,2,,Con,,,
+4,4,1,BCMC,2,385,2023,2,8,RM,80,W,DownslopeDistanceLRF,13.4,25.5,13.9,,,,,Con,,,
+4,4,1,BCMC,2,385,2023,2,8,RM,80,W,DownslopeDistanceLRF,10.2,43.2,10.8,,,,,Con,,,
+4,4,1,BCMC,2,385,2023,2,8,RM,80,W,DownslopeDistanceLRF,17.2,31.5,18,,,,,Con,,,
+4,4,1,BCMC,2,385,2023,2,8,RM,80,W,LevelDistanceLRF,24.8,33,,,,2,,Con,24.8,,
+5,5,1,BCMC,3,491,2023,2,8,RM,80,N,DownslopeDistanceLRF,16.2,40.6,16.9,,,,,Con,,,
+5,5,1,BCMC,3,491,2023,2,8,RM,80,N,DownslopeDistanceLRF,14.3,24.4,14.6,,,,,Con,,,
+5,5,1,BCMC,3,491,2023,2,8,RM,80,N,DownslopeDistanceLRF,20.2,31.5,20.8,,,,,Con,,,
+5,5,1,BCMC,3,491,2023,2,8,RM,80,N,DownslopeDistanceLRF,18,30.1,18.3,,,,,Con,,,
+5,5,1,BCMC,3,491,2023,2,8,RM,80,N,DownslopeDistanceLRF,17.4,36.9,17.9,,,,,Con,22.4,,
+5,5,1,BCMC,3,491,2023,2,8,RM,80,E,DirectLRF,,,,,,,40,Con,,,
+5,5,1,BCMC,3,491,2023,2,8,RM,80,E,LevelDistanceLRF,9.1,45,,,,,,Con,,,
+5,5,1,BCMC,3,491,2023,2,8,RM,80,E,LevelDistanceLRF,7,46.2,,,,,,Con,19.5,,
+5,5,1,BCMC,3,491,2023,2,8,RM,80,S,DownslopeDistanceLRF,11.1,33.2,12.3,,,,,Con,,,
+5,5,1,BCMC,3,491,2023,2,8,RM,80,S,DownslopeDistanceLRF,6.8,32.9,7.9,,,,,Con,,,
+5,5,1,BCMC,3,491,2023,2,8,RM,80,S,DownslopeDistanceLRF,21.5,35.9,22.1,,,,,Con,21.5,,
+5,5,1,BCMC,3,491,2023,2,8,RM,80,W,DirectLRF,,,,,,,46.7,Con,,,
+5,5,1,BCMC,3,491,2023,2,8,RM,80,W,DownslopeDistanceLRF,8.7,17.4,10.8,,,,,Con,,,
+5,5,1,BCMC,3,491,2023,2,8,RM,80,W,DownslopeDistanceLRF,12.3,35,14.9,,,,,Con,12.3,,
+6,6,1,BCMC,4,592,2023,2,8,RM,80,N,LevelDistanceLRF,6.1,29,,,,,,Con,,,
+6,6,1,BCMC,4,592,2023,2,8,RM,80,N,DownslopeDistanceLRF,8,22.6,8.7,,,,,Con,,,
+6,6,1,BCMC,4,592,2023,2,8,RM,80,N,LevelDistanceLRF,10.8,32.2,,,,,,Con,10.8,,
+6,6,1,BCMC,4,592,2023,2,8,RM,80,E,DirectLRF,,,,,,,27.5,Con,,,
+6,6,1,BCMC,4,592,2023,2,8,RM,80,E,LevelDistanceLRF,6,25.9,,,,,,Con,,,
+6,6,1,BCMC,4,592,2023,2,8,RM,80,E,LevelDistanceLRF,12.4,29.3,,,,1,,Con,12.4,,
+6,6,1,BCMC,4,592,2023,2,8,RM,80,S,DirectLRF,,,,,,,12.1,Con,,,
+6,6,1,BCMC,4,592,2023,2,8,RM,80,S,DownslopeDistanceLRF,6.1,19.9,7.1,,,,,Con,,,
+6,6,1,BCMC,4,592,2023,2,8,RM,80,S,DownslopeDistanceLRF,10.8,14.4,12.3,,,,,Con,7.1,,
+6,6,1,BCMC,4,592,2023,2,8,RM,80,W,DownslopeDistanceLRF,11.5,23.9,13.4,,,,,Con,,,
+6,6,1,BCMC,4,592,2023,2,8,RM,80,W,DownslopeDistanceLRF,10.8,15.1,15.1,,,,,Con,,,
+6,6,1,BCMC,4,592,2023,2,8,RM,80,W,DownslopeDistanceLRF,11.6,15.5,13.4,,,,,Con,11.6,,
+7,7,1,BCMC,5,689,2023,2,8,RM,80,N,LevelDistanceLRF,6.1,17.9,,,,,,Con,,,
+7,7,1,BCMC,5,689,2023,2,8,RM,80,N,LevelDistanceLRF,10.8,19.6,,,,,,Con,,,
+7,7,1,BCMC,5,689,2023,2,8,RM,80,N,LevelDistanceLRF,18.2,29.7,,,,,,Con,18.2,,
+7,7,1,BCMC,5,689,2023,2,8,RM,80,E,LevelDistanceLRF,6.1,26.8,,,,,,Con,,,
+7,7,1,BCMC,5,689,2023,2,8,RM,80,E,LevelDistanceLRF,6.9,22,,,,1,,Con,,,
+7,7,1,BCMC,5,689,2023,2,8,RM,80,E,DirectLRF,,,,,,,24,Con,12.6,,
+7,7,1,BCMC,5,689,2023,2,8,RM,80,S,DirectLRF,,,,,,,25.9,Con,,,
+7,7,1,BCMC,5,689,2023,2,8,RM,80,S,DownslopeDistanceLRF,8.9,23.7,10.4,,,,,Con,,,
+7,7,1,BCMC,5,689,2023,2,8,RM,80,S,DownslopeDistanceLRF,7.7,22.4,7.9,,,,,Con,7.7,,
+7,7,1,BCMC,5,689,2023,2,8,RM,80,W,DownslopeDistanceLRF,6.1,17.9,7.1,,,,,Con,,,
+7,7,1,BCMC,5,689,2023,2,8,RM,80,W,DownslopeDistanceLRF,16.2,28.2,17.7,,,,,Con,,,
+7,7,1,BCMC,5,689,2023,2,8,RM,80,W,DownslopeDistanceLRF,6.1,26.2,6.9,,,,,Con,12.4,,
+8,8,1,BCMC,6,808,2023,2,8,RM,80,N,DirectLRF,,,,,,,22.6,Con,,,
+8,8,1,BCMC,6,808,2023,2,8,RM,80,N,DirectLRF,,,,,,,24,Con,,,
+8,8,1,BCMC,6,808,2023,2,8,RM,80,N,DirectLRF,,,,,,,24.3,Con,6.1,,
+8,8,1,BCMC,6,808,2023,2,8,RM,80,E,DirectLRF,,,,,,,23,Con,,,
+8,8,1,BCMC,6,808,2023,2,8,RM,80,E,DirectLRF,,,,,,,22.7,Con,,,
+8,8,1,BCMC,6,808,2023,2,8,RM,80,E,DirectLRF,,,,,,,22.3,Con,8.7,,
+8,8,1,BCMC,6,808,2023,2,8,RM,80,S,DownslopeDistanceLRF,6.8,23.2,8,,,,,Con,,,
+8,8,1,BCMC,6,808,2023,2,8,RM,80,S,DownslopeDistanceLRF,8.9,28.5,10.2,,,,,Con,,,
+8,8,1,BCMC,6,808,2023,2,8,RM,80,S,DownslopeDistanceLRF,10.8,20.4,12.4,,,,,Con,10.8,,
+8,8,1,BCMC,6,808,2023,2,8,RM,80,W,DownslopeDistanceLRF,7.1,23.7,7.9,,,,,Con,,,
+8,8,1,BCMC,6,808,2023,2,8,RM,80,W,DownslopeDistanceLRF,11.5,25.5,12.1,,,,,Con,,,
+8,8,1,BCMC,6,808,2023,2,8,RM,80,W,DownslopeDistanceLRF,13.4,25.5,14.3,,,,,Con,13.4,,
+9,9,2,CDCY,1,170,2023,2,10,RB,60,N,LevelDistanceLRF,6.9,16.1,,,,,,Con,,,
+9,9,2,CDCY,1,170,2023,2,10,RB,60,N,LevelDistanceLRF,16.8,29.5,,,,,,Con,,,
+9,9,2,CDCY,1,170,2023,2,10,RB,60,N,LevelDistanceLRF,12.5,35,,,,,,Con,19.1,,
+9,9,2,CDCY,1,170,2023,2,10,RB,60,E,LevelDistanceLRF,7.9,28.2,,,,,,Con,,,
+9,9,2,CDCY,1,170,2023,2,10,RB,60,E,LevelDistanceLRF,8.1,15.7,,,,,,Con,,,
+9,9,2,CDCY,1,170,2023,2,10,RB,60,E,LevelDistanceLRF,17,46.3,,,,,,Con,25.1,,
+9,9,2,CDCY,1,170,2023,2,10,RB,60,S,LevelDistanceLRF,11.5,38.1,,,,,,Con,,,
+9,9,2,CDCY,1,170,2023,2,10,RB,60,S,LevelDistanceLRF,7.5,28.1,,,,,,Con,,,
+9,9,2,CDCY,1,170,2023,2,10,RB,60,S,LevelDistanceLRF,6.9,32.5,,,,,,Con,54.8,,
+9,9,2,CDCY,1,170,2023,2,10,RB,60,W,LevelDistanceLRF,8,32.4,,,,,,Con,,,
+9,9,2,CDCY,1,170,2023,2,10,RB,60,W,LevelDistanceLRF,6.1,25.3,,,,,,Decid,,,
+9,9,2,CDCY,1,170,2023,2,10,RB,60,W,LevelDistanceLRF,11.5,37.9,,,,,,Con,16.2,,
+10,10,2,CDCY,2,220,2023,2,10,RB,20,N,LevelDistanceLRF,13.4,22.8,,,,,,Decid,,,
+10,10,2,CDCY,2,220,2023,2,10,RB,20,N,LevelDistanceLRF,31.9,37.4,,,,,,Con,,,
+10,10,2,CDCY,2,220,2023,2,10,RB,20,N,LevelDistanceLRF,29.2,37.8,,,,,,Con,33.4,,
+10,10,2,CDCY,2,220,2023,2,10,RB,20,E,LevelDistanceLRF,11.6,23.7,,,,,,Con,,,
+10,10,2,CDCY,2,220,2023,2,10,RB,20,E,LevelDistanceLRF,29.6,34,,,,,,Con,,On a downslope,
+10,10,2,CDCY,2,220,2023,2,10,RB,20,E,DownslopeDistanceLRF,31.5,32.4,36,,,,,Con,31.5,,
+10,10,2,CDCY,2,220,2023,2,10,RB,20,S,LevelDistanceLRF,10.5,18.7,,,,,,Con,,,
+10,10,2,CDCY,2,220,2023,2,10,RB,20,S,LevelDistanceLRF,8.9,17.7,,,,,,Con,,,
+10,10,2,CDCY,2,220,2023,2,10,RB,20,S,LevelDistanceLRF,50.3,51.8,,,,,,Decid,50.3,,
+10,10,2,CDCY,2,220,2023,2,10,RB,20,W,LevelDistanceLRF,7.1,8.8,,,,,,Con,,Shrub/hedge,
+10,10,2,CDCY,2,220,2023,2,10,RB,20,W,LevelDistanceLRF,7.7,8.8,,,,,,Con,,Shrub/hedge,
+10,10,2,CDCY,2,220,2023,2,10,RB,20,W,LevelDistanceLRF,8.5,11.5,,,,,,Con,3.5,Shrub/hedge,
+11,11,2,CDCY,3,282,2023,2,10,RB,20,N,LevelDistanceLRF,1,2.5,,,,,,Con,,Hedge,
+11,11,2,CDCY,3,282,2023,2,10,RB,20,N,LevelDistanceLRF,2,1.5,,,,,,Con,,Hedge. FLAG: Hypotenuse < Horizontal,
+11,11,2,CDCY,3,282,2023,2,10,RB,20,N,DirectLRF,,,,,,,12.4,Con,10,,
+11,11,2,CDCY,3,282,2023,2,10,RB,20,E,LevelDistanceLRF,3,6.1,,,,,,Con,,Hedge,
+11,11,2,CDCY,3,282,2023,2,10,RB,20,E,DirectEstimate,,,,,,,3,Con,,Hedge,
+11,11,2,CDCY,3,282,2023,2,10,RB,20,E,DirectEstimate,,,,,,,2,Con,10.8,Hedge,
+11,11,2,CDCY,3,282,2023,2,10,RB,20,S,LevelDistanceLRF,5,18,,,,,,Con,,,
+11,11,2,CDCY,3,282,2023,2,10,RB,20,S,LevelDistanceLRF,12.5,24.1,,,,,,Con,,,
+11,11,2,CDCY,3,282,2023,2,10,RB,20,S,LevelDistanceLRF,10.7,20,,,,,,Con,20,,
+11,11,2,CDCY,3,282,2023,2,10,RB,20,W,DirectEstimate,,,,,,,4,Con,,Hedge,
+11,11,2,CDCY,3,282,2023,2,10,RB,20,W,DirectEstimate,,,,,,,3,Con,,Hedge,
+11,11,2,CDCY,3,282,2023,2,10,RB,20,W,DirectEstimate,,,,,,,4.5,Con,1,Hedge,
+12,12,2,CDCY,4,421,2023,2,10,RB,80,N,LevelDistanceLRF,13.4,23.5,,,,,,Decid,,,
+12,12,2,CDCY,4,421,2023,2,10,RB,80,N,LevelDistanceLRF,8.7,27.3,,,,,,Con,,,
+12,12,2,CDCY,4,421,2023,2,10,RB,80,N,LevelDistanceLRF,17.7,28.2,,,,,,Con,33.1,,
+12,12,2,CDCY,4,421,2023,2,10,RB,80,E,LevelDistanceLRF,6.1,31.5,,,,,,Con,,,
+12,12,2,CDCY,4,421,2023,2,10,RB,80,E,LevelDistanceLRF,14.8,27.4,,,,,,Con,,,
+12,12,2,CDCY,4,421,2023,2,10,RB,80,E,LevelDistanceLRF,21.5,34.6,,,,,,Con,19.6,,
+12,12,2,CDCY,4,421,2023,2,10,RB,80,S,LevelDistanceLRF,6.8,28.7,,,,,,Con,,,
+12,12,2,CDCY,4,421,2023,2,10,RB,80,S,LevelDistanceLRF,6.1,23.1,,,,,,Con,,,
+12,12,2,CDCY,4,421,2023,2,10,RB,80,S,LevelDistanceLRF,6.9,29.9,,,,,,Con,7.3,,
+12,12,2,CDCY,4,421,2023,2,10,RB,80,W,LevelDistanceLRF,10.2,23.8,,,,,,Hard,,,
+12,12,2,CDCY,4,421,2023,2,10,RB,80,W,LevelDistanceLRF,16.2,27.4,,,,,,Con,,,
+12,12,2,CDCY,4,421,2023,2,10,RB,80,W,LevelDistanceLRF,23.4,39.5,,,,,,Con,26.2,,
+13,13,2,CDCY,5,541,2023,2,10,RB,40,N,LevelDistanceLRF,6.1,8,,,,,,Con,,,Young conifers under powerlines
+13,13,2,CDCY,5,541,2023,2,10,RB,40,N,LevelDistanceLRF,7.1,8,,,,,,Con,,,Young conifers under powerlines
+13,13,2,CDCY,5,541,2023,2,10,RB,40,N,LevelDistanceLRF,6.8,10.5,,,,,,Con,10,,Young conifers under powerlines
+13,13,2,CDCY,5,541,2023,2,10,RB,40,E,LevelDistanceLRF,6.1,13.3,,,,,,Con,,,Young conifers under powerlines
+13,13,2,CDCY,5,541,2023,2,10,RB,40,E,LevelDistanceLRF,9,26.7,,,,,,Con,,,Young conifers under powerlines
+13,13,2,CDCY,5,541,2023,2,10,RB,40,E,LevelDistanceLRF,21.5,32.9,,,,,,Con,24.3,,Young conifers under powerlines
+13,13,2,CDCY,5,541,2023,2,10,RB,40,S,LevelDistanceLRF,10.2,19.4,,,,,,Con,,,Young conifers under powerlines
+13,13,2,CDCY,5,541,2023,2,10,RB,40,S,LevelDistanceLRF,13.4,28.2,,,,,,Con,,,Young conifers under powerlines
+13,13,2,CDCY,5,541,2023,2,10,RB,40,S,LevelDistanceLRF,12.9,30.9,,,,,,Con,17.9,,Young conifers under powerlines
+13,13,2,CDCY,5,541,2023,2,10,RB,40,W,LevelDistanceLRF,11.8,14.7,,,,,,Con,,,Young conifers under powerlines
+13,13,2,CDCY,5,541,2023,2,10,RB,40,W,LevelDistanceLRF,6.1,8,,,,,,Con,,,Young conifers under powerlines
+13,13,2,CDCY,5,541,2023,2,10,RB,40,W,LevelDistanceLRF,10.6,16.2,,,,,,Con,26,,Young conifers under powerlines
+14,14,2,CDCY,6,627,2023,2,10,RB,80,N,LevelDistanceLRF,6.8,23.2,,,,,,Con,,,
+14,14,2,CDCY,6,627,2023,2,10,RB,80,N,LevelDistanceLRF,6,19.2,,,,,,Con,,,
+14,14,2,CDCY,6,627,2023,2,10,RB,80,N,LevelDistanceLRF,6.1,16.9,,,,,,Con,13.9,,
+14,14,2,CDCY,6,627,2023,2,10,RB,80,E,LevelDistanceLRF,6.8,33.9,,,,,,Con,,,
+14,14,2,CDCY,6,627,2023,2,10,RB,80,E,LevelDistanceLRF,6.4,9.1,,,,,,Con,,,
+14,14,2,CDCY,6,627,2023,2,10,RB,80,E,LevelDistanceLRF,8.2,14.1,,,,,,Con,8.8,,
+14,14,2,CDCY,6,627,2023,2,10,RB,80,S,LevelDistanceLRF,6.1,25.3,,,,,,Con,,,
+14,14,2,CDCY,6,627,2023,2,10,RB,80,S,LevelDistanceLRF,5,24.3,,,,,,Con,,,
+14,14,2,CDCY,6,627,2023,2,10,RB,80,S,LevelDistanceLRF,6.1,30,,,,,,Con,9.9,,
+14,14,2,CDCY,6,627,2023,2,10,RB,80,W,LevelDistanceLRF,6.1,17.5,,,,,,Con,,,
+14,14,2,CDCY,6,627,2023,2,10,RB,80,W,LevelDistanceLRF,6.1,16.6,,,,,,Con,,,
+14,14,2,CDCY,6,627,2023,2,10,RB,80,W,LevelDistanceLRF,8.9,19.9,,,,,,Con,14.4,,
+15,15,2,CDCY,7,712,2023,2,10,RB,60,N,LevelDistanceLRF,5.5,24,,,,,,Con,,,
+15,15,2,CDCY,7,712,2023,2,10,RB,60,N,LevelDistanceLRF,6.1,20.3,,,,,,Con,,,
+15,15,2,CDCY,7,712,2023,2,10,RB,60,N,LevelDistanceLRF,6.1,25.4,,,,,,Con,10,,
+15,15,2,CDCY,7,712,2023,2,10,RB,60,E,LevelDistanceLRF,6.3,12.7,,,,,,Con,,,
+15,15,2,CDCY,7,712,2023,2,10,RB,60,E,LevelDistanceLRF,6.5,14.8,,,,,,Con,,,
+15,15,2,CDCY,7,712,2023,2,10,RB,60,E,LevelDistanceLRF,7.2,18.6,,,,,,Con,10.8,,
+15,15,2,CDCY,7,712,2023,2,10,RB,60,S,DownslopeDistanceLRF,6.9,25.2,7.9,,,,,Con,,,
+15,15,2,CDCY,7,712,2023,2,10,RB,60,S,DownslopeDistanceLRF,7.1,25.6,8,,,,,Con,,,
+15,15,2,CDCY,7,712,2023,2,10,RB,60,S,DownslopeDistanceLRF,7.9,19,8.9,,,,,Con,10.5,,
+15,15,2,CDCY,7,712,2023,2,10,RB,60,W,LevelDistanceLRF,6.6,13.3,,,,,,Con,,,
+15,15,2,CDCY,7,712,2023,2,10,RB,60,W,LevelDistanceLRF,6.1,20.7,,,,,,Con,,,
+15,15,2,CDCY,7,712,2023,2,10,RB,60,W,LevelDistanceLRF,13.2,15.7,,,,,,Con,16.2,,
+16,16,2,CDCY,8,821,2023,2,10,RB,60,N,LevelDistanceLRF,6.4,18.3,,,,,,Con,,,
+16,16,2,CDCY,8,821,2023,2,10,RB,60,N,LevelDistanceLRF,17.9,27.9,,,,,,Con,,,
+16,16,2,CDCY,8,821,2023,2,10,RB,60,N,LevelDistanceLRF,28.8,31.1,,,,,,Con,28.8,,
+16,16,2,CDCY,8,821,2023,2,10,RB,60,E,LevelDistanceLRF,11.5,29.9,,,,,,Con,,,
+16,16,2,CDCY,8,821,2023,2,10,RB,60,E,LevelDistanceLRF,13.3,29,,,,,,Con,,,
+16,16,2,CDCY,8,821,2023,2,10,RB,60,E,LevelDistanceLRF,15.5,21.5,,,,,,Con,15.5,,
+16,16,2,CDCY,8,821,2023,2,10,RB,60,S,LevelDistanceLRF,3,8.3,,,,,,Con,,,
+16,16,2,CDCY,8,821,2023,2,10,RB,60,S,LevelDistanceLRF,2.9,12.3,,,,,,Con,,,
+16,16,2,CDCY,8,821,2023,2,10,RB,60,S,LevelDistanceLRF,6.2,15,,,,,,Con,6.2,,
+16,16,2,CDCY,8,821,2023,2,10,RB,60,W,LevelDistanceLRF,4,15.1,,,,,,Con,,,
+16,16,2,CDCY,8,821,2023,2,10,RB,60,W,LevelDistanceLRF,6.1,16.8,,,,,,Con,,,
+16,16,2,CDCY,8,821,2023,2,10,RB,60,W,LevelDistanceLRF,6.6,13,,,,,,Con,9.7,,
+17,17,3,HALU,1,160,2023,2,11,RB,60,N,LevelDistanceLRF,8,44.6,,,,,,Con,,,Vine maple in understory (<5 m tall)
+17,17,3,HALU,1,160,2023,2,11,RB,60,N,LevelDistanceLRF,12.8,52.8,,,,,,Con,,,Vine maple in understory (<5 m tall)
+17,17,3,HALU,1,160,2023,2,11,RB,60,N,LevelDistanceLRF,13.4,31.5,,,,,,Con,21.6,,Vine maple in understory (<5 m tall)
+17,17,3,HALU,1,160,2023,2,11,RB,60,E,LevelDistanceLRF,6.1,44.5,,,,,,Con,,,Vine maple in understory (<5 m tall)
+17,17,3,HALU,1,160,2023,2,11,RB,60,E,LevelDistanceLRF,15.1,47.7,,,,,,Con,,,Vine maple in understory (<5 m tall)
+17,17,3,HALU,1,160,2023,2,11,RB,60,E,LevelDistanceLRF,16.8,51.9,,,,,,Con,25.5,,Vine maple in understory (<5 m tall)
+17,17,3,HALU,1,160,2023,2,11,RB,60,S,LevelDistanceLRF,10.8,24.6,,,,,,Con,,,Vine maple in understory (<5 m tall)
+17,17,3,HALU,1,160,2023,2,11,RB,60,S,LevelDistanceLRF,18,31.6,,,,,,Con,,Might be dead,Vine maple in understory (<5 m tall)
+17,17,3,HALU,1,160,2023,2,11,RB,60,S,LevelDistanceLRF,18.8,45.5,,,,,,Con,,,Vine maple in understory (<5 m tall)
+17,17,3,HALU,1,160,2023,2,11,RB,60,S,LevelDistanceLRF,22.9,49,,,,,,Con,17.7,,Vine maple in understory (<5 m tall)
+17,17,3,HALU,1,160,2023,2,11,RB,60,W,LevelDistanceLRF,8.8,13.4,,,,,,Con,,,Vine maple in understory (<5 m tall)
+17,17,3,HALU,1,160,2023,2,11,RB,60,W,LevelDistanceLRF,13.4,40.7,,,,,,Con,,,Vine maple in understory (<5 m tall)
+17,17,3,HALU,1,160,2023,2,11,RB,60,W,LevelDistanceLRF,13.2,47.7,,,,,,Con,15,,Vine maple in understory (<5 m tall)
+18,18,3,HALU,2,183,2023,2,11,RB,20,N,LevelDistanceLRF,6.6,8.2,,,,,,Decid,,,Powerline corridor
+18,18,3,HALU,2,183,2023,2,11,RB,20,N,LevelDistanceLRF,8.3,9.5,,,,,,Decid,,,Powerline corridor
+18,18,3,HALU,2,183,2023,2,11,RB,20,N,LevelDistanceLRF,7,8.3,,,,,,Decid,10,,Powerline corridor
+18,18,3,HALU,2,183,2023,2,11,RB,20,E,LevelDistanceLRF,8,9.1,,,,,,Decid,,,Powerline corridor
+18,18,3,HALU,2,183,2023,2,11,RB,20,E,LevelDistanceLRF,8,9.2,,,,,,Decid,,,Powerline corridor
+18,18,3,HALU,2,183,2023,2,11,RB,20,E,LevelDistanceLRF,8,8.8,,,,,,Con,6.1,,Powerline corridor
+18,18,3,HALU,2,183,2023,2,11,RB,20,S,LevelDistanceLRF,6.5,7.7,,,,,,Con,,,Powerline corridor
+18,18,3,HALU,2,183,2023,2,11,RB,20,S,LevelDistanceLRF,11.5,12.8,,,,,,Decid,,,Powerline corridor
+18,18,3,HALU,2,183,2023,2,11,RB,20,S,LevelDistanceLRF,12.5,13.6,,,,,,Decid,9.6,,Powerline corridor
+18,18,3,HALU,2,183,2023,2,11,RB,20,W,DownslopeDistanceLRF,6.6,6.9,7.6,,,,,Decid,,,Powerline corridor
+18,18,3,HALU,2,183,2023,2,11,RB,20,W,DownslopeDistanceLRF,6.8,8,7.7,,,,,Decid,,,Powerline corridor
+18,18,3,HALU,2,183,2023,2,11,RB,20,W,DownslopeDistanceLRF,7.4,8.5,8.1,,,,,Decid,10.5,,Powerline corridor
+19,19,3,HALU,3,299,2023,2,11,RB,80,N,LevelDistanceLRF,7.7,30.2,,,,,,Con,,,
+19,19,3,HALU,3,299,2023,2,11,RB,80,N,LevelDistanceLRF,8.9,31.3,,,,,,Con,,,
+19,19,3,HALU,3,299,2023,2,11,RB,80,N,LevelDistanceLRF,12.3,36.3,,,,,,Con,17.4,,
+19,19,3,HALU,3,299,2023,2,11,RB,80,E,LevelDistanceLRF,6.1,29.1,,,,,,Con,,,
+19,19,3,HALU,3,299,2023,2,11,RB,80,E,LevelDistanceLRF,6.1,29.9,,,,,,Con,,,
+19,19,3,HALU,3,299,2023,2,11,RB,80,E,LevelDistanceLRF,6.7,15.6,,,,,,Con,6.9,,
+19,19,3,HALU,3,299,2023,2,11,RB,80,S,LevelDistanceLRF,8.9,11.9,,,,,,Con,,,
+19,19,3,HALU,3,299,2023,2,11,RB,80,S,LevelDistanceLRF,8.9,14.3,,,,,,Con,,,
+19,19,3,HALU,3,299,2023,2,11,RB,80,S,LevelDistanceLRF,6.9,18.2,,,,,,Con,13.7,,
+19,19,3,HALU,3,299,2023,2,11,RB,80,W,LevelDistanceLRF,6,34.8,,,,,,Con,,,
+19,19,3,HALU,3,299,2023,2,11,RB,80,W,LevelDistanceLRF,10.5,32.1,,,,,,Con,,,
+19,19,3,HALU,3,299,2023,2,11,RB,80,W,LevelDistanceLRF,22.4,33.9,,,,,,Con,20.2,,
+20,20,3,HALU,4,419,2023,2,11,RB,80,,,,,,,,,,,,,"Laser Rangefinder not working due to fog. Similar canopy height to HALU-3. Tall trees, about the same, fewer short trees @ this site."
+21,21,4,SUMO,7,753,2023,2,12,RB,60,NE,LevelDistanceLRF,6.6,12.7,,,,,,Con,,,"Dense, shorter trees"
+21,21,4,SUMO,7,753,2023,2,12,RB,60,NE,LevelDistanceLRF,6.1,7.1,,,,,,Con,,,"Dense, shorter trees"
+21,21,4,SUMO,7,753,2023,2,12,RB,60,NE,LevelDistanceLRF,6.7,11.4,,,,,,Con,8.3,,"Dense, shorter trees"
+21,21,4,SUMO,7,753,2023,2,12,RB,60,SE,LevelDistanceLRF,6.1,9.6,,,,,,Con,,,"Dense, shorter trees"
+21,21,4,SUMO,7,753,2023,2,12,RB,60,SE,LevelDistanceLRF,7.8,14.7,,,,,,Con,,,"Dense, shorter trees"
+21,21,4,SUMO,7,753,2023,2,12,RB,60,SE,LevelDistanceLRF,6.1,9.9,,,,,,Con,8.6,,"Dense, shorter trees"
+21,21,4,SUMO,7,753,2023,2,12,RB,60,SW,LevelDistanceLRF,6,8.8,,,,,,Con,,,"Dense, shorter trees"
+21,21,4,SUMO,7,753,2023,2,12,RB,60,SW,LevelDistanceLRF,6,14,,,,,,Con,,,"Dense, shorter trees"
+21,21,4,SUMO,7,753,2023,2,12,RB,60,SW,LevelDistanceEstimate,4,8,,,,,,Decid,7.2,,"Dense, shorter trees"
+21,21,4,SUMO,7,753,2023,2,12,RB,60,NW,LevelDistanceEstimate,5.5,8,,,,,,Con,,,"Dense, shorter trees"
+21,21,4,SUMO,7,753,2023,2,12,RB,60,NW,LevelDistanceEstimate,5.5,6.7,,,,,,Con,,,"Dense, shorter trees"
+21,21,4,SUMO,7,753,2023,2,12,RB,60,NW,LevelDistanceEstimate,5.5,9.6,,,,,,Decid,4,,"Dense, shorter trees"
+22,22,4,SUMO,8,763,2023,2,12,RB,80,N,LevelDistanceLRF,8,16.2,,,,,,Con,,,
+22,22,4,SUMO,8,763,2023,2,12,RB,80,N,DownslopeDistanceLRF,8,29.2,9.6,,,,,Con,,,
+22,22,4,SUMO,8,763,2023,2,12,RB,80,N,DownslopeDistanceLRF,12.4,34.8,13.2,,,,,Con,12.4,,
+22,22,4,SUMO,8,763,2023,2,12,RB,80,E,LevelDistanceLRF,6.1,27.2,,,,,,Con,,,
+22,22,4,SUMO,8,763,2023,2,12,RB,80,E,LevelDistanceLRF,6.7,26.4,,,,,,Con,,,
+22,22,4,SUMO,8,763,2023,2,12,RB,80,E,LevelDistanceLRF,10.8,25.2,,,,,,Con,11.9,,
+22,22,4,SUMO,8,763,2023,2,12,RB,80,S,LevelDistanceEstimate,5.5,28.2,,,,,,Con,,,
+22,22,4,SUMO,8,763,2023,2,12,RB,80,S,LevelDistanceLRF,7.1,24.2,,,,,,Con,,,
+22,22,4,SUMO,8,763,2023,2,12,RB,80,S,DownslopeDistanceLRF,17,33.7,18.8,,,,,Con,24.5,,
+22,22,4,SUMO,8,763,2023,2,12,RB,80,W,DownslopeDistanceLRF,11.5,22.1,12.9,,,,,Con,,,
+22,22,4,SUMO,8,763,2023,2,12,RB,80,W,DownslopeDistanceLRF,17.4,25,18.7,,,,,Con,,,
+22,22,4,SUMO,8,763,2023,2,12,RB,80,W,DownslopeDistanceLRF,19.6,34.5,20.2,,,,,Con,21.5,,
+23,23,4,SUMO,6,648,2023,2,12,RB,20,N,LevelAngleSmartphoneDistanceEstimate,6,,,,55,,,Decid,,,"Foggy, so using horizontal distance and phone angle. Distance mainly visual estimates."
+23,23,4,SUMO,6,648,2023,2,12,RB,20,N,LevelAngleSmartphoneDistanceEstimate,5,,,,33,,,Con,,,"Foggy, so using horizontal distance and phone angle. Distance mainly visual estimates."
+23,23,4,SUMO,6,648,2023,2,12,RB,20,N,LevelAngleSmartphoneDistanceLRF,7.1,,,,56,,,Decid,14,,"Foggy, so using horizontal distance and phone angle. Distance mainly visual estimates."
+23,23,4,SUMO,6,648,2023,2,12,RB,20,E,LevelAngleSmartphoneDistanceEstimate,2,,,,69,,,Decid,,,"Foggy, so using horizontal distance and phone angle. Distance mainly visual estimates."
+23,23,4,SUMO,6,648,2023,2,12,RB,20,E,LevelAngleSmartphoneDistanceEstimate,14,,,,65,,,Con,,,"Foggy, so using horizontal distance and phone angle. Distance mainly visual estimates."
+23,23,4,SUMO,6,648,2023,2,12,RB,20,E,LevelAngleSmartphoneDistanceEstimate,5,,,,55,,,Decid,15,,"Foggy, so using horizontal distance and phone angle. Distance mainly visual estimates."
+23,23,4,SUMO,6,648,2023,2,12,RB,20,S,LevelAngleSmartphoneDistanceEstimate,2,,,,67,,,Decid,,,"Foggy, so using horizontal distance and phone angle. Distance mainly visual estimates."
+23,23,4,SUMO,6,648,2023,2,12,RB,20,S,LevelAngleSmartphoneDistanceEstimate,3,,,,56,,,Decid,,,"Foggy, so using horizontal distance and phone angle. Distance mainly visual estimates."
+23,23,4,SUMO,6,648,2023,2,12,RB,20,S,LevelAngleSmartphoneDistanceEstimate,3.5,,,,41,,,Decid,3.5,,"Foggy, so using horizontal distance and phone angle. Distance mainly visual estimates."
+23,23,4,SUMO,6,648,2023,2,12,RB,20,W,LevelAngleSmartphoneDistanceEstimate,6,,,,45,,,Decid,,,"Foggy, so using horizontal distance and phone angle. Distance mainly visual estimates."
+23,23,4,SUMO,6,648,2023,2,12,RB,20,W,LevelAngleSmartphoneDistanceEstimate,7,,,,33,,,Decid,,,"Foggy, so using horizontal distance and phone angle. Distance mainly visual estimates."
+23,23,4,SUMO,6,648,2023,2,12,RB,20,W,LevelAngleSmartphoneDistanceEstimate,15,,,,61,,,Con,20,,"Foggy, so using horizontal distance and phone angle. Distance mainly visual estimates."
+24,24,4,SUMO,5,550,2023,2,12,RB,20,N,LevelAngleSmartphoneDistanceEstimate,3,,,,53,,,Decid,,,Most hardwood trees are alder (same as SUMO-6)
+24,24,4,SUMO,5,550,2023,2,12,RB,20,N,LevelAngleSmartphoneDistanceEstimate,3,,,,40,,,Con,,,Most hardwood trees are alder (same as SUMO-6)
+24,24,4,SUMO,5,550,2023,2,12,RB,20,N,LevelAngleSmartphoneDistanceEstimate,4,,,,30,,,Con,5,,Most hardwood trees are alder (same as SUMO-6)
+24,24,4,SUMO,5,550,2023,2,12,RB,20,E,LevelAngleSmartphoneDistanceEstimate,4,,,,43,,,Decid,,,Most hardwood trees are alder (same as SUMO-6)
+24,24,4,SUMO,5,550,2023,2,12,RB,20,E,LevelAngleSmartphoneDistanceEstimate,4.5,,,,45,,,Con,,,Most hardwood trees are alder (same as SUMO-6)
+24,24,4,SUMO,5,550,2023,2,12,RB,20,E,LevelAngleSmartphoneDistanceEstimate,4.5,,,,47,,,Con,5.5,,Most hardwood trees are alder (same as SUMO-6)
+24,24,4,SUMO,5,550,2023,2,12,RB,20,S,LevelAngleSmartphoneDistanceEstimate,3.5,,,,52,,,Decid,,,Most hardwood trees are alder (same as SUMO-6)
+24,24,4,SUMO,5,550,2023,2,12,RB,20,S,LevelAngleSmartphoneDistanceEstimate,4,,,,52,,,Decid,,,Most hardwood trees are alder (same as SUMO-6)
+24,24,4,SUMO,5,550,2023,2,12,RB,20,S,LevelAngleSmartphoneDistanceEstimate,4,,,,50,,,Decid,3.5,,Most hardwood trees are alder (same as SUMO-6)
+24,24,4,SUMO,5,550,2023,2,12,RB,20,W,LevelAngleSmartphoneDistanceEstimate,3.5,,,,34,,,Con,,,Most hardwood trees are alder (same as SUMO-6)
+24,24,4,SUMO,5,550,2023,2,12,RB,20,W,LevelAngleSmartphoneDistanceEstimate,6,,,,67,,,Con,,,Most hardwood trees are alder (same as SUMO-6)
+24,24,4,SUMO,5,550,2023,2,12,RB,20,W,LevelAngleSmartphoneDistanceEstimate,6.5,,,,42,,,Decid,5.5,,Most hardwood trees are alder (same as SUMO-6)
+25,25,4,SUMO,1,159,2023,2,12,RB,40,N,LevelDistanceLRF,7,24.8,,,,,,Decid,,,Most hardwoods are maple
+25,25,4,SUMO,1,159,2023,2,12,RB,40,N,LevelDistanceLRF,9.5,21.2,,,,,,Decid,,,Most hardwoods are maple
+25,25,4,SUMO,1,159,2023,2,12,RB,40,N,LevelDistanceLRF,16.2,20.1,,,,,,Con,13.4,,Most hardwoods are maple
+25,25,4,SUMO,1,159,2023,2,12,RB,40,E,LevelDistanceLRF,10.8,16.2,,,,,,Decid,,,Most hardwoods are maple
+25,25,4,SUMO,1,159,2023,2,12,RB,40,E,LevelDistanceLRF,25.3,35.6,,,,,,Decid,,,Most hardwoods are maple
+25,25,4,SUMO,1,159,2023,2,12,RB,40,E,LevelDistanceLRF,27.3,34.3,,,,,,Decid,37.9,,Most hardwoods are maple
+25,25,4,SUMO,1,159,2023,2,12,RB,40,S,LevelDistanceLRF,9.2,19.2,,,,,,Con,,,Most hardwoods are maple
+25,25,4,SUMO,1,159,2023,2,12,RB,40,S,LevelDistanceLRF,20.9,43.2,,,,,,Decid,,,Most hardwoods are maple
+25,25,4,SUMO,1,159,2023,2,12,RB,40,S,LevelDistanceLRF,42.8,50,,,,,,Decid,42.8,,Most hardwoods are maple
+25,25,4,SUMO,1,159,2023,2,12,RB,40,W,LevelDistanceLRF,8.8,30.1,,,,,,Con,,,Most hardwoods are maple
+25,25,4,SUMO,1,159,2023,2,12,RB,40,W,LevelDistanceLRF,12.9,24.5,,,,,,Decid,,,Most hardwoods are maple
+25,25,4,SUMO,1,159,2023,2,12,RB,40,W,LevelDistanceLRF,15.7,23.5,,,,,,Con,23.3,,Most hardwoods are maple
+26,26,4,SUMO,2,284,2023,2,12,RB,60,N,LevelDistanceLRF,8,21.6,,,,,,Decid,,,
+26,26,4,SUMO,2,284,2023,2,12,RB,60,N,LevelDistanceLRF,7.1,11.7,,,,,,Con,,,
+26,26,4,SUMO,2,284,2023,2,12,RB,60,N,LevelDistanceLRF,22.7,47.4,,,,,,Con,30.6,,
+26,26,4,SUMO,2,284,2023,2,12,RB,60,E,LevelDistanceLRF,8.4,26.2,,,,,,Decid,,,
+26,26,4,SUMO,2,284,2023,2,12,RB,60,E,LevelDistanceLRF,8.5,19.2,,,,,,Con,,,
+26,26,4,SUMO,2,284,2023,2,12,RB,60,E,LevelDistanceLRF,17,32.5,,,,,,Decid,19.9,,
+26,26,4,SUMO,2,284,2023,2,12,RB,60,S,LevelDistanceLRF,16.2,31.7,,,,,,Decid,,,
+26,26,4,SUMO,2,284,2023,2,12,RB,60,S,LevelDistanceLRF,21.9,22.8,,,,,,Con,,,
+26,26,4,SUMO,2,284,2023,2,12,RB,60,S,LevelDistanceLRF,16.4,17.4,,,,,,Decid,19.8,,
+26,26,4,SUMO,2,284,2023,2,12,RB,60,W,LevelDistanceLRF,8.7,23,,,,,,Decid,,,
+26,26,4,SUMO,2,284,2023,2,12,RB,60,W,LevelDistanceLRF,13.4,20.8,,,,,,Decid,,,
+26,26,4,SUMO,2,284,2023,2,12,RB,60,W,DownslopeDistanceLRF,17.9,20.3,22.3,,,,,Con,25.5,,
+27,27,4,SUMO,3,350,2023,2,12,RB,40,N,LevelAngleSmartphoneDistanceEstimate,7,,,,66,,,Decid,,,"Near (~25m) cut area. Foggy, used phone for angle."
+27,27,4,SUMO,3,350,2023,2,12,RB,40,N,LevelAngleSmartphoneDistanceEstimate,7.5,,,,52,,,Con,,,"Near (~25m) cut area. Foggy, used phone for angle."
+27,27,4,SUMO,3,350,2023,2,12,RB,40,N,LevelAngleSmartphoneDistanceEstimate,8.5,,,,59,,,Con,10,,"Near (~25m) cut area. Foggy, used phone for angle."
+27,27,4,SUMO,3,350,2023,2,12,RB,40,E,LevelAngleSmartphoneDistanceEstimate,7.5,,,,54,,,Decid,,,"Near (~25m) cut area. Foggy, used phone for angle."
+27,27,4,SUMO,3,350,2023,2,12,RB,40,E,UpslopeAngleSmartphoneDistanceEstimate,12,,,19,57,,,Decid,,~ 1m higher,"Near (~25m) cut area. Foggy, used phone for angle."
+27,27,4,SUMO,3,350,2023,2,12,RB,40,E,UpslopeAngleSmartphoneDistanceEstimate,30,,,20,42,,,Con,32,~ 5m higher,"Near (~25m) cut area. Foggy, used phone for angle."
+27,27,4,SUMO,3,350,2023,2,12,RB,40,S,LevelAngleSmartphoneDistanceEstimate,5.5,,,,75,,,Con,,,"Near (~25m) cut area. Foggy, used phone for angle."
+27,27,4,SUMO,3,350,2023,2,12,RB,40,S,LevelAngleSmartphoneDistanceEstimate,5.5,,,,50,,,Decid,,,"Near (~25m) cut area. Foggy, used phone for angle."
+27,27,4,SUMO,3,350,2023,2,12,RB,40,S,UpslopeAngleSmartphoneDistanceEstimate,21,,,15,30,,,Con,23,~ 10m higher,"Near (~25m) cut area. Foggy, used phone for angle."
+27,27,4,SUMO,3,350,2023,2,12,RB,40,W,DownslopeAngleSmartphoneDistanceEstimate,25,,,20,19,,,Con,,,"Near (~25m) cut area. Foggy, used phone for angle."
+27,27,4,SUMO,3,350,2023,2,12,RB,40,W,UpslopeAngleSmartphoneDistanceEstimate,25,,,20,22,,,Decid,,,"Near (~25m) cut area. Foggy, used phone for angle."
+27,27,4,SUMO,3,350,2023,2,12,RB,40,W,DownslopeAngleSmartphoneDistanceEstimate,27,,,20,12,,,Con,27,,"Near (~25m) cut area. Foggy, used phone for angle."
+28,28,4,SUMO,4,441,2023,2,12,RB,20,N,LevelAngleSmartphoneDistanceEstimate,6,,,,36,,,Decid,,,"Like previous cut area (SUMO-5). Hardwood, mainly (all?) alder."
+28,28,4,SUMO,4,441,2023,2,12,RB,20,N,LevelAngleSmartphoneDistanceEstimate,9,,,,48,,,Con,,,"Like previous cut area (SUMO-5). Hardwood, mainly (all?) alder."
+28,28,4,SUMO,4,441,2023,2,12,RB,20,N,LevelAngleSmartphoneDistanceEstimate,11,,,,31,,,Con,12,,"Like previous cut area (SUMO-5). Hardwood, mainly (all?) alder."
+28,28,4,SUMO,4,441,2023,2,12,RB,20,E,LevelAngleSmartphoneDistanceEstimate,9,,,,46,,,Con,,,"Like previous cut area (SUMO-5). Hardwood, mainly (all?) alder."
+28,28,4,SUMO,4,441,2023,2,12,RB,20,E,LevelAngleSmartphoneDistanceEstimate,9,,,,27,,,Con,,,"Like previous cut area (SUMO-5). Hardwood, mainly (all?) alder."
+28,28,4,SUMO,4,441,2023,2,12,RB,20,E,LevelAngleSmartphoneDistanceEstimate,10,,,,37,,,Decid,13,,"Like previous cut area (SUMO-5). Hardwood, mainly (all?) alder."
+28,28,4,SUMO,4,441,2023,2,12,RB,20,S,LevelAngleSmartphoneDistanceEstimate,4.5,,,,35,,,Decid,,,"Like previous cut area (SUMO-5). Hardwood, mainly (all?) alder."
+28,28,4,SUMO,4,441,2023,2,12,RB,20,S,LevelAngleSmartphoneDistanceEstimate,5,,,,51,,,Decid,,,"Like previous cut area (SUMO-5). Hardwood, mainly (all?) alder."
+28,28,4,SUMO,4,441,2023,2,12,RB,20,S,LevelAngleSmartphoneDistanceEstimate,4.5,,,,27,,,Con,5.5,,"Like previous cut area (SUMO-5). Hardwood, mainly (all?) alder."
+28,28,4,SUMO,4,441,2023,2,12,RB,20,W,LevelAngleSmartphoneDistanceEstimate,5.5,,,,55,,,Con,,,"Like previous cut area (SUMO-5). Hardwood, mainly (all?) alder."
+28,28,4,SUMO,4,441,2023,2,12,RB,20,W,LevelAngleSmartphoneDistanceEstimate,7,,,,30,,,Decid,,,"Like previous cut area (SUMO-5). Hardwood, mainly (all?) alder."
+28,28,4,SUMO,4,441,2023,2,12,RB,20,W,LevelAngleSmartphoneDistanceEstimate,7.5,,,,30,,,Decid,7.5,,"Like previous cut area (SUMO-5). Hardwood, mainly (all?) alder."
+29,29,5,CABO,1,61,2023,2,17,RM,40,N,DownslopeDistanceLRF,21,21.5,21.2,,,,,Con,,,"Edge of forest to the South, Camosun Bog to the North."
+29,29,5,CABO,1,61,2023,2,17,RM,40,N,LevelDistanceLRF,12.9,13.4,,,,1,,Con,,,"Edge of forest to the South, Camosun Bog to the North."
+29,29,5,CABO,1,61,2023,2,17,RM,40,N,LevelDistanceLRF,70.7,72,,,,,,Con,70.7,,"Edge of forest to the South, Camosun Bog to the North."
+29,29,5,CABO,1,61,2023,2,17,RM,40,E,LevelDistanceLRF,6.7,21.7,,,,3,,Con,,,"Edge of forest to the South, Camosun Bog to the North."
+29,29,5,CABO,1,61,2023,2,17,RM,40,E,DirectLRF,,,,,,3,19.5,,,,"Edge of forest to the South, Camosun Bog to the North."
+29,29,5,CABO,1,61,2023,2,17,RM,40,E,DirectLRF,,,,,,3,24.6,Con,8.2,,"Edge of forest to the South, Camosun Bog to the North."
+29,29,5,CABO,1,61,2023,2,17,RM,40,S,DirectLRF,,,,,,3,22.7,Con,,,"Edge of forest to the South, Camosun Bog to the North."
+29,29,5,CABO,1,61,2023,2,17,RM,40,S,LevelDistanceEstimate,2,23.9,,,,3,,Con,,,"Edge of forest to the South, Camosun Bog to the North."
+29,29,5,CABO,1,61,2023,2,17,RM,40,S,LevelDistanceLRF,2,24.6,,,,,,Con,6.1,,"Edge of forest to the South, Camosun Bog to the North."
+29,29,5,CABO,1,61,2023,2,17,RM,40,W,DirectLRF,,,,,,3,23.1,Con,,,"Edge of forest to the South, Camosun Bog to the North."
+29,29,5,CABO,1,61,2023,2,17,RM,40,W,LevelDistanceLRF,44,51.1,,,,3,,Con,,,"Edge of forest to the South, Camosun Bog to the North."
+29,29,5,CABO,1,61,2023,2,17,RM,40,W,LevelDistanceLRF,11.7,33.5,,,,3,,Con,17.1,,"Edge of forest to the South, Camosun Bog to the North."
+30,30,5,CABO,2,68,2023,2,17,RM,40,N,DirectLRF,,,,,,2,24.6,Decid,,,
+30,30,5,CABO,2,68,2023,2,17,RM,40,N,LevelDistanceLRF,6.1,22.1,,,,2,,Decid,,,
+30,30,5,CABO,2,68,2023,2,17,RM,40,N,DirectLRF,,,,,,2,21.2,Decid,17.7,,
+30,30,5,CABO,2,68,2023,2,17,RM,40,E,DirectLRF,,,,,,2,8.4,Decid,,,
+30,30,5,CABO,2,68,2023,2,17,RM,40,E,DirectLRF,,,,,,2,21.7,,,,
+30,30,5,CABO,2,68,2023,2,17,RM,40,E,DirectLRF,,,,,,2,12.9,Decid,6,,
+30,30,5,CABO,2,68,2023,2,17,RM,40,S,LevelDistanceLRF,7.7,21.9,,,,2,,Decid,,,
+30,30,5,CABO,2,68,2023,2,17,RM,40,S,DirectLRF,,,,,,2,33.4,Decid,,,
+30,30,5,CABO,2,68,2023,2,17,RM,40,S,LevelDistanceLRF,6.1,35.5,,,,2,,Decid,12.4,,
+30,30,5,CABO,2,68,2023,2,17,RM,40,W,DirectLRF,,,,,,2,20,Decid,,,
+30,30,5,CABO,2,68,2023,2,17,RM,40,W,LevelDistanceLRF,6.1,21.6,,,,2,,Decid,,,
+30,30,5,CABO,2,68,2023,2,17,RM,40,W,LevelDistanceLRF,11.3,36.3,,,,2,,Decid,11.5,,
+31,31,5,CABO,3,65,2023,2,17,RM,60,N,LevelDistanceLRF,16.2,34.6,,,,2,,Con,,,
+31,31,5,CABO,3,65,2023,2,17,RM,60,N,LevelDistanceLRF,13.4,29,,,,2,,Decid,,,
+31,31,5,CABO,3,65,2023,2,17,RM,60,N,LevelDistanceLRF,9.1,29.4,,,,2,,Con,23.1,,
+31,31,5,CABO,3,65,2023,2,17,RM,60,E,LevelDistanceLRF,11.6,20.3,,,,1,,Con,,,
+31,31,5,CABO,3,65,2023,2,17,RM,60,E,LevelDistanceLRF,7.1,18,,,,1,,Decid,,,
+31,31,5,CABO,3,65,2023,2,17,RM,60,E,LevelDistanceLRF,16.2,27.2,,,,2,,Decid,17,,
+31,31,5,CABO,3,65,2023,2,17,RM,60,S,LevelDistanceLRF,11.5,29.7,,,,2,,Con,,,
+31,31,5,CABO,3,65,2023,2,17,RM,60,S,LevelDistanceLRF,8.9,23.4,,,,2,,Decid,,,
+31,31,5,CABO,3,65,2023,2,17,RM,60,S,DirectLRF,,,,,,2.5,23.7,Decid,20.4,,
+31,31,5,CABO,3,65,2023,2,17,RM,60,W,LevelDistanceLRF,10.8,31.1,,,,2,,Con,,,
+31,31,5,CABO,3,65,2023,2,17,RM,60,W,LevelDistanceLRF,22.2,34.3,,,,2.5,,Decid,,,
+31,31,5,CABO,3,65,2023,2,17,RM,60,W,LevelDistanceLRF,17.2,29.7,,,,2.5,,Decid,23.4,,
+32,32,5,PASP,1,98,2023,2,17,RM,60,N,LevelDistanceLRF,10.8,15.2,,,,2,,Con,,,Fairly developed understory
+32,32,5,PASP,1,98,2023,2,17,RM,60,N,LevelDistanceLRF,10.4,33.9,,,,2,,Con,,,Fairly developed understory
+32,32,5,PASP,1,98,2023,2,17,RM,60,N,LevelDistanceLRF,22.6,38.6,,,,2,,Con,15.9,Distance to tree calculated estimated with pythagoreous theorem. See datasheet for diagram.,Fairly developed understory
+32,32,5,PASP,1,98,2023,2,17,RM,60,E,LevelDistanceLRF,13.5,45.9,,,,2,,Con,,,Fairly developed understory
+32,32,5,PASP,1,98,2023,2,17,RM,60,E,LevelDistanceLRF,15.3,36.9,,,,2,,Con,,,Fairly developed understory
+32,32,5,PASP,1,98,2023,2,17,RM,60,E,LevelDistanceLRF,14.2,44.7,,,,2,,Con,14.2,,Fairly developed understory
+32,32,5,PASP,1,98,2023,2,17,RM,60,S,LevelDistanceLRF,13.8,44.8,,,,2,,Con,,,Fairly developed understory
+32,32,5,PASP,1,98,2023,2,17,RM,60,S,LevelDistanceLRF,16.2,48.1,,,,2,,Con,,,Fairly developed understory
+32,32,5,PASP,1,98,2023,2,17,RM,60,S,LevelDistanceLRF,23.9,56.4,,,,2,,Con,33.4,Distance to tree calculated estimated with pythagoreous theorem. See datasheet for diagram.,Fairly developed understory
+32,32,5,PASP,1,98,2023,2,17,RM,60,W,LevelDistanceLRF,10.6,47.4,,,,2,,Con,,,Fairly developed understory
+32,32,5,PASP,1,98,2023,2,17,RM,60,W,LevelDistanceLRF,17.1,53.8,,,,2,,Con,,,Fairly developed understory
+32,32,5,PASP,1,98,2023,2,17,RM,60,W,LevelDistanceLRF,17.7,43.7,,,,2,,Con,17.7,,Fairly developed understory
+33,33,5,PASP,2,80,2023,2,17,RM,60,N,DirectLRF,,,,,,2,11.7,Decid,,,Deciduous corridor through conifer forest ~25m wide.
+33,33,5,PASP,2,80,2023,2,17,RM,60,N,LevelDistanceLRF,8.9,27.7,,,,2,,Decid,,,Deciduous corridor through conifer forest ~25m wide.
+33,33,5,PASP,2,80,2023,2,17,RM,60,N,LevelDistanceLRF,15.5,31.5,,,,2,,Con,14.8,,Deciduous corridor through conifer forest ~25m wide.
+33,33,5,PASP,2,80,2023,2,17,RM,60,E,DirectLRF,,,,,,2,23.7,Decid,,,Deciduous corridor through conifer forest ~25m wide.
+33,33,5,PASP,2,80,2023,2,17,RM,60,E,LevelDistanceLRF,7.6,26.1,,,,2,,Decid,,,Deciduous corridor through conifer forest ~25m wide.
+33,33,5,PASP,2,80,2023,2,17,RM,60,E,LevelDistanceLRF,17.9,41.5,,,,2,,Con,19.4,,Deciduous corridor through conifer forest ~25m wide.
+33,33,5,PASP,2,80,2023,2,17,RM,60,S,LevelDistanceLRF,12.1,26.3,,,,2,,Decid,,,Deciduous corridor through conifer forest ~25m wide.
+33,33,5,PASP,2,80,2023,2,17,RM,60,S,LevelDistanceLRF,15,23.2,,,,2,,Decid,,,Deciduous corridor through conifer forest ~25m wide.
+33,33,5,PASP,2,80,2023,2,17,RM,60,S,LevelDistanceLRF,28,35.7,,,,2,,Decid,28,,Deciduous corridor through conifer forest ~25m wide.
+33,33,5,PASP,2,80,2023,2,17,RM,60,W,DirectLRF,,,,,,2,26.1,Decid,,,Deciduous corridor through conifer forest ~25m wide.
+33,33,5,PASP,2,80,2023,2,17,RM,60,W,DirectLRF,,,,,,2,24.3,Decid,,,Deciduous corridor through conifer forest ~25m wide.
+33,33,5,PASP,2,80,2023,2,17,RM,60,W,LevelDistanceLRF,18.3,30.9,,,,2,,Decid,18.3,,Deciduous corridor through conifer forest ~25m wide.
+34,34,6,MAFL,1,9,2023,2,19,SF,40,N,LevelDistanceLRF,7.1,16.3,,,,1.7,,Decid,,,
+34,34,6,MAFL,1,9,2023,2,19,SF,40,N,LevelDistanceLRF,10,16.7,,,,1.7,,Decid,,,
+34,34,6,MAFL,1,9,2023,2,19,SF,40,N,LevelDistanceLRF,7.7,23.1,,,,1.7,,Decid,8,,
+34,34,6,MAFL,1,9,2023,2,19,SF,40,W,DownslopeDistanceLRF,9.5,21,9.7,,,,,Decid,,,
+34,34,6,MAFL,1,9,2023,2,19,SF,40,W,DownslopeDistanceLRF,9.5,18.2,9.6,,,,,Decid,,,
+34,34,6,MAFL,1,9,2023,2,19,SF,40,W,DownslopeDistanceLRF,8.8,18.9,9.7,,,,,Decid,6.8,,
+34,34,6,MAFL,1,9,2023,2,19,SF,40,S,LevelDistanceLRF,6.1,13.6,,,,1.7,,Decid,,,
+34,34,6,MAFL,1,9,2023,2,19,SF,40,S,LevelDistanceLRF,7.1,16.7,,,,1.7,,Decid,,,
+34,34,6,MAFL,1,9,2023,2,19,SF,40,S,LevelDistanceLRF,6.1,17.6,,,,1.7,,Decid,8,,
+34,34,6,MAFL,1,9,2023,2,19,SF,40,E,LevelDistanceLRF,6.2,8.2,,,,1.7,,Decid,,,
+34,34,6,MAFL,1,9,2023,2,19,SF,40,E,LevelDistanceLRF,7.7,9.3,,,,1.7,,Decid,,,
+34,34,6,MAFL,1,9,2023,2,19,SF,40,E,LevelDistanceLRF,10.8,15.7,,,,,,Decid,8.7,,
+35,35,6,MAFL,2,-11,2023,2,19,SF,60,NW,LevelDistanceLRF,16.2,18,,,,1.7,,Decid,,,
+35,35,6,MAFL,2,-11,2023,2,19,SF,60,NW,LevelDistanceLRF,17,20.1,,,,1.7,,Decid,,,
+35,35,6,MAFL,2,-11,2023,2,19,SF,60,NW,LevelDistanceLRF,18,22.3,,,,1.7,,Decid,18.9,,
+35,35,6,MAFL,2,-11,2023,2,19,SF,60,SW,LevelDistanceLRF,9.6,18.2,,,,1.7,,Decid,,,
+35,35,6,MAFL,2,-11,2023,2,19,SF,60,SW,LevelDistanceLRF,13.4,18,,,,1.7,,Decid,,,
+35,35,6,MAFL,2,-11,2023,2,19,SF,60,SW,LevelDistanceLRF,22.8,25,,,,1.7,,Decid,22.1,,
+35,35,6,MAFL,2,-11,2023,2,19,SF,60,SE,LevelDistanceLRF,8.9,14.9,,,,1.7,,Decid,,,
+35,35,6,MAFL,2,-11,2023,2,19,SF,60,SE,LevelDistanceLRF,10.8,13.4,,,,1.7,,Decid,,,
+35,35,6,MAFL,2,-11,2023,2,19,SF,60,SE,LevelDistanceLRF,11.6,16.5,,,,1.7,,Decid,10.8,,
+35,35,6,MAFL,2,-11,2023,2,19,SF,60,NE,LevelDistanceLRF,11.6,18.5,,,,1.7,,Decid,,,
+35,35,6,MAFL,2,-11,2023,2,19,SF,60,NE,LevelDistanceLRF,13.4,18.4,,,,1.7,,Decid,,,
+35,35,6,MAFL,2,-11,2023,2,19,SF,60,NE,LevelDistanceLRF,19.3,24,,,,1.7,,Decid,19.5,,
+36,36,6,MAFL,3,-6,2023,2,19,SF,60,N,LevelDistanceLRF,6.1,13.4,,,,1.7,,Decid,,,
+36,36,6,MAFL,3,-6,2023,2,19,SF,60,N,LevelDistanceLRF,9.6,22.4,,,,1.7,,Decid,,,
+36,36,6,MAFL,3,-6,2023,2,19,SF,60,N,LevelDistanceLRF,9.9,22.9,,,,1.7,,Decid,4.5,Distance to tree estimate by paces as tree was too close for laser rangefinder.,
+36,36,6,MAFL,3,-6,2023,2,19,SF,60,W,LevelDistanceLRF,7.1,26.5,,,,1.7,,Decid,,,
+36,36,6,MAFL,3,-6,2023,2,19,SF,60,W,LevelDistanceLRF,8,30.5,,,,1.7,,Decid,,,
+36,36,6,MAFL,3,-6,2023,2,19,SF,60,W,LevelDistanceLRF,8.1,19.4,,,,1.7,,Decid,16.1,,
+36,36,6,MAFL,3,-6,2023,2,19,SF,60,S,LevelDistanceLRF,12.3,21,,,,1.7,,Decid,,,
+36,36,6,MAFL,3,-6,2023,2,19,SF,60,S,LevelDistanceLRF,15.3,22.1,,,,1.7,,Decid,,,
+36,36,6,MAFL,3,-6,2023,2,19,SF,60,S,LevelDistanceLRF,17.7,19,,,,1.7,,Decid,24,,
+36,36,6,MAFL,3,-6,2023,2,19,SF,60,E,LevelDistanceLRF,8.3,22.1,,,,1.7,,Decid,,,
+36,36,6,MAFL,3,-6,2023,2,19,SF,60,E,LevelDistanceLRF,10.8,22.6,,,,1.7,,Decid,,,
+36,36,6,MAFL,3,-6,2023,2,19,SF,60,E,LevelDistanceLRF,10.8,19.1,,,,1.7,,Decid,16.3,,
+37,37,7,BULA,1,11,2023,2,20,RM,20,N,LevelDistanceLRF,7.7,12.5,,,,2,,Decid,,,
+37,37,7,BULA,1,11,2023,2,20,RM,20,N,LevelDistanceLRF,14.4,22.2,,,,2.5,,Decid,,,
+37,37,7,BULA,1,11,2023,2,20,RM,20,N,LevelDistanceLRF,16.4,22.9,,,,2.5,,Decid,16.4,,
+37,37,7,BULA,1,11,2023,2,20,RM,20,E,LevelDistanceLRF,6.8,8.1,,,,2,,Decid,,,
+37,37,7,BULA,1,11,2023,2,20,RM,20,E,LevelDistanceLRF,7.1,10.6,,,,2,,Decid,,,
+37,37,7,BULA,1,11,2023,2,20,RM,20,E,LevelDistanceLRF,7.1,9.9,,,,2.5,,Decid,15.6,,
+37,37,7,BULA,1,11,2023,2,20,RM,20,S,LevelDistanceLRF,6.1,7,,,,2,,Decid,,,
+37,37,7,BULA,1,11,2023,2,20,RM,20,S,LevelDistanceLRF,6.8,7.7,,,,2,,Decid,,,
+37,37,7,BULA,1,11,2023,2,20,RM,20,S,LevelDistanceLRF,12.4,17.6,,,,2,,Decid,33,Distance to tree calculated estimated with trigonometry. See datasheet for diagram.,
+37,37,7,BULA,1,11,2023,2,20,RM,20,W,LevelDistanceLRF,12.5,32.7,,,,2,,Con,,,
+37,37,7,BULA,1,11,2023,2,20,RM,20,W,LevelDistanceLRF,12.7,13.9,,,,2,,Decid,,,
+37,37,7,BULA,1,11,2023,2,20,RM,20,W,LevelDistanceLRF,19,26.2,,,,1,,Decid,19,,
+38,38,7,BULA,2,11,2023,2,20,RM,20,N,LevelDistanceLRF,23,40.6,,,,2,,Con,,,
+38,38,7,BULA,2,11,2023,2,20,RM,20,N,LevelDistanceLRF,9.8,24.9,,,,2,,Con,,,
+38,38,7,BULA,2,11,2023,2,20,RM,20,N,LevelDistanceLRF,19,28.4,,,,2,,Con,20.2,,
+38,38,7,BULA,2,11,2023,2,20,RM,20,E,LevelDistanceLRF,10.8,26,,,,2,,Con,,,
+38,38,7,BULA,2,11,2023,2,20,RM,20,E,LevelDistanceLRF,11,13.4,,,,1,,Con,,,
+38,38,7,BULA,2,11,2023,2,20,RM,20,E,LevelDistanceLRF,8.9,20.9,,,,2.5,,Decid,13.3,,
+38,38,7,BULA,2,11,2023,2,20,RM,20,S,LevelDistanceLRF,11.6,16.8,,,,2,,Decid,,,
+38,38,7,BULA,2,11,2023,2,20,RM,20,S,LevelAngleSmartphoneDistanceLRF,31.4,,,,15,2,,Decid,,,
+38,38,7,BULA,2,11,2023,2,20,RM,20,S,LevelAngleSmartphoneDistanceLRF,52.1,,,,20,2,,Decid,53.1,,
+38,38,7,BULA,2,11,2023,2,20,RM,20,W,LevelDistanceLRF,13.5,31.7,,,,2.5,,Con,,,
+38,38,7,BULA,2,11,2023,2,20,RM,20,W,LevelDistanceLRF,22.3,27.6,,,,2.5,,Con,,,
+38,38,7,BULA,2,11,2023,2,20,RM,20,W,LevelDistanceLRF,26.8,35.3,,,,2.5,,Con,26.8,,
+39,39,7,BULA,3,0,2023,2,20,RM,40,N,LevelDistanceLRF,8,13.4,,,,2,,Decid,,,
+39,39,7,BULA,3,0,2023,2,20,RM,40,N,LevelDistanceLRF,16.2,18.6,,,,2,,Decid,,,
+39,39,7,BULA,3,0,2023,2,20,RM,40,N,LevelDistanceLRF,20.9,28.9,,,,2,,Con,20.9,,
+39,39,7,BULA,3,0,2023,2,20,RM,40,E,LevelDistanceLRF,7.1,16.7,,,,2,,Decid,,,
+39,39,7,BULA,3,0,2023,2,20,RM,40,E,LevelDistanceLRF,12.7,15.5,,,,2,,Decid,,,
+39,39,7,BULA,3,0,2023,2,20,RM,40,E,LevelDistanceLRF,16.6,21.9,,,,2,,Decid,17.9,,
+39,39,7,BULA,3,0,2023,2,20,RM,40,S,DirectLRF,,,,,,2,6.6,Decid,,,
+39,39,7,BULA,3,0,2023,2,20,RM,40,S,LevelDistanceLRF,8.4,17.2,,,,2,,Decid,,,
+39,39,7,BULA,3,0,2023,2,20,RM,40,S,LevelDistanceLRF,14.3,21.3,,,,2,,Decid,22.1,,
+39,39,7,BULA,3,0,2023,2,20,RM,40,W,DirectLRF,,,,,,2,10.5,Decid,,,
+39,39,7,BULA,3,0,2023,2,20,RM,40,W,LevelDistanceLRF,6.1,10.2,,,,2,,Con,,,
+39,39,7,BULA,3,0,2023,2,20,RM,40,W,LevelDistanceLRF,6.9,10.4,,,,2,,Con,9.5,,
+41,41,8,MTBE,1,376,2023,3,10,RM,80,N,DirectLRF,,,,,,2,32.1,Con,,,
+41,41,8,MTBE,1,376,2023,3,10,RM,80,N,LevelDistanceLRF,8.9,24.1,,,,2,,Con,,,
+41,41,8,MTBE,1,376,2023,3,10,RM,80,N,LevelDistanceLRF,14.8,29.8,,,,2,,Con,14.8,,
+41,41,8,MTBE,1,376,2023,3,10,RM,80,E,DirectLRF,,,,,,3,31.1,Con,,,
+41,41,8,MTBE,1,376,2023,3,10,RM,80,E,DownslopeDistanceLRF,10.8,27.2,11.5,,,,,Con,,,
+41,41,8,MTBE,1,376,2023,3,10,RM,80,E,DownslopeDistanceLRF,15.5,30.3,16.2,,,,,Con,15.5,,
+41,41,8,MTBE,1,376,2023,3,10,RM,80,S,LevelDistanceLRF,8.9,30.5,,,,,,Con,,,
+41,41,8,MTBE,1,376,2023,3,10,RM,80,S,DirectLRF,,,,,,2,32.3,Con,,,
+41,41,8,MTBE,1,376,2023,3,10,RM,80,S,LevelDistanceLRF,8.8,34.9,,,,,,Con,13.4,,
+41,41,8,MTBE,1,376,2023,3,10,RM,80,W,LevelDistanceLRF,9.3,31.5,,,,,,Con,,,
+41,41,8,MTBE,1,376,2023,3,10,RM,80,W,LevelDistanceLRF,18,39.6,,,,,,Con,,,
+41,41,8,MTBE,1,376,2023,3,10,RM,80,W,LevelDistanceLRF,24.2,44.1,,,,-1,,Con,24.2,,
+42,42,8,MTBE,2,458,2023,3,10,RM,80,N,DownslopeDistanceLRF,6.1,24.3,6.8,,,,,Con,,,
+42,42,8,MTBE,2,458,2023,3,10,RM,80,N,DownslopeDistanceLRF,6.8,22.6,7.1,,,,,Con,,,
+42,42,8,MTBE,2,458,2023,3,10,RM,80,N,DownslopeDistanceLRF,7.1,22.6,7.9,,,,,Con,7.1,,
+42,42,8,MTBE,2,458,2023,3,10,RM,80,E,DownslopeDistanceLRF,6.5,28.8,6.8,,,,,Con,,,
+42,42,8,MTBE,2,458,2023,3,10,RM,80,E,DownslopeDistanceLRF,7.1,22,8,,,,,Con,,,
+42,42,8,MTBE,2,458,2023,3,10,RM,80,E,LevelDistanceLRF,10.8,26.3,,,,2,,Con,10.8,,
+42,42,8,MTBE,2,458,2023,3,10,RM,80,S,DirectLRF,,,,,,2,25.7,Con,,,
+42,42,8,MTBE,2,458,2023,3,10,RM,80,S,DirectLRF,,,,,,2,27.5,Con,,,
+42,42,8,MTBE,2,458,2023,3,10,RM,80,S,DirectLRF,,,,,,2,24.1,Con,4,Distance to tree estimate by paces as tree was too close for laser rangefinder.,
+42,42,8,MTBE,2,458,2023,3,10,RM,80,W,LevelDistanceLRF,8.9,35.2,,,,,,Con,,,
+42,42,8,MTBE,2,458,2023,3,10,RM,80,W,LevelDistanceLRF,13.6,22.9,,,,,,Con,,,
+42,42,8,MTBE,2,458,2023,3,10,RM,80,W,DirectLRF,,,,,,,24.3,Con,11.6,,
+43,43,8,MTBE,3,561,2023,3,10,RM,80,N,LevelDistanceLRF,6.1,19.9,,,,1,,Con,,,
+43,43,8,MTBE,3,561,2023,3,10,RM,80,N,LevelDistanceLRF,6.7,16.9,,,,1,,Con,,,
+43,43,8,MTBE,3,561,2023,3,10,RM,80,N,LevelDistanceLRF,8,15.4,,,,2,,Con,8,,
+43,43,8,MTBE,3,561,2023,3,10,RM,80,E,DirectLRF,,,,,,2,22.9,Con,,,
+43,43,8,MTBE,3,561,2023,3,10,RM,80,E,DownslopeDistanceLRF,6.6,20.2,7,,,,,Con,,,
+43,43,8,MTBE,3,561,2023,3,10,RM,80,E,DownslopeDistanceLRF,7.6,18.9,8,,,,,Con,7.6,,
+43,43,8,MTBE,3,561,2023,3,10,RM,80,S,DirectLRF,,,,,,2,2,Con,,,
+43,43,8,MTBE,3,561,2023,3,10,RM,80,S,LevelDistanceLRF,7.9,24.9,,,,2,,Con,,,
+43,43,8,MTBE,3,561,2023,3,10,RM,80,S,DownslopeDistanceLRF,6.5,24.8,6.8,,,,,Con,6.5,,
+43,43,8,MTBE,3,561,2023,3,10,RM,80,W,DirectLRF,,,,,,1,20.6,Con,,,
+43,43,8,MTBE,3,561,2023,3,10,RM,80,W,LevelDistanceLRF,7.1,21.6,,,,,,Con,,,
+43,43,8,MTBE,3,561,2023,3,10,RM,80,W,LevelDistanceLRF,11.5,26.3,,,,,,Con,11.5,,
+44,44,8,MTBE,4,666,2023,3,10,RM,60,N,DirectLRF,,,,,,2,16.2,Con,,,
+44,44,8,MTBE,4,666,2023,3,10,RM,60,N,LevelDistanceLRF,6.1,23.1,,,,1,,Con,,,
+44,44,8,MTBE,4,666,2023,3,10,RM,60,N,DownslopeDistanceLRF,8.9,17,9.6,,,,,Con,8.9,,
+44,44,8,MTBE,4,666,2023,3,10,RM,60,E,DownslopeDistanceLRF,6.1,15.7,6.1,,,,,Con,,,
+44,44,8,MTBE,4,666,2023,3,10,RM,60,E,DownslopeDistanceLRF,6.1,12.4,6.8,,,,,Con,,,
+44,44,8,MTBE,4,666,2023,3,10,RM,60,E,DownslopeDistanceLRF,8.9,17.9,8.9,,,,,Con,8.9,,
+44,44,8,MTBE,4,666,2023,3,10,RM,60,S,DirectLRF,,,,,,1,13.4,Con,,,
+44,44,8,MTBE,4,666,2023,3,10,RM,60,S,DirectLRF,,,,,,,16.4,Con,,,
+44,44,8,MTBE,4,666,2023,3,10,RM,60,S,DirectLRF,,,,,,1,16.8,Con,4,Distance to tree estimate by paces as tree was too close for laser rangefinder.,
+44,44,8,MTBE,4,666,2023,3,10,RM,60,W,LevelDistanceLRF,6.1,16.2,,,,,,Con,,,
+44,44,8,MTBE,4,666,2023,3,10,RM,60,W,LevelDistanceLRF,7.9,17.1,,,,,,Con,,,
+44,44,8,MTBE,4,666,2023,3,10,RM,60,W,LevelDistanceLRF,7.1,16.2,,,,1,,Con,7.1,,
+45,45,8,MTBE,5,784,2023,3,10,RM,60,N,DirectLRF,,,,,,2,13.9,Decid,,,~1m of snow on the ground.
+45,45,8,MTBE,5,784,2023,3,10,RM,60,N,LevelDistanceLRF,6.1,9.9,,,,2,,Decid,,,~1m of snow on the ground.
+45,45,8,MTBE,5,784,2023,3,10,RM,60,N,LevelDistanceLRF,7.2,20.2,,,,1,,Con,7.2,,~1m of snow on the ground.
+45,45,8,MTBE,5,784,2023,3,10,RM,60,E,LevelDistanceLRF,6.1,11.2,,,,2,,Decid,,,~1m of snow on the ground.
+45,45,8,MTBE,5,784,2023,3,10,RM,60,E,LevelDistanceLRF,11.6,16.3,,,,1,,Con,,,~1m of snow on the ground.
+45,45,8,MTBE,5,784,2023,3,10,RM,60,E,LevelDistanceLRF,11.6,16.1,,,,3,,Con,11.5,,~1m of snow on the ground.
+45,45,8,MTBE,5,784,2023,3,10,RM,60,S,LevelDistanceEstimate,3,14,,,,2,,Con,,,~1m of snow on the ground.
+45,45,8,MTBE,5,784,2023,3,10,RM,60,S,DirectLRF,,,,,,2,15.1,Con,,,~1m of snow on the ground.
+45,45,8,MTBE,5,784,2023,3,10,RM,60,S,LevelDistanceLRF,6.1,19.1,,,,,,Con,6.2,,~1m of snow on the ground.
+45,45,8,MTBE,5,784,2023,3,10,RM,60,W,LevelDistanceLRF,6.1,12.1,,,,,,Decid,,,~1m of snow on the ground.
+45,45,8,MTBE,5,784,2023,3,10,RM,60,W,LevelDistanceLRF,6.1,15.1,,,,2,,Con,,,~1m of snow on the ground.
+45,45,8,MTBE,5,784,2023,3,10,RM,60,W,DownslopeDistanceLRF,6.1,12.7,6.1,,,4,,Decid,6.1,,~1m of snow on the ground.
+46,46,9,GABR,1,142,2023,3,11,RM,60,N,LevelDistanceLRF,6.1,8.6,,,,2,,Con,,,
+46,46,9,GABR,1,142,2023,3,11,RM,60,N,LevelDistanceLRF,6.1,12,,,,2,,Decid,,,
+46,46,9,GABR,1,142,2023,3,11,RM,60,N,DownslopeDistanceLRF,9.6,14,10.2,,,,,Con,10.6,,
+46,46,9,GABR,1,142,2023,3,11,RM,60,E,LevelDistanceLRF,6.1,12.1,,,,2,,Decid,,,
+46,46,9,GABR,1,142,2023,3,11,RM,60,E,LevelDistanceLRF,7.5,22.1,,,,,,Con,,,
+46,46,9,GABR,1,142,2023,3,11,RM,60,E,LevelDistanceLRF,8,14.3,,,,,,Decid,8.1,,
+46,46,9,GABR,1,142,2023,3,11,RM,60,S,LevelDistanceLRF,6.5,11.2,,,,2,,Decid,,,
+46,46,9,GABR,1,142,2023,3,11,RM,60,S,LevelDistanceLRF,6.1,11.9,,,,1,,Decid,,,
+46,46,9,GABR,1,142,2023,3,11,RM,60,S,LevelDistanceLRF,6.9,12.8,,,,2,,Decid,6.9,,
+46,46,9,GABR,1,142,2023,3,11,RM,60,W,LevelDistanceLRF,8,13.3,,,,1,,Decid,,,
+46,46,9,GABR,1,142,2023,3,11,RM,60,W,LevelDistanceLRF,7.1,12.8,,,,1,,Con,,,
+46,46,9,GABR,1,142,2023,3,11,RM,60,W,LevelDistanceLRF,8.7,14.4,,,,2,,Decid,4,Distance to tree estimate by paces as tree was too close for laser rangefinder.,
+47,47,9,GABR,2,147,2023,3,11,RM,40,N,LevelDistanceLRF,6.6,15.1,,,,2,,Con,,,
+47,47,9,GABR,2,147,2023,3,11,RM,40,N,LevelDistanceLRF,8.9,12.2,,,,2,,Con,,,
+47,47,9,GABR,2,147,2023,3,11,RM,40,N,LevelDistanceLRF,8,14.9,,,,2,,Con,18.5,Distance to tree calculated estimated with trigonometry. See datasheet for diagram.,
+47,47,9,GABR,2,147,2023,3,11,RM,40,E,LevelDistanceLRF,6.1,9.9,,,,2,,Decid,,,
+47,47,9,GABR,2,147,2023,3,11,RM,40,E,LevelDistanceLRF,7.1,8.7,,,,2,,Con,,,
+47,47,9,GABR,2,147,2023,3,11,RM,40,E,LevelDistanceLRF,10.2,13.1,,,,2,,Con,10.2,,
+47,47,9,GABR,2,147,2023,3,11,RM,40,S,LevelDistanceLRF,8,12,,,,2,,Decid,,,
+47,47,9,GABR,2,147,2023,3,11,RM,40,S,LevelDistanceLRF,6.1,9.8,,,,2,,Decid,,,
+47,47,9,GABR,2,147,2023,3,11,RM,40,S,LevelDistanceLRF,8,16.1,,,,2,,Con,8.9,,
+47,47,9,GABR,2,147,2023,3,11,RM,40,W,DirectLRF,,,,,,2,10.6,Decid,,,
+47,47,9,GABR,2,147,2023,3,11,RM,40,W,LevelDistanceLRF,7.1,11.4,,,,2,,Decid,,,
+47,47,9,GABR,2,147,2023,3,11,RM,40,W,LevelDistanceLRF,7.9,12.7,,,,2,,Decid,7.9,,
+48,48,9,GABR,3,136,2023,3,11,RM,40,N,DirectLRF,,,,,,2,6.7,Decid,,,This point was called GABR-1 the first time we came (end of Feb) - count wasn't complete due to snow so redesignating to GABR-3 now.
+48,48,9,GABR,3,136,2023,3,11,RM,40,N,DirectLRF,,,,,,2,6.1,Decid,,,This point was called GABR-1 the first time we came (end of Feb) - count wasn't complete due to snow so redesignating to GABR-3 now.
+48,48,9,GABR,3,136,2023,3,11,RM,40,N,LevelDistanceLRF,8,10.8,,,,3,,Decid,6.8,,This point was called GABR-1 the first time we came (end of Feb) - count wasn't complete due to snow so redesignating to GABR-3 now.
+48,48,9,GABR,3,136,2023,3,11,RM,40,E,LevelDistanceLRF,6.1,9,,,,2,,Decid,,,This point was called GABR-1 the first time we came (end of Feb) - count wasn't complete due to snow so redesignating to GABR-3 now.
+48,48,9,GABR,3,136,2023,3,11,RM,40,E,LevelDistanceLRF,7.7,10.8,,,,2,,Decid,,,This point was called GABR-1 the first time we came (end of Feb) - count wasn't complete due to snow so redesignating to GABR-3 now.
+48,48,9,GABR,3,136,2023,3,11,RM,40,E,LevelDistanceLRF,9.6,11.7,,,,2,,Decid,9.6,,This point was called GABR-1 the first time we came (end of Feb) - count wasn't complete due to snow so redesignating to GABR-3 now.
+48,48,9,GABR,3,136,2023,3,11,RM,40,S,LevelDistanceLRF,8.9,14.6,,,,2,,Decid,,,This point was called GABR-1 the first time we came (end of Feb) - count wasn't complete due to snow so redesignating to GABR-3 now.
+48,48,9,GABR,3,136,2023,3,11,RM,40,S,LevelDistanceLRF,9.3,13.3,,,,2,,Decid,,,This point was called GABR-1 the first time we came (end of Feb) - count wasn't complete due to snow so redesignating to GABR-3 now.
+48,48,9,GABR,3,136,2023,3,11,RM,40,S,LevelDistanceLRF,12.5,14.5,,,,2,,Decid,13.4,,This point was called GABR-1 the first time we came (end of Feb) - count wasn't complete due to snow so redesignating to GABR-3 now.
+48,48,9,GABR,3,136,2023,3,11,RM,40,W,LevelDistanceLRF,6.1,9.9,,,,2,,Decid,,,This point was called GABR-1 the first time we came (end of Feb) - count wasn't complete due to snow so redesignating to GABR-3 now.
+48,48,9,GABR,3,136,2023,3,11,RM,40,W,LevelDistanceLRF,10.8,13,,,,2,,Decid,,,This point was called GABR-1 the first time we came (end of Feb) - count wasn't complete due to snow so redesignating to GABR-3 now.
+48,48,9,GABR,3,136,2023,3,11,RM,40,W,LevelDistanceLRF,11.2,13.5,,,,2,10,Decid,11.2,,This point was called GABR-1 the first time we came (end of Feb) - count wasn't complete due to snow so redesignating to GABR-3 now.
+49,49,9,GABR,4,128,2023,3,11,RM,60,N,DirectLRF,,,,,,2,7.5,Decid,,,Some remnant old conifers in area.
+49,49,9,GABR,4,128,2023,3,11,RM,60,N,DirectLRF,,,,,,2,,Decid,,,Some remnant old conifers in area.
+49,49,9,GABR,4,128,2023,3,11,RM,60,N,LevelDistanceLRF,7.1,12.1,,,,2,,Decid,7.1,,Some remnant old conifers in area.
+49,49,9,GABR,4,128,2023,3,11,RM,60,E,LevelDistanceLRF,6.6,12,,,,2,,Decid,,,Some remnant old conifers in area.
+49,49,9,GABR,4,128,2023,3,11,RM,60,E,LevelDistanceLRF,6.8,12,,,,2,,Decid,,,Some remnant old conifers in area.
+49,49,9,GABR,4,128,2023,3,11,RM,60,E,LevelDistanceLRF,8.5,13.5,,,,2,,Decid,8.5,,Some remnant old conifers in area.
+49,49,9,GABR,4,128,2023,3,11,RM,60,S,DirectLRF,,,,,,2,11.9,Decid,,,Some remnant old conifers in area.
+49,49,9,GABR,4,128,2023,3,11,RM,60,S,DirectLRF,,,,,,2,12.7,Decid,,,Some remnant old conifers in area.
+49,49,9,GABR,4,128,2023,3,11,RM,60,S,LevelDistanceLRF,10,15.9,,,,2,,Decid,5,Distance to tree estimate by paces as tree was too close for laser rangefinder.,Some remnant old conifers in area.
+49,49,9,GABR,4,128,2023,3,11,RM,60,W,DirectLRF,,,,,,2,7.6,Decid,,,Some remnant old conifers in area.
+49,49,9,GABR,4,128,2023,3,11,RM,60,W,LevelDistanceLRF,6.9,11.7,,,,2,,Decid,,,Some remnant old conifers in area.
+49,49,9,GABR,4,128,2023,3,11,RM,60,W,LevelDistanceLRF,10.8,14.4,,,,2,,Decid,10.8,,Some remnant old conifers in area.
+50,50,9,GABR,5,124,2023,3,11,RM,40,N,LevelDistanceLRF,9,16,,,,2,,Con,,,
+50,50,9,GABR,5,124,2023,3,11,RM,40,N,LevelDistanceLRF,14.7,23.3,,,,2,,Con,,,
+50,50,9,GABR,5,124,2023,3,11,RM,40,N,LevelDistanceLRF,11.7,16.7,,,,2,,Con,11.6,,
+50,50,9,GABR,5,124,2023,3,11,RM,40,E,LevelDistanceLRF,7.2,10.9,,,,2,,Decid,,,
+50,50,9,GABR,5,124,2023,3,11,RM,40,E,LevelDistanceLRF,8.9,12.5,,,,2,,Con,,,
+50,50,9,GABR,5,124,2023,3,11,RM,40,E,LevelDistanceLRF,16.4,24,,,,1,,Con,16.4,,
+50,50,9,GABR,5,124,2023,3,11,RM,40,S,LevelDistanceLRF,6.8,12.7,,,,2,,Decid,,,
+50,50,9,GABR,5,124,2023,3,11,RM,40,S,LevelDistanceLRF,6.8,10.9,,,,2,,Decid,,,
+50,50,9,GABR,5,124,2023,3,11,RM,40,S,LevelDistanceLRF,9.5,12.9,,,,2,,Decid,7.1,,
+50,50,9,GABR,5,124,2023,3,11,RM,40,W,LevelDistanceLRF,16.7,19.2,,,,2,,Decid,,,
+50,50,9,GABR,5,124,2023,3,11,RM,40,W,LevelDistanceLRF,27.9,28.4,,,,2,,Decid,,,
+50,50,9,GABR,5,124,2023,3,11,RM,40,W,LevelDistanceLRF,28.7,29,,,,2,,Decid,28.7,,
+51,51,9,GABR,6,119,2023,3,11,RM,20,N,LevelDistanceLRF,6.9,7.7,,,,2,,Con,,,Corrected from GABR-3 on the sheet to GABR-6.
+51,51,9,GABR,6,119,2023,3,11,RM,20,N,LevelDistanceLRF,7.7,8.4,,,,2,,Con,,,Corrected from GABR-3 on the sheet to GABR-6.
+51,51,9,GABR,6,119,2023,3,11,RM,20,N,LevelDistanceLRF,6.9,7.7,,,,2,,Con,6.9,,Corrected from GABR-3 on the sheet to GABR-6.
+51,51,9,GABR,6,119,2023,3,11,RM,20,E,LevelDistanceLRF,9.6,19.4,,,,2,,Con,,,Corrected from GABR-3 on the sheet to GABR-6.
+51,51,9,GABR,6,119,2023,3,11,RM,20,E,LevelDistanceLRF,9.5,20.4,,,,2,,Con,,,Corrected from GABR-3 on the sheet to GABR-6.
+51,51,9,GABR,6,119,2023,3,11,RM,20,E,LevelDistanceLRF,16.2,24.9,,,,1,,Con,17,Distance to tree calculated estimated with trigonometry. See datasheet for diagram.,Corrected from GABR-3 on the sheet to GABR-6.
+51,51,9,GABR,6,119,2023,3,11,RM,20,S,LevelDistanceLRF,12.5,16.5,,,,2,,Con,,,Corrected from GABR-3 on the sheet to GABR-6.
+51,51,9,GABR,6,119,2023,3,11,RM,20,S,LevelDistanceLRF,8.2,13.8,,,,2,,Con,,,Corrected from GABR-3 on the sheet to GABR-6.
+51,51,9,GABR,6,119,2023,3,11,RM,20,S,LevelDistanceLRF,30.1,34.7,,,,2,,Decid,30.1,,Corrected from GABR-3 on the sheet to GABR-6.
+51,51,9,GABR,6,119,2023,3,11,RM,20,W,DirectEstimate,,,,,,,3,Con,,,Corrected from GABR-3 on the sheet to GABR-6.
+51,51,9,GABR,6,119,2023,3,11,RM,20,W,DirectEstimate,,,,,,,3.5,Con,,,Corrected from GABR-3 on the sheet to GABR-6.
+51,51,9,GABR,6,119,2023,3,11,RM,20,W,LevelDistanceLRF,15.4,20.9,,,,2,,Con,15.4,,Corrected from GABR-3 on the sheet to GABR-6.
+52,52,9,GABR,7,123,2023,3,11,RM,60,N,DirectLRF,,,,,,2,15.2,Decid,,,
+52,52,9,GABR,7,123,2023,3,11,RM,60,N,DirectLRF,,,,,,2,10.4,Decid,,,
+52,52,9,GABR,7,123,2023,3,11,RM,60,N,DirectLRF,,,,,,2,13.5,Decid,4.6,Distance to tree estimate by paces as tree was too close for laser rangefinder.,
+52,52,9,GABR,7,123,2023,3,11,RM,60,E,LevelDistanceLRF,8.8,14.4,,,,1,,Decid,,,
+52,52,9,GABR,7,123,2023,3,11,RM,60,E,LevelDistanceLRF,14.3,20.4,,,,,,Con,,,
+52,52,9,GABR,7,123,2023,3,11,RM,60,E,LevelDistanceLRF,18,25.2,,,,,,Con,18,,
+52,52,9,GABR,7,123,2023,3,11,RM,60,S,LevelDistanceLRF,6.8,16.1,,,,2,,Decid,,,
+52,52,9,GABR,7,123,2023,3,11,RM,60,S,LevelDistanceLRF,15.3,16.8,,,,2,,Decid,,,
+52,52,9,GABR,7,123,2023,3,11,RM,60,S,LevelDistanceLRF,20.4,20.9,,,,1,,Decid,20.4,,
+52,52,9,GABR,7,123,2023,3,11,RM,60,W,DirectLRF,,,,,,2,14.3,Decid,,,
+52,52,9,GABR,7,123,2023,3,11,RM,60,W,LevelDistanceLRF,9.7,23.5,,,,2,,Con,,,
+52,52,9,GABR,7,123,2023,3,11,RM,60,W,LevelDistanceLRF,15.5,19.9,,,,2,,Decid,15.8,,
+53,53,9,GABR,8,118,2023,3,11,RM,60,N,DirectLRF,,,,,,2,7.9,Decid,,,
+53,53,9,GABR,8,118,2023,3,11,RM,60,N,LevelDistanceLRF,7.1,13.6,,,,2,,Con,,,
+53,53,9,GABR,8,118,2023,3,11,RM,60,N,LevelDistanceLRF,7.1,11.5,,,,2,,Con,7.1,,
+53,53,9,GABR,8,118,2023,3,11,RM,60,E,DirectLRF,,,,,,2,10.4,Decid,,,
+53,53,9,GABR,8,118,2023,3,11,RM,60,E,LevelDistanceLRF,13.2,31.1,,,,2,,Con,,,
+53,53,9,GABR,8,118,2023,3,11,RM,60,E,LevelDistanceLRF,10.9,16.2,,,,2,,Con,10.9,,
+53,53,9,GABR,8,118,2023,3,11,RM,60,S,DirectLRF,,,,,,2,9.4,Decid,,,
+53,53,9,GABR,8,118,2023,3,11,RM,60,S,DirectLRF,,,,,,2,10.8,Decid,,,
+53,53,9,GABR,8,118,2023,3,11,RM,60,S,LevelDistanceLRF,6.8,12.9,,,,2,,Decid,6.8,,
+53,53,9,GABR,8,118,2023,3,11,RM,60,W,LevelDistanceLRF,6.1,14.1,,,,2,,Decid,,,
+53,53,9,GABR,8,118,2023,3,11,RM,60,W,LevelDistanceLRF,7.7,14.4,,,,2,,Decid,,,
+53,53,9,GABR,8,118,2023,3,11,RM,60,W,LevelDistanceLRF,8,17.2,,,,2,,Decid,8,,
+54,54,10,LINL,1,175,2023,3,12,RM,60,N,LevelDistanceLRF,6.2,10.1,,,,2,,Decid,,,
+54,54,10,LINL,1,175,2023,3,12,RM,60,N,LevelDistanceLRF,6.1,11.5,,,,2,,Decid,,,
+54,54,10,LINL,1,175,2023,3,12,RM,60,N,LevelDistanceLRF,8,12.6,,,,2,,Decid,6.1,,
+54,54,10,LINL,1,175,2023,3,12,RM,60,E,LevelDistanceLRF,6.1,11.5,,,,2,,Decid,,,
+54,54,10,LINL,1,175,2023,3,12,RM,60,E,LevelDistanceLRF,7.1,12.3,,,,2,,Decid,,,
+54,54,10,LINL,1,175,2023,3,12,RM,60,E,LevelDistanceLRF,14.4,32.5,,,,,,Con,14.4,,
+54,54,10,LINL,1,175,2023,3,12,RM,60,S,LevelDistanceLRF,9.5,11,,,,2,,Decid,,,
+54,54,10,LINL,1,175,2023,3,12,RM,60,S,LevelDistanceLRF,15.5,20.7,,,,2,,Decid,,,
+54,54,10,LINL,1,175,2023,3,12,RM,60,S,LevelDistanceLRF,17.5,30.3,,,,2,,Decid,17.5,,
+54,54,10,LINL,1,175,2023,3,12,RM,60,W,LevelDistanceLRF,7.6,17.7,,,,2,,Con,,,
+54,54,10,LINL,1,175,2023,3,12,RM,60,W,LevelDistanceEstimate,8,33.3,,,,2,,Con,,,
+54,54,10,LINL,1,175,2023,3,12,RM,60,W,LevelDistanceLRF,15.5,22.4,,,,2,,Con,23.5,Distance to tree calculated estimated with trigonometry. See datasheet for diagram.,
+55,55,10,LINL,2,156,2023,3,12,RM,40,N,DownslopeDistanceLRF,14.3,23.6,15.2,,,,,Decid,,,
+55,55,10,LINL,2,156,2023,3,12,RM,40,N,LevelDistanceLRF,23.6,36.6,,,,3,,Con,,,
+55,55,10,LINL,2,156,2023,3,12,RM,40,N,DirectLRF,23.4,27.1,,,,,23.5,Con,23.4,Raw height written as well as horiz/hypotenuese. Will use DirectLRF method.,
+55,55,10,LINL,2,156,2023,3,12,RM,40,E,LevelDistanceLRF,13.4,20.3,,,,2,,Decid,,,
+55,55,10,LINL,2,156,2023,3,12,RM,40,E,LevelDistanceLRF,18,36.1,,,,2,,Con,,,
+55,55,10,LINL,2,156,2023,3,12,RM,40,E,LevelDistanceLRF,15.5,30.5,,,,3,,Con,32,Distance to tree calculated estimated with trigonometry. See datasheet for diagram.,
+55,55,10,LINL,2,156,2023,3,12,RM,40,S,LevelDistanceLRF,8.8,18.3,,,,2,,Con,,,
+55,55,10,LINL,2,156,2023,3,12,RM,40,S,LevelDistanceLRF,17.7,25.4,,,,1,,Con,,,
+55,55,10,LINL,2,156,2023,3,12,RM,40,S,LevelDistanceLRF,22.4,32.6,,,,2,,Decid,22.4,,
+55,55,10,LINL,2,156,2023,3,12,RM,40,W,LevelDistanceLRF,9.6,24.3,,,,2,,Decid,,,
+55,55,10,LINL,2,156,2023,3,12,RM,40,W,LevelDistanceLRF,14.3,29,,,,2,,Con,,,
+55,55,10,LINL,2,156,2023,3,12,RM,40,W,LevelDistanceLRF,16.2,21.6,,,,2,,Decid,16.2,,
+56,56,10,LINL,3,206,2023,3,12,RM,60,N,DirectLRF,,,,,,2,10.2,Decid,,,
+56,56,10,LINL,3,206,2023,3,12,RM,60,N,LevelDistanceLRF,7.1,16.4,,,,1,,Con,,,
+56,56,10,LINL,3,206,2023,3,12,RM,60,N,DownslopeDistanceLRF,15.7,16.4,16.1,,,,,Decid,12.1,,
+56,56,10,LINL,3,206,2023,3,12,RM,60,E,DirectLRF,,,,,,2,10.1,Decid,,,
+56,56,10,LINL,3,206,2023,3,12,RM,60,E,LevelDistanceLRF,9.5,12,,,,3,,Decid,,,
+56,56,10,LINL,3,206,2023,3,12,RM,60,E,LevelDistanceLRF,10.9,13,,,,3,,Decid,11,,
+56,56,10,LINL,3,206,2023,3,12,RM,60,S,DirectLRF,,,,,,2,9,Decid,,,
+56,56,10,LINL,3,206,2023,3,12,RM,60,S,LevelDistanceLRF,6.1,11.6,,,,,,Decid,,,
+56,56,10,LINL,3,206,2023,3,12,RM,60,S,LevelDistanceLRF,9.6,19.6,,,,2,,Decid,13.4,,
+56,56,10,LINL,3,206,2023,3,12,RM,60,W,DirectLRF,,,,,,2,11.2,Decid,,,
+56,56,10,LINL,3,206,2023,3,12,RM,60,W,LevelDistanceLRF,8.9,16,,,,2,,Con,,,
+56,56,10,LINL,3,206,2023,3,12,RM,60,W,LevelDistanceLRF,10.8,14.1,,,,2,,Con,10.8,,
+57,57,10,LINL,4,177,2023,3,12,RM,40,N,DirectLRF,,,,,,2,9.7,Decid,,,
+57,57,10,LINL,4,177,2023,3,12,RM,40,N,LevelDistanceLRF,6.1,10.3,,,,2,,Decid,,,
+57,57,10,LINL,4,177,2023,3,12,RM,40,N,LevelDistanceLRF,10.4,13.2,,,,2,,Decid,10.4,,
+57,57,10,LINL,4,177,2023,3,12,RM,40,E,LevelDistanceLRF,10.8,18.7,,,,,,Decid,,,
+57,57,10,LINL,4,177,2023,3,12,RM,40,E,LevelDistanceLRF,11.3,14.5,,,,,,Decid,,,
+57,57,10,LINL,4,177,2023,3,12,RM,40,E,LevelDistanceLRF,14.4,15.9,,,,,,Decid,14.4,,
+57,57,10,LINL,4,177,2023,3,12,RM,40,S,LevelDistanceLRF,6.1,10.7,,,,2,,Decid,,,
+57,57,10,LINL,4,177,2023,3,12,RM,40,S,LevelDistanceLRF,8.9,13.3,,,,2,,Decid,,,
+57,57,10,LINL,4,177,2023,3,12,RM,40,S,LevelDistanceLRF,11.3,15.5,,,,2,,Decid,11.3,,
+57,57,10,LINL,4,177,2023,3,12,RM,40,W,LevelDistanceLRF,7.9,9.5,,,,2,,Decid,,,
+57,57,10,LINL,4,177,2023,3,12,RM,40,W,LevelDistanceLRF,10,12,,,,,,Decid,,,
+57,57,10,LINL,4,177,2023,3,12,RM,40,W,LevelDistanceLRF,17.1,22.7,,,,-1,,Con,17.2,,
+58,58,11,UPLA,1,3,2023,3,17,SF,20,N,LevelDistanceLRF,13.4,17.3,,,,1.7,,Decid,,,Garry Oaks!
+58,58,11,UPLA,1,3,2023,3,17,SF,20,N,LevelDistanceLRF,8.9,16,,,,1.7,,Decid,,,Garry Oaks!
+58,58,11,UPLA,1,3,2023,3,17,SF,20,N,LevelDistanceLRF,27.6,28.7,,,,1.7,,Decid,31.3,Distance to tree calculated estimated with trigonometry. See datasheet for diagram.,Garry Oaks!
+58,58,11,UPLA,1,3,2023,3,17,SF,20,E,LevelDistanceLRF,14.3,14.3,,,,1.7,,Decid,,,Garry Oaks!
+58,58,11,UPLA,1,3,2023,3,17,SF,20,E,LevelDistanceLRF,8,8.9,,,,1.7,,Decid,,,Garry Oaks!
+58,58,11,UPLA,1,3,2023,3,17,SF,20,E,LevelDistanceLRF,10.8,11.2,,,,1.7,,Decid,29.6,,Garry Oaks!
+58,58,11,UPLA,1,3,2023,3,17,SF,20,S,LevelDistanceLRF,11.1,14.3,,,,1.7,,Decid,,,Garry Oaks!
+58,58,11,UPLA,1,3,2023,3,17,SF,20,S,LevelDistanceLRF,11.4,12.3,,,,1.7,,Decid,,,Garry Oaks!
+58,58,11,UPLA,1,3,2023,3,17,SF,20,S,LevelDistanceLRF,11.6,14.2,,,,1.7,,Decid,7.1,,Garry Oaks!
+58,58,11,UPLA,1,3,2023,3,17,SF,20,W,LevelDistanceLRF,11.5,12.4,,,,1.7,,Decid,,,Garry Oaks!
+58,58,11,UPLA,1,3,2023,3,17,SF,20,W,LevelDistanceLRF,8.6,12.2,,,,1.7,,Decid,,,Garry Oaks!
+58,58,11,UPLA,1,3,2023,3,17,SF,20,W,LevelDistanceLRF,10.8,13.4,,,,1.7,,Decid,24,,Garry Oaks!
+59,59,11,UPLA,2,5,2023,3,17,SF,20,N,LevelDistanceLRF,8.6,10.5,,,,1.7,,Decid,,,Basically 100% cover of a 2m thicket
+59,59,11,UPLA,2,5,2023,3,17,SF,20,N,LevelDistanceLRF,6.1,6.8,,,,1.7,,Decid,,,Basically 100% cover of a 2m thicket
+59,59,11,UPLA,2,5,2023,3,17,SF,20,N,LevelDistanceLRF,10.5,12.3,,,,1.7,,Decid,47.4,Distance to tree calculated estimated with trigonometry. See datasheet for diagram.,Basically 100% cover of a 2m thicket
+59,59,11,UPLA,2,5,2023,3,17,SF,20,W,LevelDistanceLRF,25.1,29.3,,,,1.7,,Decid,,,Basically 100% cover of a 2m thicket
+59,59,11,UPLA,2,5,2023,3,17,SF,20,W,LevelDistanceLRF,35.4,37.3,,,,1.7,,Decid,,,Basically 100% cover of a 2m thicket
+59,59,11,UPLA,2,5,2023,3,17,SF,20,W,LevelDistanceLRF,31.6,34.1,,,,1.7,,Decid,18.9,,Basically 100% cover of a 2m thicket
+59,59,11,UPLA,2,5,2023,3,17,SF,20,E (Do not include in density calculations),LevelDistanceLRF,19.9,21,,,,1.7,,Decid,,Had to go around thicket to even have a chance at measuringÉ not the three closest trees but tried to pick representative ones),Basically 100% cover of a 2m thicket
+59,59,11,UPLA,2,5,2023,3,17,SF,20,E (Do not include in density calculations),LevelDistanceLRF,15.3,18,,,,1.7,,Decid,,Had to go around thicket to even have a chance at measuringÉ not the three closest trees but tried to pick representative ones),Basically 100% cover of a 2m thicket
+59,59,11,UPLA,2,5,2023,3,17,SF,20,E (Do not include in density calculations),LevelDistanceLRF,14.3,16.3,,,,1.7,,Decid,27,Had to go around thicket to even have a chance at measuringÉ not the three closest trees but tried to pick representative ones),Basically 100% cover of a 2m thicket
+59,59,11,UPLA,2,5,2023,3,17,SF,20,S,LevelAngleSmartphoneDistanceLRF,,20.9,,,19,2,,Decid,,,Basically 100% cover of a 2m thicket
+59,59,11,UPLA,2,5,2023,3,17,SF,20,S,LevelAngleSmartphoneDistanceLRF,,23.1,,,6,2,,Decid,,,Basically 100% cover of a 2m thicket
+59,59,11,UPLA,2,5,2023,3,17,SF,20,S,LevelAngleSmartphoneDistanceLRF,,31.8,,,9,2,,Decid,31.4,Distance to tree calculated estimated with trigonometry. See datasheet for diagram.,Basically 100% cover of a 2m thicket
+60,60,11,UPLA,3,0,2023,3,17,SF,40,N,LevelDistanceLRF,25.5,32.1,,,,1.7,,Decid,,,"Open clearing, but NW edges full of trees + S, eastern side super open."
+60,60,11,UPLA,3,0,2023,3,17,SF,40,N,LevelDistanceLRF,26.3,34.2,,,,1.7,,Decid,,,"Open clearing, but NW edges full of trees + S, eastern side super open."
+60,60,11,UPLA,3,0,2023,3,17,SF,40,N,LevelDistanceLRF,29.5,35.3,,,,1.7,,Decid,29.5,,"Open clearing, but NW edges full of trees + S, eastern side super open."
+60,60,11,UPLA,3,0,2023,3,17,SF,40,W,LevelDistanceLRF,7.1,8.7,,,,1.7,,Decid,,,"Open clearing, but NW edges full of trees + S, eastern side super open."
+60,60,11,UPLA,3,0,2023,3,17,SF,40,W,LevelDistanceLRF,17,20.5,,,,1.7,,Decid,,,"Open clearing, but NW edges full of trees + S, eastern side super open."
+60,60,11,UPLA,3,0,2023,3,17,SF,40,W,LevelDistanceLRF,17.6,20.8,,,,1.7,,Decid,17.6,,"Open clearing, but NW edges full of trees + S, eastern side super open."
+60,60,11,UPLA,3,0,2023,3,17,SF,40,S,LevelDistanceLRF,10.8,10.9,,,,1.7,,Decid,,,"Open clearing, but NW edges full of trees + S, eastern side super open."
+60,60,11,UPLA,3,0,2023,3,17,SF,40,S,LevelDistanceLRF,14.8,15.8,,,,1.7,,Decid,,,"Open clearing, but NW edges full of trees + S, eastern side super open."
+60,60,11,UPLA,3,0,2023,3,17,SF,40,S,LevelDistanceLRF,18.3,19.6,,,,1.7,,Decid,31.3,,"Open clearing, but NW edges full of trees + S, eastern side super open."
+60,60,11,UPLA,3,0,2023,3,17,SF,40,E,LevelDistanceLRF,31.5,35.6,,,,1.7,,Decid,,,"Open clearing, but NW edges full of trees + S, eastern side super open."
+60,60,11,UPLA,3,0,2023,3,17,SF,40,E,LevelDistanceLRF,38.3,43,,,,1.7,,Decid,,,"Open clearing, but NW edges full of trees + S, eastern side super open."
+60,60,11,UPLA,3,0,2023,3,17,SF,40,E,LevelDistanceLRF,40.1,41.9,,,,1.7,,Decid,40.1,,"Open clearing, but NW edges full of trees + S, eastern side super open."
+61,61,11,MTTO,1,86,2023,3,17,SF,40,N,LevelDistanceLRF,10.5,10.8,,,,1.7,,Decid,,,All garry oaks.
+61,61,11,MTTO,1,86,2023,3,17,SF,40,N,LevelDistanceLRF,11.4,12.5,,,,1.7,,Decid,,,All garry oaks.
+61,61,11,MTTO,1,86,2023,3,17,SF,40,N,LevelDistanceLRF,27.4,29.2,,,,0,,Decid,27.4,,All garry oaks.
+61,61,11,MTTO,1,86,2023,3,17,SF,40,W,LevelDistanceLRF,8,10.3,,,,0,,Decid,,,All garry oaks.
+61,61,11,MTTO,1,86,2023,3,17,SF,40,W,LevelDistanceLRF,15.2,14.8,,,,0,,Decid,,,All garry oaks.
+61,61,11,MTTO,1,86,2023,3,17,SF,40,W,LevelDistanceLRF,12.5,13.6,,,,1.7,,Decid,20.9,,All garry oaks.
+61,61,11,MTTO,1,86,2023,3,17,SF,40,S,LevelDistanceLRF,21.6,21.9,,,,1.7,,Decid,,,All garry oaks.
+61,61,11,MTTO,1,86,2023,3,17,SF,40,S,LevelDistanceLRF,22.7,23.7,,,,1.7,,Decid,,,All garry oaks.
+61,61,11,MTTO,1,86,2023,3,17,SF,40,S,LevelDistanceLRF,29.6,34.8,,,,1.7,,Decid,29.6,,All garry oaks.
+61,61,11,MTTO,1,86,2023,3,17,SF,40,E,LevelDistanceLRF,8.9,8.9,,,,1.7,,Decid,,,All garry oaks.
+61,61,11,MTTO,1,86,2023,3,17,SF,40,E,LevelDistanceLRF,8.9,9,,,,1.7,,Decid,,,All garry oaks.
+61,61,11,MTTO,1,86,2023,3,17,SF,40,E,LevelDistanceLRF,9,10.8,,,,1.7,,Decid,9,,All garry oaks.
+62,62,12,MTQU,1,78,2023,3,18,SF,80,N,LevelDistanceLRF,6.3,15.9,,,,0,,Con,,,
+62,62,12,MTQU,1,78,2023,3,18,SF,80,N,LevelDistanceLRF,6.8,23.6,,,,0,,Con,,,
+62,62,12,MTQU,1,78,2023,3,18,SF,80,N,LevelDistanceLRF,14.2,31.6,,,,1.7,,Con,22.4,,
+62,62,12,MTQU,1,78,2023,3,18,SF,80,W,LevelDistanceLRF,8.9,27,,,,0,,Con,,,
+62,62,12,MTQU,1,78,2023,3,18,SF,80,W,LevelDistanceLRF,8.9,22.9,,,,1.7,,Con,,,
+62,62,12,MTQU,1,78,2023,3,18,SF,80,W,LevelDistanceLRF,10.8,29,,,,0,,Con,10.8,,
+62,62,12,MTQU,1,78,2023,3,18,SF,80,S,LevelDistanceLRF,8,24,,,,1.7,,Con,,,
+62,62,12,MTQU,1,78,2023,3,18,SF,80,S,LevelDistanceLRF,8.9,28.2,,,,1.7,,Con,,,
+62,62,12,MTQU,1,78,2023,3,18,SF,80,S,LevelDistanceLRF,22,33.9,,,,1.7,,Con,22,,
+62,62,12,MTQU,1,78,2023,3,18,SF,80,E,LevelDistanceLRF,12.6,28.7,,,,1.7,,Con,,,
+62,62,12,MTQU,1,78,2023,3,18,SF,80,E,LevelDistanceLRF,13,24.6,,,,1.7,,Con,,,
+62,62,12,MTQU,1,78,2023,3,18,SF,80,E,LevelDistanceLRF,17.4,35.2,,,,1.7,,Con,17.4,,
+63,63,12,MTQU,2,196,2023,3,18,SF,80,NE,LevelDistanceLRF,6.1,15.2,,,,1.7,,Con,,,
+63,63,12,MTQU,2,196,2023,3,18,SF,80,NE,LevelDistanceLRF,7.1,18,,,,1.7,,Con,,,
+63,63,12,MTQU,2,196,2023,3,18,SF,80,NE,LevelDistanceLRF,8,21.6,,,,1.7,,Con,8,,
+63,63,12,MTQU,2,196,2023,3,18,SF,80,NW,LevelDistanceLRF,6.1,20.2,,,,1.7,,Con,,,
+63,63,12,MTQU,2,196,2023,3,18,SF,80,NW,LevelDistanceLRF,6.1,17.7,,,,1.7,,Con,,,
+63,63,12,MTQU,2,196,2023,3,18,SF,80,NW,LevelDistanceLRF,7.7,24.3,,,,1.7,,Con,7.7,,
+63,63,12,MTQU,2,196,2023,3,18,SF,80,SW,LevelDistanceLRF,11.6,27.1,,,,1.7,,Con,,,
+63,63,12,MTQU,2,196,2023,3,18,SF,80,SW,LevelDistanceLRF,17.7,30.5,,,,1.7,,Con,,,
+63,63,12,MTQU,2,196,2023,3,18,SF,80,SW,LevelDistanceLRF,20.8,33.5,,,,1.7,,Con,22.3,,
+63,63,12,MTQU,2,196,2023,3,18,SF,80,SE,LevelDistanceLRF,16.2,28,,,,1.7,,Con,,,
+63,63,12,MTQU,2,196,2023,3,18,SF,80,SE,LevelDistanceLRF,16.2,28.9,,,,1.7,,Con,,,
+63,63,12,MTQU,2,196,2023,3,18,SF,80,SE,LevelDistanceLRF,17.9,32.1,,,,1.7,,Con,22.4,,
+64,64,12,MTQU,3,306,2023,3,18,SF,80,N,LevelDistanceLRF,6.1,13.5,6.1,,,1.7,,Con,,Hemlock.,
+64,64,12,MTQU,3,306,2023,3,18,SF,80,N,LevelDistanceLRF,6.6,9,,,,0,,Decid,,Arbutus.,
+64,64,12,MTQU,3,306,2023,3,18,SF,80,N,DirectEstimate,8.4,,,,,0,13.7,Con,8,About the same height as first North tree.,
+64,64,12,MTQU,3,306,2023,3,18,SF,80,W,LevelDistanceLRF,6.1,13.5,6.1,,,1.7,,Con,,,
+64,64,12,MTQU,3,306,2023,3,18,SF,80,W,DirectEstimate,7.1,,,,,1.7,13.7,Con,,About the same height as first West tree.,
+64,64,12,MTQU,3,306,2023,3,18,SF,80,W,LevelDistanceLRF,6.9,8.6,,,,0,,Decid,9.5,Arbutus.,
+64,64,12,MTQU,3,306,2023,3,18,SF,80,S,LevelDistanceLRF,6.9,13.4,,,,1.7,,Con,,,
+64,64,12,MTQU,3,306,2023,3,18,SF,80,S,LevelDistanceLRF,7,13.3,,,,1.7,,Con,,,
+64,64,12,MTQU,3,306,2023,3,18,SF,80,S,LevelDistanceLRF,10.5,15.4,,,,1,,Con,8.2,,
+64,64,12,MTQU,3,306,2023,3,18,SF,80,E,LevelDistanceLRF,6.1,13.3,,,,1,,Con,,,
+64,64,12,MTQU,3,306,2023,3,18,SF,80,E,LevelDistanceLRF,7.5,15.7,,,,1,,Con,,,
+64,64,12,MTQU,3,306,2023,3,18,SF,80,E,LevelDistanceLRF,7.1,11.6,,,,1.7,,Con,7.9,,
+65,65,12,MTQU,4,387,2023,3,18,SF,60,NW,LevelDistanceLRF,6.1,10.8,,,,1,,Con,,,
+65,65,12,MTQU,4,387,2023,3,18,SF,60,NW,LevelDistanceLRF,6.1,10,,,,1,,Con,,,
+65,65,12,MTQU,4,387,2023,3,18,SF,60,NW,LevelDistanceLRF,26.1,30.1,,,,0,,Decid,26.1,Arbutus.,
+65,65,12,MTQU,4,387,2023,3,18,SF,60,SW,LevelDistanceLRF,6.7,12.5,,,,1.7,,Con,,,
+65,65,12,MTQU,4,387,2023,3,18,SF,60,SW,DirectEstimate,7.1,,,,,1.7,12.3,Con,,About the same height as SW tree 1.,
+65,65,12,MTQU,4,387,2023,3,18,SF,60,SW,DirectEstimate,8,,,,,1.7,12.3,Con,3,About the same height as SW tree 1. Distance to tree estimate by paces as tree was too close for laser rangefinder.,
+65,65,12,MTQU,4,387,2023,3,18,SF,60,SE,LevelDistanceLRF,6.7,14.5,,,,0,,Con,,,
+65,65,12,MTQU,4,387,2023,3,18,SF,60,SE,LevelDistanceLRF,6.1,15.5,,,,0,,Con,,,
+65,65,12,MTQU,4,387,2023,3,18,SF,60,SE,LevelDistanceLRF,8.9,15.6,,,,1,,Con,16.7,,
+65,65,12,MTQU,4,387,2023,3,18,SF,60,NE,LevelDistanceLRF,10.5,24.9,,,,0,,Con,,,
+65,65,12,MTQU,4,387,2023,3,18,SF,60,NE,LevelDistanceLRF,11.5,18.4,,,,0,,Decid,,Arbutus.,
+65,65,12,MTQU,4,387,2023,3,18,SF,60,NE,LevelDistanceLRF,12.9,22.4,,,,0,,Con,10.1,,
+66,66,12,MTQU,5,478,2023,3,18,SF,60,NW,LevelDistanceLRF,6.8,17.7,,,,1.7,,Con,,,
+66,66,12,MTQU,5,478,2023,3,18,SF,60,NW,LevelDistanceLRF,7.7,18.9,,,,1.7,,Con,,,
+66,66,12,MTQU,5,478,2023,3,18,SF,60,NW,LevelDistanceLRF,6.2,18.7,,,,1.7,,Con,5,Distance to tree estimate by paces as tree was too close for laser rangefinder.,
+66,66,12,MTQU,5,478,2023,3,18,SF,60,SW,LevelDistanceLRF,11.5,18,,,,1.7,,Con,,,
+66,66,12,MTQU,5,478,2023,3,18,SF,60,SW,LevelDistanceLRF,10.8,18.5,,,,1.7,,Con,,,
+66,66,12,MTQU,5,478,2023,3,18,SF,60,SW,LevelDistanceLRF,9.5,16.8,,,,1.7,,Con,14.3,,
+66,66,12,MTQU,5,478,2023,3,18,SF,60,SE,LevelDistanceLRF,6.1,15.5,,,,1.7,,Con,,,
+66,66,12,MTQU,5,478,2023,3,18,SF,60,SE,LevelDistanceLRF,6.4,18,,,,1.7,,Con,,,
+66,66,12,MTQU,5,478,2023,3,18,SF,60,SE,LevelDistanceLRF,7.7,15.2,,,,1.7,,Con,6.1,,
+66,66,12,MTQU,5,478,2023,3,18,SF,60,NE,LevelDistanceLRF,6.8,22.2,,,,1.7,,Con,,,
+66,66,12,MTQU,5,478,2023,3,18,SF,60,NE,LevelDistanceLRF,6.8,18.9,,,,1.7,,Con,,,
+66,66,12,MTQU,5,478,2023,3,18,SF,60,NE,LevelDistanceLRF,8,16.7,,,,1.7,,Con,8,,
+67,67,13,SUPA,1,81,2023,3,19,SF,20,N,LevelDistanceLRF,10.8,12.3,,,,1.7,,Decid,,Garry oaks.,
+67,67,13,SUPA,1,81,2023,3,19,SF,20,N,LevelDistanceLRF,12.4,13,,,,1.7,,Decid,,Garry oaks.,
+67,67,13,SUPA,1,81,2023,3,19,SF,20,N,LevelDistanceLRF,18.7,20.1,,,,1.7,,Decid,17.7,Garry oaks.,
+67,67,13,SUPA,1,81,2023,3,19,SF,20,W,LevelDistanceLRF,6.8,8,,,,1.7,,Decid,,Garry oaks.,
+67,67,13,SUPA,1,81,2023,3,19,SF,20,W,LevelDistanceLRF,7.7,8,,,,1.7,,Decid,,Garry oaks.,
+67,67,13,SUPA,1,81,2023,3,19,SF,20,W,LevelDistanceLRF,8.8,9.6,,,,1.7,,Decid,8.8,Garry oaks.,
+67,67,13,SUPA,1,81,2023,3,19,SF,20,S,LevelDistanceLRF,9.7,10.4,,,,1.7,,Decid,,Garry oaks.,
+67,67,13,SUPA,1,81,2023,3,19,SF,20,S,LevelDistanceLRF,10.2,13.1,,,,1.7,,Decid,,Garry oaks.,
+67,67,13,SUPA,1,81,2023,3,19,SF,20,S,LevelDistanceLRF,9.7,13.1,,,,1.7,,Decid,9.7,Garry oaks.,
+67,67,13,SUPA,1,81,2023,3,19,SF,20,E,LevelDistanceLRF,10.2,10.4,,,,1.7,,Decid,,Garry oaks.,
+67,67,13,SUPA,1,81,2023,3,19,SF,20,E,LevelDistanceLRF,15.2,16.2,,,,1.7,,Decid,,Garry oaks.,
+67,67,13,SUPA,1,81,2023,3,19,SF,20,E,LevelDistanceLRF,19.1,16.2,,,,1.7,,Decid,19.1,Garry oaks.,
+68,68,13,PLAY,1,66,2023,3,19,SF,20,N,LevelDistanceLRF,8.8,8.8,,,,1.7,,Decid,,Mostly garry oaks by with some conifers to the west.,
+68,68,13,PLAY,1,66,2023,3,19,SF,20,N,LevelDistanceLRF,8.9,11.5,,,,1.7,,Decid,,Mostly garry oaks by with some conifers to the west.,
+68,68,13,PLAY,1,66,2023,3,19,SF,20,N,LevelDistanceLRF,24.4,23.9,,,,1.7,,Decid,24.4,Mostly garry oaks by with some conifers to the west.,
+68,68,13,PLAY,1,66,2023,3,19,SF,20,W,LevelDistanceLRF,12.8,18.5,,,,1.7,,Decid,,Mostly garry oaks by with some conifers to the west.,
+68,68,13,PLAY,1,66,2023,3,19,SF,20,W,LevelDistanceLRF,20.6,22.2,,,,1.7,,Decid,,Mostly garry oaks by with some conifers to the west.,
+68,68,13,PLAY,1,66,2023,3,19,SF,20,W,LevelDistanceLRF,20.9,22.1,,,,1.7,,Decid,20.9,Mostly garry oaks by with some conifers to the west.,
+68,68,13,PLAY,1,66,2023,3,19,SF,20,S,LevelDistanceLRF,23,26.6,,,,1.7,,Decid,,Mostly garry oaks by with some conifers to the west.,
+68,68,13,PLAY,1,66,2023,3,19,SF,20,S,LevelDistanceLRF,22.3,26.1,,,,1.7,,Decid,,Mostly garry oaks by with some conifers to the west.,
+68,68,13,PLAY,1,66,2023,3,19,SF,20,S,LevelDistanceLRF,28.5,29.2,,,,1.7,,Decid,28.5,Mostly garry oaks by with some conifers to the west.,
+68,68,13,PLAY,1,66,2023,3,19,SF,20,E,LevelDistanceLRF,14.1,16.2,,,,1.7,,Decid,,Mostly garry oaks by with some conifers to the west.,
+68,68,13,PLAY,1,66,2023,3,19,SF,20,E,LevelDistanceLRF,14.3,15.9,,,,1.7,,Decid,,Mostly garry oaks by with some conifers to the west.,
+68,68,13,PLAY,1,66,2023,3,19,SF,20,E,LevelDistanceLRF,15.7,20.9,,,,1.7,,Decid,15.7,Mostly garry oaks by with some conifers to the west.,
+69,69,13,CHHI,1,83,2023,3,19,SF,20,N,LevelDistanceLRF,7.9,6.1,,,,1.7,,Decid,,All Garry Oaks,
+69,69,13,CHHI,1,83,2023,3,19,SF,20,N,LevelDistanceLRF,10.9,11.2,,,,1.7,,Decid,,All Garry Oaks,
+69,69,13,CHHI,1,83,2023,3,19,SF,20,N,LevelDistanceLRF,13.4,13.9,,,,1.7,,Decid,13.4,All Garry Oaks,
+69,69,13,CHHI,1,83,2023,3,19,SF,20,W,LevelDistanceLRF,7.1,7.6,,,,0,,Decid,,All Garry Oaks,
+69,69,13,CHHI,1,83,2023,3,19,SF,20,W,LevelDistanceLRF,8.7,11.5,,,,0,,Decid,,All Garry Oaks,
+69,69,13,CHHI,1,83,2023,3,19,SF,20,W,LevelDistanceLRF,10.2,14,,,,1.7,,Decid,10.2,All Garry Oaks,
+69,69,13,CHHI,1,83,2023,3,19,SF,20,S,LevelDistanceLRF,7.2,9.5,,,,1.7,,Decid,,All Garry Oaks,
+69,69,13,CHHI,1,83,2023,3,19,SF,20,S,DownslopeDistanceLRF,6.1,7.9,6.1,,,1.7,,Decid,,All Garry Oaks,
+69,69,13,CHHI,1,83,2023,3,19,SF,20,S,LevelDistanceLRF,6.1,7.3,,,,1,,Decid,6.1,All Garry Oaks,
+69,69,13,CHHI,1,83,2023,3,19,SF,20,E,DownslopeDistanceLRF,9,10.4,9.4,,,1.7,,Decid,,All Garry Oaks,
+69,69,13,CHHI,1,83,2023,3,19,SF,20,E,DownslopeDistanceLRF,13.8,10.5,13.4,,,1.7,,Decid,,All Garry Oaks,
+69,69,13,CHHI,1,83,2023,3,19,SF,20,E,DownslopeDistanceLRF,13.4,10.9,13.5,,,1.7,,Decid,6.1,All Garry Oaks,
+70,70,13,KOPA,1,23,2023,3,19,SF,80,N,LevelDistanceLRF,7.7,16.2,,,,1.7,,Decid,,,
+70,70,13,KOPA,1,23,2023,3,19,SF,80,N,LevelDistanceLRF,6.1,19.4,,,,1.7,,Decid,,,
+70,70,13,KOPA,1,23,2023,3,19,SF,80,N,LevelDistanceLRF,6.1,21.2,,,,1.7,,Decid,12.2,,
+70,70,13,KOPA,1,23,2023,3,19,SF,80,W,LevelDistanceLRF,6.8,20.2,,,,1.7,,Con,,,
+70,70,13,KOPA,1,23,2023,3,19,SF,80,W,LevelDistanceLRF,11.5,22.3,,,,1.7,,Con,,,
+70,70,13,KOPA,1,23,2023,3,19,SF,80,W,LevelDistanceLRF,7.1,16.8,,,,1.7,,Con,4,Distance to tree estimate by paces as tree was too close for laser rangefinder.,
+70,70,13,KOPA,1,23,2023,3,19,SF,80,S,DownslopeDistanceLRF,6.1,11.5,7.1,,,1.7,,Con,,,
+70,70,13,KOPA,1,23,2023,3,19,SF,80,S,LevelDistanceLRF,6.8,12.4,,,,1.7,,Decid,,,
+70,70,13,KOPA,1,23,2023,3,19,SF,80,S,LevelDistanceLRF,6.1,9.7,,,,1.7,,Decid,7.3,,
+70,70,13,KOPA,1,23,2023,3,19,SF,80,E,LevelDistanceLRF,7.1,18.8,,,,1.7,,Decid,,,
+70,70,13,KOPA,1,23,2023,3,19,SF,80,E,LevelDistanceLRF,13.9,20.3,,,,1.7,,Decid,,,
+70,70,13,KOPA,1,23,2023,3,19,SF,80,E,LevelDistanceLRF,14.9,18,,,,1.7,,Decid,14.9,,
+71,71,14,MTDO,1,64,2023,3,20,SF,80,NW,LevelDistanceLRF,6.4,32.1,,,,1.7,,Con,,,"Canopy all coniferous, developed deciduous midlayer."
+71,71,14,MTDO,1,64,2023,3,20,SF,80,NW,LevelDistanceLRF,8,36.8,,,,1.7,,Con,,,"Canopy all coniferous, developed deciduous midlayer."
+71,71,14,MTDO,1,64,2023,3,20,SF,80,NW,LevelDistanceLRF,14,36.3,,,,1.7,,Con,14,,"Canopy all coniferous, developed deciduous midlayer."
+71,71,14,MTDO,1,64,2023,3,20,SF,80,SW,LevelDistanceLRF,7.9,38.5,,,,1.7,,Con,,,"Canopy all coniferous, developed deciduous midlayer."
+71,71,14,MTDO,1,64,2023,3,20,SF,80,SW,LevelDistanceLRF,8,35.8,,,,1.7,,Con,,,"Canopy all coniferous, developed deciduous midlayer."
+71,71,14,MTDO,1,64,2023,3,20,SF,80,SW,LevelDistanceLRF,11.9,36.6,,,,1.7,,Con,23.5,,"Canopy all coniferous, developed deciduous midlayer."
+71,71,14,MTDO,1,64,2023,3,20,SF,80,SE,LevelDistanceLRF,6.1,37.2,,,,1.7,,Con,,,"Canopy all coniferous, developed deciduous midlayer."
+71,71,14,MTDO,1,64,2023,3,20,SF,80,SE,LevelDistanceLRF,9.7,33.9,,,,1.7,,Con,,,"Canopy all coniferous, developed deciduous midlayer."
+71,71,14,MTDO,1,64,2023,3,20,SF,80,SE,LevelDistanceLRF,13.4,22.7,,,,1.7,,Decid,11.6,,"Canopy all coniferous, developed deciduous midlayer."
+71,71,14,MTDO,1,64,2023,3,20,SF,80,NE,LevelDistanceLRF,7.9,12.1,,,,1.7,,Decid,,"Along trail, so 3 closest trees on side of trail.","Canopy all coniferous, developed deciduous midlayer."
+71,71,14,MTDO,1,64,2023,3,20,SF,80,NE,LevelDistanceLRF,11.5,39.6,,,,1.7,,Con,,"Along trail, so 3 closest trees on side of trail.","Canopy all coniferous, developed deciduous midlayer."
+71,71,14,MTDO,1,64,2023,3,20,SF,80,NE,LevelDistanceLRF,21.9,37.2,,,,1.7,,Con,29.8,"Along trail, so 3 closest trees on side of trail.","Canopy all coniferous, developed deciduous midlayer."
+72,72,14,MTDO,2,86,2023,3,20,SF,80,N,LevelDistanceLRF,10.8,40.2,,,,1.7,,Con,,,"Canopy all coniferous, developed deciduous midlayer."
+72,72,14,MTDO,2,86,2023,3,20,SF,80,N,LevelDistanceLRF,17.7,33.9,,,,1.7,,Con,,,"Canopy all coniferous, developed deciduous midlayer."
+72,72,14,MTDO,2,86,2023,3,20,SF,80,N,LevelDistanceLRF,25.3,22.3,,,,1.7,,Decid,25.3,,"Canopy all coniferous, developed deciduous midlayer."
+72,72,14,MTDO,2,86,2023,3,20,SF,80,W,LevelDistanceLRF,7.1,37.9,,,,1.7,,Con,,,"Canopy all coniferous, developed deciduous midlayer."
+72,72,14,MTDO,2,86,2023,3,20,SF,80,W,LevelDistanceLRF,13.4,16.3,,,,1.7,,Decid,,,"Canopy all coniferous, developed deciduous midlayer."
+72,72,14,MTDO,2,86,2023,3,20,SF,80,W,LevelDistanceLRF,14.3,41.1,,,,1.7,,Con,12.8,,"Canopy all coniferous, developed deciduous midlayer."
+72,72,14,MTDO,2,86,2023,3,20,SF,80,S,LevelDistanceLRF,14.3,18,,,,1.7,,Decid,,,"Canopy all coniferous, developed deciduous midlayer."
+72,72,14,MTDO,2,86,2023,3,20,SF,80,S,LevelDistanceLRF,13.6,42.7,,,,1.7,,Con,,,"Canopy all coniferous, developed deciduous midlayer."
+72,72,14,MTDO,2,86,2023,3,20,SF,80,S,LevelDistanceLRF,16.2,20.8,,,,1.7,,Decid,16.2,,"Canopy all coniferous, developed deciduous midlayer."
+72,72,14,MTDO,2,86,2023,3,20,SF,80,E,LevelDistanceLRF,7.1,38.7,,,,1.7,,Con,,,"Canopy all coniferous, developed deciduous midlayer."
+72,72,14,MTDO,2,86,2023,3,20,SF,80,E,LevelDistanceLRF,8.8,16,,,,1.7,,Decid,,,"Canopy all coniferous, developed deciduous midlayer."
+72,72,14,MTDO,2,86,2023,3,20,SF,80,E,LevelDistanceLRF,15.5,19.6,,,,1.7,,Decid,15.5,,"Canopy all coniferous, developed deciduous midlayer."
+73,73,14,MTDO,3,61,2023,3,20,SF,40,N,LevelDistanceLRF,7.2,24.9,,,,1.7,,Con,,,"""Edge"". Big Garry Oak gap to the NE, coniferous mix to the SW (canopy coniferous)."
+73,73,14,MTDO,3,61,2023,3,20,SF,40,N,LevelDistanceLRF,14.2,16.4,,,,0,,Decid,,,"""Edge"". Big Garry Oak gap to the NE, coniferous mix to the SW (canopy coniferous)."
+73,73,14,MTDO,3,61,2023,3,20,SF,40,N,LevelDistanceLRF,6,8.6,,,,1.7,,Decid,9.4,,"""Edge"". Big Garry Oak gap to the NE, coniferous mix to the SW (canopy coniferous)."
+73,73,14,MTDO,3,61,2023,3,20,SF,40,W,LevelDistanceLRF,7.1,26.6,,,,0,,Con,,,"""Edge"". Big Garry Oak gap to the NE, coniferous mix to the SW (canopy coniferous)."
+73,73,14,MTDO,3,61,2023,3,20,SF,40,W,LevelDistanceLRF,10.6,26.2,,,,0,,Con,,,"""Edge"". Big Garry Oak gap to the NE, coniferous mix to the SW (canopy coniferous)."
+73,73,14,MTDO,3,61,2023,3,20,SF,40,W,LevelDistanceLRF,7.1,27.3,,,,0,,Con,10.8,,"""Edge"". Big Garry Oak gap to the NE, coniferous mix to the SW (canopy coniferous)."
+73,73,14,MTDO,3,61,2023,3,20,SF,40,S,LevelDistanceLRF,7.1,20.5,,,,1.7,,Con,,,"""Edge"". Big Garry Oak gap to the NE, coniferous mix to the SW (canopy coniferous)."
+73,73,14,MTDO,3,61,2023,3,20,SF,40,S,LevelDistanceLRF,6.1,17,,,,1.7,,Con,,,"""Edge"". Big Garry Oak gap to the NE, coniferous mix to the SW (canopy coniferous)."
+73,73,14,MTDO,3,61,2023,3,20,SF,40,S,LevelDistanceLRF,8.1,18.6,,,,1.7,,Con,6.1,,"""Edge"". Big Garry Oak gap to the NE, coniferous mix to the SW (canopy coniferous)."
+73,73,14,MTDO,3,61,2023,3,20,SF,40,E,LevelDistanceLRF,8.9,13.2,,,,1.7,,Decid,,,"""Edge"". Big Garry Oak gap to the NE, coniferous mix to the SW (canopy coniferous)."
+73,73,14,MTDO,3,61,2023,3,20,SF,40,E,LevelDistanceLRF,9.6,15.1,,,,1.7,,Decid,,,"""Edge"". Big Garry Oak gap to the NE, coniferous mix to the SW (canopy coniferous)."
+73,73,14,MTDO,3,61,2023,3,20,SF,40,E,LevelDistanceLRF,15.5,15.6,,,,1,,Decid,15.5,,"""Edge"". Big Garry Oak gap to the NE, coniferous mix to the SW (canopy coniferous)."
